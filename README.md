@@ -187,7 +187,7 @@ This may be done on purpose, GitHub in particular *(I think)* wants repository d
 
 The problem is that basic Markdown doesn’t support all the things that are needed to format a document properly for software documentation. This means that things get added and we have GitHub Flavoured Markdown which supports things such as code fragments, task lists &c. This in itself is also not sufficient and now GitHub Markdown supports certain HTML tags to allow better formatting.
 
-The whole thing is a bit of a mess and is actually quite badly documented. It’s pretty difficult to find out which HTML tags are allowed or not allowed by GitHub. You will spend a lot of time doing Google searches, looking around on the Stack Overflow (https://stackoverflow.com/) website and coming across phrases like *“syntactic sugar*[^2]*”*
+The whole thing is a bit of a mess and is actually quite badly documented. It’s pretty difficult to find out which HTML tags are allowed or not allowed by GitHub. You will spend a lot of time doing Google searches, looking around on the Stack Overflow (https://stackoverflow.com/) website and coming across phrases like *“syntactic sugar*[^2]*”*.
 
 **To overcome some of these problems, I’ve put together descriptions of the things that I’ve discovered and the various work arounds I've found, I’ve also listed some of the more useful sites that I’ve come across in my research[^3] *(clearly, I’m not the only one who found the lack of documentation frustrating)*.**
 
