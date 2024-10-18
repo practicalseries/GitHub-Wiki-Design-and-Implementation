@@ -39,39 +39,39 @@ It goes from the very basics of creating a page from scratch to the more complic
 
 It covers the following topics:
 
-<table>
+<table align="center">
   <tr><!-- MAIN LIST (numbered) -->
     <td>&emsp;</td>
     <td colspan="2">
       <ol>
-        <li>&emsp;Creating a Wiki for a repository</li>
-        <li>&emsp;Cloning a Wiki to a local machine</li>
-        <li>&emsp;Understanding how Wiki pages are stored and structured</li>
-        <li>&emsp;Basic concepts of a Wiki page</li>
-        <li>&emsp;Sidebars and footers</li>
-        <li>&emsp;Imposing a folder structure on a Wiki</li>
-        <li>&emsp;Creating different sidebars and footers for individual pages</li>
-        <li>&emsp;Understanding Markdown, Git Flavoured Markdown and HTML for Wiki pages</li>
-        <li>&emsp;Basic Markdown:</li>
+        <li>&emsp;&emsp;Creating a Wiki for a repository</li>
+        <li>&emsp;&emsp;Cloning a Wiki to a local machine</li>
+        <li>&emsp;&emsp;Understanding how Wiki pages are stored and structured</li>
+        <li>&emsp;&emsp;Basic concepts of a Wiki page</li>
+        <li>&emsp;&emsp;Sidebars and footers</li>
+        <li>&emsp;&emsp;Imposing a folder structure on a Wiki</li>
+        <li>&emsp;&emsp;Creating different sidebars and footers for individual pages</li>
+        <li>&emsp;&emsp;Understanding Markdown, Git Flavoured Markdown and HTML for Wiki pages&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</li>
+        <li>&emsp;&emsp;Basic Markdown:</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
   <tr><!-- SUBLIST -->
-    <td colspan="2">&emsp;&emsp;&emsp;&numsp;&nbsp;</td>
+    <td colspan="2">&emsp;&emsp;&emsp;&emsp;</td>
     <td>
       <ul>
-        <li>&emsp;Body text</li>
-        <li>&emsp;Paragraph</li>
-        <li>&emsp;Line breaks</li>
-        <li>&emsp;Horizontal lines</li>
-        <li>&emsp;Emphasis (bold, italic, underline, strikethrough)</li>
-        <li>&emsp;Lists (numbered, unnumbered, nested and combinations)</li>
-        <li>&emsp;Block quotes</li>
-        <li>&emsp;Headings</li>
-        <li>&emsp;Images</li>
-        <li>&emsp;Links</li>
-        <li>&emsp;Escape characters</li>
-        <li>&emsp;Using special space characters</li>
+        <li>&emsp;&emsp;Body text</li>
+        <li>&emsp;&emsp;Paragraph</li>
+        <li>&emsp;&emsp;Line breaks</li>
+        <li>&emsp;&emsp;Horizontal lines</li>
+        <li>&emsp;&emsp;Emphasis (bold, italic, underline, strikethrough)</li>
+        <li>&emsp;&emsp;Lists (numbered, unnumbered, nested and combinations)</li>
+        <li>&emsp;&emsp;Block quotes</li>
+        <li>&emsp;&emsp;Headings</li>
+        <li>&emsp;&emsp;Images</li>
+        <li>&emsp;&emsp;Links</li>
+        <li>&emsp;&emsp;Escape characters</li>
+        <li>&emsp;&emsp;Using special space characters</li>
       </ul>
     </td>
   </tr><!-- END OF SUBLIST -->
@@ -80,24 +80,24 @@ It covers the following topics:
     <td>&emsp;</td>
     <td colspan="2">
       <ol start="10"><!-- Main list (numbered) -->
-        <li>&emsp;Extended Markdown (Git Flavoured Markdown):</li>
+        <li>&emsp;&emsp;Extended Markdown (Git Flavoured Markdown):</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
   <tr><!-- SUBLIST -->
-    <td colspan="2">&emsp;&emsp;&emsp;&numsp;&nbsp;</td>
+    <td colspan="2">&emsp;&emsp;&emsp;&emsp;</td>
     <td>
       <ul>
-        <li>&emsp;Emojis</li>
-        <li>&emsp;Footnotes and alerts</li>
-        <li>&emsp;Link to headings</li>
-        <li>&emsp;Task lists</li>
-        <li>&emsp;Contents</li>
-        <li>&emsp;Tables (Markdown)</li>
-        <li>&emsp;Code fragments</li>
-        <li>&emsp;Code fragments with syntax highlights</li>
-        <li>&emsp;Built in diagrams (Mermaid)</li>
-        <li>&emsp;Link by reference</li>
+        <li>&emsp;&emsp;Emojis</li>
+        <li>&emsp;&emsp;Footnotes and alerts</li>
+        <li>&emsp;&emsp;Link to headings</li>
+        <li>&emsp;&emsp;Task lists</li>
+        <li>&emsp;&emsp;Contents</li>
+        <li>&emsp;&emsp;Tables (Markdown)</li>
+        <li>&emsp;&emsp;Code fragments</li>
+        <li>&emsp;&emsp;Code fragments with syntax highlights</li>
+        <li>&emsp;&emsp;Built in diagrams (Mermaid)</li>
+        <li>&emsp;&emsp;Link by reference</li>
       </ul>
     </td>
   </tr><!-- END OF SUBLIST -->
@@ -106,22 +106,22 @@ It covers the following topics:
     <td>&emsp;</td>
     <td colspan="2">
       <ol start="11"><!-- Main list (numbered) -->
-        <li>&emsp;HTML within Markdown:</li>
+        <li>&emsp;&emsp;HTML within Markdown:</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
   <tr><!-- SUBLIST -->
-    <td colspan="2">&emsp;&emsp;&emsp;&numsp;&nbsp;</td>
+    <td colspan="2">&emsp;&emsp;&emsp;&emsp;</td>
     <td>
       <ul>
-        <li>&emsp;Names and IDs</li>
-        <li>&emsp;Tables (HTML)</li>
-        <li>&emsp;Tables vertical alignment</li>
-        <li>&emsp;Collapsable content</li>
-        <li>&emsp;Links with HTML</li>
-        <li>&emsp;Images with HTML</li>
-        <li>&emsp;Buttons</li>
-       <li>&emsp;Navigation bars</li>
+        <li>&emsp;&emsp;Names and IDs</li>
+        <li>&emsp;&emsp;Tables (HTML)</li>
+        <li>&emsp;&emsp;Tables vertical alignment</li>
+        <li>&emsp;&emsp;Collapsable content</li>
+        <li>&emsp;&emsp;Links with HTML</li>
+        <li>&emsp;&emsp;Images with HTML</li>
+        <li>&emsp;&emsp;Buttons</li>
+       <li>&emsp;&emsp;Navigation bars</li>
       </ul>
     </td>
   </tr><!-- END OF SUBLIST -->
@@ -130,20 +130,20 @@ It covers the following topics:
     <td>&emsp;</td>
     <td colspan="2">
       <ol start="12"><!-- Main list (numbered) -->
-        <li>&emsp;Differences between Wiki pages and standard GitHub Markdown pages</li>
-        <li>&emsp;PracticalSeries conventions &mdash; How to make the Wiki look good:</li>
+        <li>&emsp;&emsp;Differences between Wiki pages and standard GitHub Markdown pages</li>
+        <li>&emsp;&emsp;PracticalSeries conventions &mdash; How to make the Wiki look good:</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
   <tr><!-- SUBLIST -->
-    <td colspan="2">&emsp;&emsp;&emsp;&numsp;&nbsp;</td>
+    <td colspan="2">&emsp;&emsp;&emsp;&emsp;</td>
     <td>
       <ul>
-        <li>&emsp;Individual Sidebars and footers for each page</li>
-        <li>&emsp;IO Badges</li>
-        <li>&emsp;Conventions for folders, image storage and data storage</li>
-        <li>&emsp;Links to top, bottom and other points on a page</li>
-        <li>&emsp;Making footnotes work on Wiki pages</li>
+        <li>&emsp;&emsp;Individual Sidebars and footers for each page</li>
+        <li>&emsp;&emsp;IO Badges</li>
+        <li>&emsp;&emsp;Conventions for folders, image storage and data storage</li>
+        <li>&emsp;&emsp;Links to top, bottom and other points on a page</li>
+        <li>&emsp;&emsp;Making footnotes work on Wiki pages</li>
       </ul>
     </td>
   </tr><!-- END OF SUBLIST -->
@@ -152,17 +152,17 @@ It covers the following topics:
     <td>&emsp;</td>
     <td colspan="2">
       <ol start="14"><!-- Main list (numbered) -->
-        <li>&emsp;Wiki revision control, commits and rebasing </li>
-        <li>&emsp;Examples, templates and good working practices</li>
-        <li>&emsp;Appendices of HTML escape codes, emojis and cheat sheets</li>
+        <li>&emsp;&emsp;Wiki revision control, commits and rebasing </li>
+        <li>&emsp;&emsp;Examples, templates and good working practices</li>
+        <li>&emsp;&emsp;Appendices of HTML escape codes, emojis and cheat sheets</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
     
   <tr>
-    <th><sup>&hairsp;</sup></th>
-    <th><sup>&hairsp;</sup></th>
-    <th align="left"><sup>Table 1 &mdash; Scope of this repository</sup></th>
+    <th> </th>
+    <th> </th>
+    <th align="left"><sup>&emsp;&#8202;Table 1 &mdash; Scope of this repository</sup></th>
   </tr>
 </table>
 
