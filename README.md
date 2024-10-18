@@ -131,7 +131,7 @@ It covers the following topics:
     <td colspan="2">
       <ol start="12"><!-- Main list (numbered) -->
         <li>&emsp;Differences between Wiki pages and standard GitHub Markdown pages</li>
-        <li>&emsp;PracticalSeries conventions &mdash How to make the Wiki look good:</li>
+        <li>&emsp;PracticalSeries conventions &mdash; How to make the Wiki look good:</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
