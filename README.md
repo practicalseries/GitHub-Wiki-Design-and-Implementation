@@ -2,7 +2,7 @@
 
 <!-- PAL LOGO AND WEB ID START-->
 <img width="896px" src="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/blob/master/ps-logo-github-wiki.svg?bxno=1436" alt="PAL Logo showing Wiki Documentation heading">
-<p align="right"><img height="18px" src="https://img.shields.io/badge/Web_ID-Readme--djd-blue.svg"></p>
+<p align="right"><img height="18px" src="https://img.shields.io/badge/Web_ID-README.md--djr-blue.svg"></p>
 <!-- PAL LOGO AND WEB ID END-->
 
 # GitHub Wiki — Design and Implementation
@@ -19,7 +19,7 @@ The upshot of all this is that what started as a simple template page has become
 
 **&emsp;&emsp;&emsp;https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki**
 
-[^1]: The GitHub documentation is located here:
+[^*1]: The GitHub documentation is located here:
 
     &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
 
@@ -32,8 +32,10 @@ The upshot of all this is that what started as a simple template page has become
 
 **[:arrow_up: Top](#idtop)**<!-- Leave blank line above -->        <!-- LINK TO TOP START -->
 <br><br>  
-## What does this guide cover
-This guide covers pretty much everything you need to know about creating and managing a GitHub Wiki for a repository. It goes from the very basics of creating a page from scratch to the more complicated arrangement of a folder structure, independent sidebars and footers for each page and on to the vagaries of Git Flavoured Markdown, the use of HTML and the various techniques and workarounds that are required to make Wiki pages look good and respond properly.
+## What does this guide cover?
+This guide covers pretty much everything you need to know about creating and managing a GitHub Wiki for a repository. 
+
+It goes from the very basics of creating a page from scratch to the more complicated arrangement of a folder structure, independent sidebars and footers for each page and on to the vagaries of Git Flavoured Markdown, the use of HTML and the various techniques and workarounds that are required to make Wiki pages look good and respond properly.
 
 It covers the following topics:
 
@@ -50,7 +52,7 @@ It covers the following topics:
         <li>&emsp;Imposing a folder structure on a Wiki</li>
         <li>&emsp;Creating different sidebars and footers for individual pages</li>
         <li>&emsp;Understanding Markdown, Git Flavoured Markdown and HTML for Wiki pages</li>
-        <li>&emsp;Basic Markdown</li>
+        <li>&emsp;Basic Markdown:</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
@@ -78,7 +80,7 @@ It covers the following topics:
     <td>&emsp;</td>
     <td colspan="2">
       <ol start="10"><!-- Main list (numbered) -->
-        <li>&emsp;Extended Markdown (Git Flavoured Markdown)</li>
+        <li>&emsp;Extended Markdown (Git Flavoured Markdown):</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
@@ -104,7 +106,7 @@ It covers the following topics:
     <td>&emsp;</td>
     <td colspan="2">
       <ol start="11"><!-- Main list (numbered) -->
-        <li>&emsp;HTML within Markdown</li>
+        <li>&emsp;HTML within Markdown:</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
@@ -118,7 +120,8 @@ It covers the following topics:
         <li>&emsp;Collapsable content</li>
         <li>&emsp;Links with HTML</li>
         <li>&emsp;Images with HTML</li>
-        <li>&emsp;Navigation bars</li>
+        <li>&emsp;Buttons</li>
+       <li>&emsp;Navigation bars</li>
       </ul>
     </td>
   </tr><!-- END OF SUBLIST -->
@@ -128,7 +131,7 @@ It covers the following topics:
     <td colspan="2">
       <ol start="12"><!-- Main list (numbered) -->
         <li>&emsp;Differences between Wiki pages and standard GitHub Markdown pages</li>
-        <li>&emsp;PracticalSeries conventions &mdash How to make the Wiki look good</li>
+        <li>&emsp;PracticalSeries conventions &mdash How to make the Wiki look good:</li>
       </ol>
     </td>
   </tr><!-- END OF MAIN LIST -->
@@ -157,9 +160,9 @@ It covers the following topics:
   </tr><!-- END OF MAIN LIST -->
     
   <tr>
-    <td><sup>&hairsp;</sup></td>
-    <td><sup>&hairsp;</sup></td>
-    <td><sup>&hairsp;</sup></td>
+    <th><sup>&hairsp;</sup></th>
+    <th><sup>&hairsp;</sup></th>
+    <th align="left"><sup>Table 1 &mdash; Scope of this repository</sup></th>
   </tr>
 </table>
 
