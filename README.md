@@ -5,7 +5,7 @@
 <p align="right"><img height="18px" src="https://img.shields.io/badge/Web_ID-README.md--djr-blue.svg"></p>
 <!-- PAL LOGO AND WEB ID END-->
 
-# GitHub Wiki — Design and Implementation
+# GitHub Wiki — Design and Implementation 
 
 This repository is a result of creating various GitHub Wikis for the PracticalSeries repositories.
 
@@ -18,17 +18,6 @@ The upshot of all this is that what started as a simple template page has become
 **The full guide can be found on the Wiki pages for this repository, click the Wiki tab at the top of this page. Alternatively, follow this link:**
 
 **&emsp;&emsp;&emsp;https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki**
-
-[^*1]: The GitHub documentation is located here:
-
-    &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
-
-    Select `Get started` and then `Writing on GitHub`.
-
-    There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
-
-    &emsp;&emsp;&emsp;https://docs.github.com/en/contributing
-        <hr>
 
 **[:arrow_up: Top](#idtop)**<!-- Leave blank line above -->        <!-- LINK TO TOP START -->
 <br><br>  
@@ -198,6 +187,10 @@ Michael Gledhill<br>Chester &mdash; October 2024
 **[:arrow_up: Top](#idtop)**<!-- Leave blank line above -->        <!-- LINK TO TOP START -->
 <br><br>  
 
+<hr>
+
+### Footnotes
+
 [^1]: The GitHub documentation is located here:
 
     &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
@@ -207,7 +200,7 @@ Michael Gledhill<br>Chester &mdash; October 2024
     There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
 
     &emsp;&emsp;&emsp;https://docs.github.com/en/contributing
-
+    <hr>
 
 [^2]: *Syntactic sugar:* a horrible expression that refers to features of a programming language that makes the code easier to read. I suppose along the lines of *“It sweetens the deal”*.
     <hr>
