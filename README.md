@@ -11,7 +11,7 @@ This repository is a result of creating various GitHub Wikis for the PracticalSe
 
 It originally started as a template repository that stored a set of GitHub Wiki page examples that I could quickly access and copy to the more relevant Wiki pages in this repository.
 
-In doing so, I realised that there are various techniques *(some might call them hacks)* to get around the limitations of GitHub Flavoured Markdown (GFM), I also realised that while many features of Wikis are documented by GitHub[^1], the explanations in the GitHub documentation don’t always cover everything (or at least the explanations can be hard to find) and you end up looking around all sorts of websites to find the information.
+In doing so, I realised that there are various techniques *(some might call them hacks)* to get around the limitations of GitHub Flavoured Markdown (GFM), I also realised that while many features of Wikis are documented by GitHub<a name="rn-01" href="#fn-01"><sup>💠1</sup></a>, the explanations in the GitHub documentation don’t always cover everything (or at least the explanations can be hard to find) and you end up looking around all sorts of websites to find the information.
 
 The upshot of all this is that what started as a simple template page has become a bit of a guide for producing GitHub Wiki files. I hope you find it useful.
 
@@ -191,6 +191,20 @@ Michael Gledhill<br>Chester &mdash; October 2024
 
 ### Footnotes
 
+> [!NOTE]
+> <a name="fn-01" href="#rn-01"><sup>💠1</sup></a>&emsp;The GitHub documentation is located here:
+>
+>    &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
+>
+>    Select `Get started` and then `Writing on GitHub`.
+>
+>    There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
+>
+>    &emsp;&emsp;&emsp;https://docs.github.com/en/contributing<a name="fn-01" href="#rn-01">↩</a>
+<hr>
+
+
+
 [^1]: The GitHub documentation is located here:
 
     &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
@@ -200,11 +214,8 @@ Michael Gledhill<br>Chester &mdash; October 2024
     There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
 
     &emsp;&emsp;&emsp;https://docs.github.com/en/contributing
-    <hr>
 
 [^2]: *Syntactic sugar:* a horrible expression that refers to features of a programming language that makes the code easier to read. I suppose along the lines of *“It sweetens the deal”*.
-    <hr>
-
 
 [^3]: The following are some useful sites that cover both the basics and the more esoteric aspects of Markdown.
 
