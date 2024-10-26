@@ -198,6 +198,16 @@ Michael Gledhill<br>Chester &mdash; October 2024
 **[:arrow_up: Top](#idtop)**<!-- Leave blank line above -->        <!-- LINK TO TOP START -->
 <br><br>  
 
+[^1]: The GitHub documentation is located here:
+
+    &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
+
+    Select `Get started` and then `Writing on GitHub`.
+
+    There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
+
+    &emsp;&emsp;&emsp;https://docs.github.com/en/contributing
+
 
 [^2]: *Syntactic sugar:* a horrible expression that refers to features of a programming language that makes the code easier to read. I suppose along the lines of *“It sweetens the deal”*.
     <hr>
