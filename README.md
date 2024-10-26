@@ -208,7 +208,7 @@ Michael Gledhill<br>Chester &mdash; October 2024
 <hr>
 
 > [!NOTE]
-> <a name="fn-03" href="#rn-03"><sup>💠2</sup></a>&emsp;The following are some useful sites that cover both the basics and the more esoteric aspects of Markdown.
+> <a name="fn-03" href="#rn-03"><sup>💠3</sup></a>&emsp;The following are some useful sites that cover both the basics and the more esoteric aspects of Markdown.
 >
 > Firstly (for what it is worth), the official GitHub specification for GitHub flavoured markdown (GFM):
 >
