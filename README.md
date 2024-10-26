@@ -176,9 +176,9 @@ This may be done on purpose, GitHub in particular *(I think)* wants repository d
 
 The problem is that basic Markdown doesn’t support all the things that are needed to format a document properly for software documentation. This means that things get added and we have GitHub Flavoured Markdown which supports things such as code fragments, task lists &c. This in itself is also not sufficient and now GitHub Markdown supports certain HTML tags to allow better formatting.
 
-The whole thing is a bit of a mess and is actually quite badly documented. It’s pretty difficult to find out which HTML tags are allowed or not allowed by GitHub. You will spend a lot of time doing Google searches, looking around on the Stack Overflow (https://stackoverflow.com/) website and coming across phrases like *“syntactic sugar*[^2]*”*.
+The whole thing is a bit of a mess and is actually quite badly documented. It’s pretty difficult to find out which HTML tags are allowed or not allowed by GitHub. You will spend a lot of time doing Google searches, looking around on the Stack Overflow (https://stackoverflow.com/) website and coming across phrases like *“syntactic sugar*<a name="rn-02" href="#fn-02"><sup>💠2</sup></a>*”*.
 
-**To overcome some of these problems, I’ve put together descriptions of the things that I’ve discovered and the various work arounds I've found, I’ve also listed some of the more useful sites that I’ve come across in my research[^3] *(clearly, I’m not the only one who found the lack of documentation frustrating)*.**
+**To overcome some of these problems, I’ve put together descriptions of the things that I’ve discovered and the various work arounds I've found, I’ve also listed some of the more useful sites that I’ve come across in my research<a name="rn-03" href="#fn-03"><sup>💠3</sup></a> *(clearly, I’m not the only one who found the lack of documentation frustrating)*.**
 
 In a later section I’ve put together a series of conventions, examples and templates that I use on the PracticalSeries Wikis these conventions cover most of the things you will want to do within Wiki pages.
 
@@ -194,54 +194,45 @@ Michael Gledhill<br>Chester &mdash; October 2024
 > [!NOTE]
 > <a name="fn-01" href="#rn-01"><sup>💠1</sup></a>&emsp;The GitHub documentation is located here:
 >
->    &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
+> &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
 >
->    Select `Get started` and then `Writing on GitHub`.
+> Select `Get started` and then `Writing on GitHub`.
 >
->    There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
+> There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
 >
->    &emsp;&emsp;&emsp;https://docs.github.com/en/contributing<a name="fn-01" href="#rn-01">↩</a>
+> &emsp;&emsp;&emsp;https://docs.github.com/en/contributing<a name="fn-01" href="#rn-01">↩</a>
 <hr>
 
+> [!NOTE]
+> <a name="fn-02" href="#rn-02"><sup>💠2</sup></a>&emsp;*Syntactic sugar:* a horrible expression that refers to features of a programming language that makes the code easier to read. I suppose along the lines of *“It sweetens the deal”*.<a name="fn-02" href="#rn-02">↩</a>
+<hr>
 
-
-[^1]: The GitHub documentation is located here:
-
-    &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
-
-    Select `Get started` and then `Writing on GitHub`.
-
-    There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
-
-    &emsp;&emsp;&emsp;https://docs.github.com/en/contributing
-
-[^2]: *Syntactic sugar:* a horrible expression that refers to features of a programming language that makes the code easier to read. I suppose along the lines of *“It sweetens the deal”*.
-
-[^3]: The following are some useful sites that cover both the basics and the more esoteric aspects of Markdown.
-
-    Firstly (for what it is worth), the official GitHub specification for GitHub flavoured markdown (GFM):
-
-    &emsp;&emsp;&emsp;https://github.github.com/gfm/
-
-    This is the official specification for what is supported by GFM, it is to a large extent impenetrable and is difficult to understand. Section 4.6 for example, discusses the use of the HTML tag ```<style>``` (example 114) and seems to imply it is supported by GFM. Similarly the ```<script>``` tag is used in example 140; both however, are not supported by GFM. Again, the document is confusing — I may be missing something.
-
-    Next is a much more useful site:
-
-    &emsp;&emsp;&emsp;https://www.markdownguide.org/
-
-    This site is developed by Matt Cone and is a comprehensive list of what Markdown can do. The only slight problem is that is covers various different types of Markdown alternatives (GitHub Flavoured Markdown is only one of many) and the different variations all support different levels of complexity and function, they are all effectively different version of Markdown.
-
-    This site was my goto reference for Markdown and the use of HTML within GitHub flavoured markdown.
-
-    The following covers the features of Markdown in a concise form, it was written by John Gruber who, it so happens, invented Markdown:
-
-    &emsp;&emsp;&emsp;https://daringfireball.net/projects/markdown/basics
-
-    There is one other site listed here that is a bit of an oddball, but I think it may turnout to be quite useful, it’s certainly clever:
-
-    &emsp;&emsp;&emsp;https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
-
-    GitHub Flavoured Markdown supports the use of SVG images. Now it turns out that you can do quite a lot with the SVG format (SVG is really just a container for code that usually renders a graphical image in a vector format). SVG supports the use of a ```ForeignObject``` element and this element can contain HTML and also inline CSS, it is a way around the HTML restrictions imposed by GitHub *(given their obsession with security, I’m surprised they allow it)*.
+> [!NOTE]
+> <a name="fn-03" href="#rn-03"><sup>💠2</sup></a>&emsp;The following are some useful sites that cover both the basics and the more esoteric aspects of Markdown.
+>
+> Firstly (for what it is worth), the official GitHub specification for GitHub flavoured markdown (GFM):
+>
+> &emsp;&emsp;&emsp;https://github.github.com/gfm/
+>
+> This is the official specification for what is supported by GFM, it is to a large extent impenetrable and is difficult to understand. Section 4.6 for example, discusses the use of the HTML tag ```<style>``` (example 114) and seems to imply it is supported by GFM. Similarly the ```<script>``` tag is used in example 140; both however, are not supported by GFM. Again, the document is confusing — I may be missing something.
+>
+>  Next is a much more useful site:
+>
+>  &emsp;&emsp;&emsp;https://www.markdownguide.org/
+>
+> This site is developed by Matt Cone and is a comprehensive list of what Markdown can do. The only slight problem is that is covers various different types of Markdown alternatives (GitHub Flavoured Markdown is only one of many) and the different variations all support different levels of complexity and function, they are all effectively different version of Markdown.
+>  
+>  This site was my goto reference for Markdown and the use of HTML within GitHub flavoured markdown.
+>  
+>  The following covers the features of Markdown in a concise form, it was written by John Gruber who, it so happens, invented Markdown:
+>  
+>  &emsp;&emsp;&emsp;https://daringfireball.net/projects/markdown/basics
+>  
+>  There is one other site listed here that is a bit of an oddball, but I think it may turnout to be quite useful, it’s certainly clever:
+>  
+>  &emsp;&emsp;&emsp;https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
+>  
+>  GitHub Flavoured Markdown supports the use of SVG images. Now it turns out that you can do quite a lot with the SVG format (SVG is really just a container for code that usually renders a graphical image in a vector format). SVG supports the use of a ```ForeignObject``` element and this element can contain HTML and also inline CSS, it is a way around the HTML restrictions imposed by GitHub *(given their obsession with security, I’m surprised they allow it)*.<a name="fn-03" href="#rn-03">↩</a>
  
 
 
