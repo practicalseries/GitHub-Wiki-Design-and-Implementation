@@ -196,7 +196,7 @@ Michael Gledhill<br>Chester &mdash; October 2024
 >
 > &emsp;&emsp;&emsp;https://docs.github.com/en/enterprise-cloud@latest
 >
-> Select <a href="#0" title="Get started, GitHub documentation"><code>Get started</code></a> and then <a href="#0" title="Writing on GitHub, GitHub documentation"><code>Writing on GitHub</code></a>.
+> Select <a href="https://docs.github.com/en/enterprise-cloud@latest/get-started" title="Get started, GitHub documentation"><code>Get started</code></a> and then <a href="https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github" title="Writing on GitHub, GitHub documentation"><code>Writing on GitHub</code></a>.
 >
 > There is also a style guide for GitHub documents (this is GitHub’s own style guide for its own documentation), and it has some useful tips and conventions:
 >
