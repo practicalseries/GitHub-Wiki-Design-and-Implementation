@@ -7,14 +7,6 @@
 
 # GitHub Wiki — Design and Implementation 
 
-
-This is <u>underlined</u> text
-
-This is <ins>underlined insert</ins> text
-
-
-
-
 This repository is a result of creating various GitHub Wikis for the PracticalSeries repositories.
 
 It originally started as a template repository that stored a set of GitHub Wiki page examples that I could quickly access and copy to the more relevant Wiki pages in this repository.
