@@ -233,7 +233,9 @@ Michael Gledhill<br>Chester &mdash; October 2024
 >  &emsp;&emsp;&emsp;https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
 >  
 >  GitHub Flavoured Markdown supports the use of SVG images. Now it turns out that you can do quite a lot with the SVG format (SVG is really just a container for code that usually renders a graphical image in a vector format). SVG supports the use of a ```ForeignObject``` element and this element can contain HTML and also inline CSS, it is a way around the HTML restrictions imposed by GitHub *(given their obsession with security, I’m surprised they allow it)*.<a name="fn-03" href="#rn-03">↩</a>
- 
+
+> **[:arrow_up: Top](#idtop)**<!-- Leave blank line above -->        <!-- LINK TO TOP START -->
+<br><br>  
 
 
 
