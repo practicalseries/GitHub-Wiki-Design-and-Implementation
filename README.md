@@ -2,7 +2,7 @@
 
 <!-- PAL LOGO AND WEB ID START-->
 <img width="896px" src="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/blob/master/ps-logo-github-wiki.svg?bxno=1436" alt="PAL Logo showing Wiki Documentation heading">
-<p align="right"><img height="18px" src="https://img.shields.io/badge/Web_ID-README.md--djr-blue.svg"></p>
+<p align="right"><img height="18px" src="https://img.shields.io/badge/Web_ID-README.md--dka-blue.svg"></p>
 <!-- PAL LOGO AND WEB ID END-->
 
 # GitHub Wiki — Design and Implementation 
