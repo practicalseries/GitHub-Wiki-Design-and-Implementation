@@ -189,7 +189,7 @@ Michael Gledhill<br>Chester &mdash; October 2024
 
 <hr>
 
-### Footnotes
+##### <ins>Footnotes&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</ins>
 
 > [!NOTE]
 > <a name="fn-01" href="#rn-01"><sup>💠1</sup></a>&emsp;The GitHub documentation is located here:
