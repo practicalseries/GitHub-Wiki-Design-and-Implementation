@@ -7,7 +7,7 @@
 
 <table name="t-TOC-01" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- DATA ROW -->   <tr>
-                        <td width="448" align="left" valing="top">
+                        <td width="448" align="left" valign="top">
 <details ><!-- HOME          🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
 <summary>&emsp;&ensp;&nbsp;<a href="../Home.md"><!-- HEAD -->Home</a>
 </summary><!-- BLANK LINE BELOW -->
@@ -239,7 +239,7 @@
 &emsp;&ensp;&hairsp;[9.8.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Relative links from any Wiki page](09.05-links#981relative-links-from-any-wiki-page)<br>
 </details><!--               🟩🟩🟩 -->
                         </td>
-                        <td width="448" align="left" valing="top">
+                        <td width="448" align="left" valign="top">
 <details><!-- [SECTION 10]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
 <summary><a href="../10-tables">10<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Tables</a>
 </summary><!-- BLANK LINE BELOW -->
