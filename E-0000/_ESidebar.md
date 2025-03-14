@@ -43,7 +43,7 @@ licence                                                 ../00-0000/Licence.md
 14-mathematical-formulae
 15-navigation-bars,-badges-and-buttons
 16-practicalseries-wiki-conventions
-16.05-practicalseries-wiki-conventions                  ../16-0500/16.05 PracticalSeries Wiki conventions.md
+16.05-practicalseries-wiki-conventions                  ../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md
 16.06-practicalseries-wiki-conventions
 17-managing-a-wiki
 app-a-html-escape-characters

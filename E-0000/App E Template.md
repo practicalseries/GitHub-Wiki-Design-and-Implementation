@@ -1224,7 +1224,7 @@ x=\frac{-b\pm\sqrt{b^2—4ad}}{2a}
 <!--  15.2     --><a href="15-navigation-bars,-badges-and-buttons#152badges">section&nbsp;15.2</a>
 <!--  16.2     --><a href="16-practicalseries-wiki-conventions##162the-practicalseries-folder-structure">section&nbsp;16.2</a>
 <!--  16.4.1   --><a href="16-practicalseries-wiki-conventions#1641top-of-page-marker">section&nbsp;16.4.1</a>
-<!--  16.5.1   --><a href="../16-0500/16.05 PracticalSeries Wiki conventions.md##1651common-page-elements">section&nbsp;16.5.1</a>
+<!--  16.5.1   --><a href="../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md##1651common-page-elements">section&nbsp;16.5.1</a>
 
 
 <a href="https://shields.io/">Shields.IO</a>

@@ -640,7 +640,7 @@ a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
 <!-- CAPTION TEXT -->Table 11.12 &mdash; Centre aligned image using paragraphs
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
-*There is a third option for controlling image alignment and that is to use a table, this is discussed in <a href="#1125using-a-table-to-contain-an-image">section&nbsp;11.2.5</a>  and <a href="../16-0500/16.05 PracticalSeries Wiki conventions.md#1654images">section&nbsp;16.5.4</a>.*
+*There is a third option for controlling image alignment and that is to use a table, this is discussed in <a href="#1125using-a-table-to-contain-an-image">section&nbsp;11.2.5</a>  and <a href="../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1654images">section&nbsp;16.5.4</a>.*
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
@@ -914,7 +914,7 @@ There is exactly 300 px between the last "t" of the word "start" and the "e" of 
 When setting the ${\large \color{#00B050}\text{width}}$ to the required value, it is important the ${\large \color{#00B050}\text{height}}$ is always set to 1. If no height is specified, increasing the width will also increase the height in the same proportion (in this case, the height would become 300 px too) and this will lead to large gaps above the spaced text.
 
 > [!NOTE]<!-- NOTE ALERT -->
-> *Such spacings can be used in headings and tables of contents as an alternative to using special space characters (the is the approach taken with PracticalSeries Wikis) see <a href="../16-0500/16.05 PracticalSeries Wiki conventions.md#1652headings">section&nbsp;16.5.2</a>.*
+> *Such spacings can be used in headings and tables of contents as an alternative to using special space characters (the is the approach taken with PracticalSeries Wikis) see <a href="../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1652headings">section&nbsp;16.5.2</a>.*
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <br>                        <!-- END OF SECTION - PADDING    🔼🔼(BLANK LINE BELOW) -->
