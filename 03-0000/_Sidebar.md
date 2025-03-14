@@ -97,7 +97,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./01-introducing-the-github-wiki">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
+<summary><a href="../01-introducing-the-github-wiki">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages)<br>
@@ -121,7 +121,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 02]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./02-cloning-a-wiki">2<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Cloning a Wiki</a>
+<summary><a href="../02-cloning-a-wiki">2<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Cloning a Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](#21why-clone-a-wiki)<br>
@@ -133,7 +133,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details open><!-- [SECTION 03]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./03-a-wiki-folder-structure">3<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->A Wiki folder structure</a>
+<summary><a href="../03-a-wiki-folder-structure">3<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->A Wiki folder structure</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[3.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;The default arrangement](#31the-default-arrangement)<br>
@@ -149,7 +149,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 04]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./04-different-sidebars-and-footers">4<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Different sidebars and footers</a>
+<summary><a href="../04-different-sidebars-and-footers">4<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Different sidebars and footers</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[4.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How sidebars work](04-different-sidebars-and-footers#41how-sidebars-work)<br>
@@ -159,7 +159,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 05]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./05-markdown,-github-markdown-and-html">5<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Markdown, GitHub Markdown and HTML</a>
+<summary><a href="../05-markdown,-github-markdown-and-html">5<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Markdown, GitHub Markdown and HTML</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[5.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Some useful Markdown sites](05-markdown,-github-markdown-and-html#51some-useful-markdown-sites)<br>
@@ -178,7 +178,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 06]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./06-basic-markdown-and-text-formatting">6<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Basic Markdown and text formatting</a>
+<summary><a href="../06-basic-markdown-and-text-formatting">6<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Basic Markdown and text formatting</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[6.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Body text and fonts](06-basic-markdown-and-text-formatting#61body-text-and-fonts)<br>
@@ -225,7 +225,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 07]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./07-special-characters-and-escaping-characters">7<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Special characters and escaping characters</a>
+<summary><a href="../07-special-characters-and-escaping-characters">7<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Special characters and escaping characters</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[7.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Escape characters and codes](07-special-characters-and-escaping-characters#71escape-characters-and-character-codes)<br>
@@ -241,7 +241,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 08]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./08-block-quotes,-lists-and-alerts">8<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Block quotes, lists and alerts</a>
+<summary><a href="../08-block-quotes,-lists-and-alerts">8<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Block quotes, lists and alerts</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[8.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Block quotes](08-block-quotes,-lists-and-alerts#81block-quotes)<br>
@@ -272,7 +272,7 @@ app-e-template
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 09]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./09-links">9<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Links</a>
+<summary><a href="../09-links">9<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Links</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[9.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Link to an external web page](09-links#91linking-to-an-external-web-page)<br>

@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-D00--ecn-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # C.<!--         🟥H1🟥--><img width="097" height="1" src="https://psop.uk/wi-s" alt="Spacer">3D Model of a Sierpinski cube
@@ -11,11 +11,11 @@ It is a complicated model, the ASCII STL is 16898 lines long.
 
 The raw Markdown is available as a (readable ASCII STL) text file here:
 
-<p align="center"><a href="./D-0000/04-data/sierpinski cube_sample.txt"><img height="30" src="https://img.shields.io/badge/Download_the_ASCII_STL_Sierpinski_cube-1F883D"></a></p>
+<p align="center"><a href="../D-0000/04-data/sierpinski cube_sample.txt"><img height="30" src="https://img.shields.io/badge/Download_the_ASCII_STL_Sierpinski_cube-1F883D"></a></p>
 
 It is also available as a binary STL file here: 
 
-<p align="center"><a href="./D-0000/04-data/sierpinski cube_sample.stl"><img height="30" src="https://img.shields.io/badge/Download_the_binary_STL_Sierpinski_cube-1F883D"></a></p>
+<p align="center"><a href="../D-0000/04-data/sierpinski cube_sample.stl"><img height="30" src="https://img.shields.io/badge/Download_the_binary_STL_Sierpinski_cube-1F883D"></a></p>
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

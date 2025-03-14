@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-C02--ecn-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 ## C.3<!--      🟥H2🟥--><img width="085" height="1" src="https://psop.uk/wi-s" alt="Spacer">Characters U+01000 to U+01FFF

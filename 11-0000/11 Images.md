@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1100--ecd-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 11<!--        🟥H1🟥--><img width="092" height="1" src="https://psop.uk/wi-s" alt="Spacer">Images
@@ -130,8 +130,8 @@ If for whatever reason, the image file cannot be found (missing file, incorrect 
 
 <table name="f-11-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./11-0000/02-images/figm-11-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./11-0000/02-images/figm-11-01.png" alt="Broken link">
+<!-- LINK -->         <a href="../11-0000/02-images/figm-11-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../11-0000/02-images/figm-11-01.png" alt="Broken link">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 11.1 &mdash; Markdown image broken link
@@ -150,8 +150,8 @@ Image sizes when displayed using direct Markdown, are either always the full wid
 
 <table name="f-11-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./11-0000/02-images/figm-11-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="311" src="./11-0000/02-images/figm-11-02.png" alt="Image in a sidebar">
+<!-- LINK -->         <a href="../11-0000/02-images/figm-11-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="311" src="../11-0000/02-images/figm-11-02.png" alt="Image in a sidebar">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 11.2 &mdash; Image in a sidebar
@@ -212,8 +212,8 @@ Now using Windows file explorer navigate to the image you wish to put on the Wik
 
 <table name="f-11-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./11-0000/02-images/figm-11-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./11-0000/02-images/figm-11-03.png" alt="Drag and drop an image">
+<!-- LINK -->         <a href="../11-0000/02-images/figm-11-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../11-0000/02-images/figm-11-03.png" alt="Drag and drop an image">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 11.3 &mdash; Drag and drop an image into a Wiki page
@@ -224,8 +224,8 @@ When you release the mouse, the link will be automatically created, *it’s a bi
 
 <table name="f-11-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./11-0000/02-images/figm-11-04.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./11-0000/02-images/figm-11-04.png" alt="Image created by GitHub">
+<!-- LINK -->         <a href="../11-0000/02-images/figm-11-04.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../11-0000/02-images/figm-11-04.png" alt="Image created by GitHub">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 11.3 &mdash; Drag and drop image created by GitHub
@@ -267,8 +267,8 @@ If you paste the link above into a browser, you will get the picture of Henry:
 
 <table name="f-11-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./11-0000/02-images/figm-11-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./11-0000/02-images/figm-11-05.png" alt="Uploaded image">
+<!-- LINK -->         <a href="../11-0000/02-images/figm-11-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../11-0000/02-images/figm-11-05.png" alt="Uploaded image">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 11.5 &mdash; The uploaded image
@@ -367,13 +367,13 @@ The following is the HTML to display the image of Henry *(lots more pictures of 
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<img src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 ```
 <p> </p></td></tr><!-- 🟢HTML END OF ROW🟢 -->
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -384,8 +384,8 @@ If for whatever reason, the image file cannot be found (missing file, incorrect 
 
 <table name="f-11-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./11-0000/02-images/figm-11-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./11-0000/02-images/figm-11-01.png" alt="HTML Broken link">
+<!-- LINK -->         <a href="../11-0000/02-images/figm-11-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../11-0000/02-images/figm-11-01.png" alt="HTML Broken link">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 11.6 &mdash; HTML Broken link
@@ -411,13 +411,13 @@ The following reduces the Henry image to 300 px wide:
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 ```
 <p> </p></td></tr><!-- 🟢HTML END OF ROW🟢 -->
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -433,13 +433,13 @@ The height attribute is used in the same way, the following sets the image heigh
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<img height="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img height="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 ```
 <p> </p></td></tr><!-- 🟢HTML END OF ROW🟢 -->
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -455,13 +455,13 @@ If both the width and height attributes are used, the image can be distorted (th
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<img width="300" height="200" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img width="300" height="200" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 ```
 <p> </p></td></tr><!-- 🟢HTML END OF ROW🟢 -->
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -492,7 +492,7 @@ Left alignment first:
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<img align="left" width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img align="left" width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
 a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
@@ -501,7 +501,7 @@ a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img align="left" width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img align="left" width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
 a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
@@ -521,7 +521,7 @@ Now right alignment
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<img align="right" width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img align="right" width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
 a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
@@ -530,7 +530,7 @@ a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img align="right" width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img align="right" width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
 a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
@@ -554,7 +554,7 @@ The first solution is to use the ${\LARGE \color{#C00000}\text{<br\ clear="all">
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<img align="right" width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img align="right" width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 <br clear="all">
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
@@ -564,7 +564,7 @@ a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img align="right" width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<img align="right" width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 <br clear="all">
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
@@ -584,7 +584,7 @@ HTML also offers another solution, instead of using the align attribute within t
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<p align="right"> <img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<p align="right"> <img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 <br clear="all"></p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
@@ -594,7 +594,7 @@ a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<p align="right"> <img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<p align="right"> <img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 <br clear="all"></p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
@@ -619,7 +619,7 @@ The paragraph arrangement allows the image to be centred (which is not possible 
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<p align="center"> <img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<p align="center"> <img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 <br clear="all"></p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
@@ -629,7 +629,7 @@ a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<p align="center"> <img width="300" src="./11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
+<p align="center"> <img width="300" src="../11-0000/02-images/figm-99-01.png" alt="Henry the dog" title="Henry">
 <br clear="all"></p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur tortor 
@@ -675,13 +675,13 @@ To make the Henry picture a link to the PracticalSeries home page it would becom
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<a href="https://practicalseries.com" title="PracticalSeries"><img src="./11-0000/02-images/figm-99-01.png" alt="Henry"></a>
+<a href="https://practicalseries.com" title="PracticalSeries"><img src="../11-0000/02-images/figm-99-01.png" alt="Henry"></a>
 ```
 <p> </p></td></tr><!-- 🟢HTML END OF ROW🟢 -->
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<a href="https://practicalseries.com" title="PracticalSeries"><img src="./11-0000/02-images/figm-99-01.png" alt="Henry"></a>
+<a href="https://practicalseries.com" title="PracticalSeries"><img src="../11-0000/02-images/figm-99-01.png" alt="Henry"></a>
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -707,7 +707,7 @@ It looks like this:
 
 <table name="f-11-07" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- FIGURE -->         <img width="600" src="./11-0000/02-images/figm-99-01.png" alt="Table with an image">
+<!-- FIGURE -->         <img width="600" src="../11-0000/02-images/figm-99-01.png" alt="Table with an image">
                     </td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 11.7 &mdash; Table used to hold an image and caption
@@ -742,7 +742,7 @@ The HTML behind this is:
 ```html
 <table name="f-11-07" align="center"><!-- Leave blank line above --- IMAGE TABLE START -->
   <tr><td>
-<img width="400" src="./11-0000/02-images/figm-99-01.png" alt="Henry">
+<img width="400" src="../11-0000/02-images/figm-99-01.png" alt="Henry">
   </td></tr>
   <tr><th align="center"><sup>Figure 11.7 &mdash; Henry the dog</sup></th></tr><!-- CAPTION -->
 </table>                             <!-- Leave blank line below --- IMAGE TABLE END-->
@@ -786,7 +786,7 @@ There is one final point, with the image in a table, it is possible to put a dar
 ```html
 <table name="f-11-07" align="center" border="1"><!-- Leave blank line above --- IMAGE TABLE START -->
   <tr><td>
-<img width="400" src="./11-0000/02-images/figm-99-01.png" alt="Henry">
+<img width="400" src="../11-0000/02-images/figm-99-01.png" alt="Henry">
   </td></tr>
   <tr><th align="center"><sup>Figure 11.7 &mdash; Henry the dog</sup></th></tr><!-- CAPTION -->
 </table>                             <!-- Leave blank line below --- IMAGE TABLE END-->
@@ -797,7 +797,7 @@ There is one final point, with the image in a table, it is possible to put a dar
 
 <table name="f-11-07" align="center" border="1"><!-- Leave blank line above --- IMAGE TABLE START -->
   <tr><td>
-<img width="400" src="./11-0000/02-images/figm-99-01.png" alt="Henry">
+<img width="400" src="../11-0000/02-images/figm-99-01.png" alt="Henry">
   </td></tr>
   <tr><th align="center"><sup>Figure 11.7 &mdash; Henry the dog</sup></th></tr><!-- CAPTION -->
 </table>                             <!-- Leave blank line below --- IMAGE TABLE END-->
@@ -855,7 +855,7 @@ In the context of the previous example it might look like this:
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-img src="./11-0000/02-images/figm-99-01.png?b=01">
+img src="../11-0000/02-images/figm-99-01.png?b=01">
 ```
 <p> </p></td></tr><!-- HTML END OF ROW       🟢🟢🟢 -->
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->

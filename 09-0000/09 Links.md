@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0900--ebC-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 9<!--         🟥H1🟥--><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer">Links
@@ -293,8 +293,8 @@ The following figure shows the effect:
 
 <table name="f-09-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./09-0000/02-images/figm-09-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="385" src="./09-0000/02-images/figm-09-01.png" alt="Link with tooltip">
+<!-- LINK -->         <a href="../09-0000/02-images/figm-09-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="385" src="../09-0000/02-images/figm-09-01.png" alt="Link with tooltip">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 9.2 &mdash; Link to a web page with substitute text and tooltip
@@ -360,8 +360,8 @@ Let’s say that a Wiki exists with three pages in a folder structure as follows
 
 <table name="f-09-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./09-0000/02-images/figm-09-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="345" src="./09-0000/02-images/figm-09-02.png" alt="Simple Wiki structure">
+<!-- LINK -->         <a href="../09-0000/02-images/figm-09-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="345" src="../09-0000/02-images/figm-09-02.png" alt="Simple Wiki structure">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 9.1 &mdash; Simple Wiki structure
@@ -547,8 +547,8 @@ GitHub can link to any Markdown heading on a page *(the ones constructed with le
 
 <table name="f-09-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./09-0000/02-images/figm-09-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./09-0000/02-images/figm-09-03.png" alt="Heading link icon">
+<!-- LINK -->         <a href="../09-0000/02-images/figm-09-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../09-0000/02-images/figm-09-03.png" alt="Heading link icon">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 9.3 &mdash; Heading link icon (highlighted)
@@ -564,7 +564,7 @@ Links to a heading on the same page are constructed in a similar way to the dire
 <table name="t-09-07c" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <tr><td width="850" height="60" valign="middle">
 
-&emsp;&emsp;&nbsp;&nbsp;&nbsp; <img width="328" src="./09-0000/02-images/figm-09-03a.png" alt="Heading link icon">
+&emsp;&emsp;&nbsp;&nbsp;&nbsp; <img width="328" src="../09-0000/02-images/figm-09-03a.png" alt="Heading link icon">
 </td></tr>
 </table>                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
 
@@ -765,7 +765,7 @@ It is possible to link to any heading on a page within the same Wiki by adding t
 <table name="t-09-03a" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <tr><td width="850" height="60" valign="middle">
 
-&emsp;&emsp;&nbsp;&nbsp; ${\LARGE \color{#0050C0}\text{\[}\color{#C00000}\text{Substitute\ Text}\color{#0050C0}\text{\]\(}\color{#4B0082}\text{pageName\}}$<img width="15" src="./09-0000/02-images/figm-09-03b.png?bx=0911" alt="Hash">${\LARGE \color{#1F883D}\text{headingName}\color{#0050C0}\text{\)}}$
+&emsp;&emsp;&nbsp;&nbsp; ${\LARGE \color{#0050C0}\text{\[}\color{#C00000}\text{Substitute\ Text}\color{#0050C0}\text{\]\(}\color{#4B0082}\text{pageName\}}$<img width="15" src="../09-0000/02-images/figm-09-03b.png?bx=0911" alt="Hash">${\LARGE \color{#1F883D}\text{headingName}\color{#0050C0}\text{\)}}$
 </td></tr>
 </table>                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
 

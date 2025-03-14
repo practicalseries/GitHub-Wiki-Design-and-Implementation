@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-A00--ecm-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # A<!--         🟥H1🟥--><img width="097" height="1" src="https://psop.uk/wi-s" alt="Spacer">Unicode and HTML escape characters
@@ -11,7 +11,7 @@ All numberes are given in both in decimal and hexadecimal and all work in GitHub
 
 All the data in this table is available as an Excel spread sheet *(for convenience)*. Download it here:
 
-<p align="center"><a href="./A-0000/04-data/html_escape_codes.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_HTML_escape_code_data_spread_sheet-1F883D"></a></p>
+<p align="center"><a href="../A-0000/04-data/html_escape_codes.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_HTML_escape_code_data_spread_sheet-1F883D"></a></p>
 
 <br><br>
 |Unicode&nbsp;(dec)<br>Unicode (hex)|Symbol|HTML|Escape&nbsp;(dec)<br>Escape (hex)|Description|

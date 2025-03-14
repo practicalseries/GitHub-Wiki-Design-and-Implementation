@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-ccss--ear-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 3<!--         🟥H1🟥--><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer">A Wiki folder structure
@@ -29,8 +29,8 @@ Entering the above link in a web browser will take you to the Home page of the W
 
 <table name="f-03-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./03-0000/02-images/figm-03-01.png" alt="Wiki Home page">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../03-0000/02-images/figm-03-01.png" alt="Wiki Home page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.1 &mdash; The Wiki Home page
@@ -58,8 +58,8 @@ If all the Wiki pages were built using GitHub and if that Wiki repository were c
 
 <table name="f-03-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./03-0000/02-images/figm-03-02.png" alt="Default GitHub folder">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../03-0000/02-images/figm-03-02.png" alt="Default GitHub folder">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.2 &mdash; The default GitHub folder arrangement for a Wiki
@@ -82,8 +82,8 @@ A typical example of the `_Sidebar.md` file for this Wiki is shown below *(in VS
 
 <table name="f-03-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./03-0000/02-images/figm-03-03.png" alt="Editing a sidebar">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../03-0000/02-images/figm-03-03.png" alt="Editing a sidebar">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.3 &mdash; Editing a sidebar in VS Code
@@ -94,8 +94,8 @@ The above code renders like this *(the bit you can see in the listing above is t
 
 <table name="f-03-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-04.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="305" src="./03-0000/02-images/figm-03-04.png" alt="Rendered sidebar">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-04.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="305" src="../03-0000/02-images/figm-03-04.png" alt="Rendered sidebar">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.4 &mdash; Rendered version of the sidebar
@@ -254,8 +254,8 @@ There are two things of importance when naming pages, the first is that GitHub a
 
 <table name="f-03-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./03-0000/02-images/figm-03-05.png" alt="Page name">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../03-0000/02-images/figm-03-05.png" alt="Page name">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.5 &mdash; Page name displayed at top of a Wiki page
@@ -282,8 +282,8 @@ Would appear in the Pages area as:
 
 <table name="f-03-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-06.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./03-0000/02-images/figm-03-06.png" alt="Pages in wrong order">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-06.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../03-0000/02-images/figm-03-06.png" alt="Pages in wrong order">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.6 &mdash; Pages listed in the wrong order
@@ -297,8 +297,8 @@ To get round this problem chapter, section and division numbers must always be t
 
 <table name="f-03-07" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-07.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./03-0000/02-images/figm-03-07.png" alt="Pages in right order">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-07.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../03-0000/02-images/figm-03-07.png" alt="Pages in right order">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.6 &mdash; Pages listed in the right order
@@ -310,8 +310,8 @@ While it is necessary for the filenames to start with the chapter, section and d
 
 <table name="f-03-08" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-08.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./03-0000/02-images/figm-03-08.png" alt="Wiki contents">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-08.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../03-0000/02-images/figm-03-08.png" alt="Wiki contents">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.8 &mdash; Contents list for a Wiki
@@ -467,8 +467,8 @@ It can be seen here in VS Code:
 
 <table name="f-03-09" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-09.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="466" src="./03-0000/02-images/figm-03-09.png" alt="Wiki subdirectory">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-09.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="466" src="../03-0000/02-images/figm-03-09.png" alt="Wiki subdirectory">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.9 &mdash; A Wiki page subdirectory
@@ -519,8 +519,8 @@ The folder structure for this Wiki looks like this (at the time of writing):
 
 <table name="f-03-10" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-10.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="297" src="./03-0000/02-images/figm-03-10.png" alt="Wiki folder structure">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-10.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="297" src="../03-0000/02-images/figm-03-10.png" alt="Wiki folder structure">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.10 &mdash; A typical example of the Wiki folder structure
@@ -531,8 +531,8 @@ Files for each Wiki page are stored in the specific folders. This can be seen in
 
 <table name="f-03-11" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-11.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./03-0000/02-images/figm-03-11.png" alt="This Wiki folder structure">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-11.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../03-0000/02-images/figm-03-11.png" alt="This Wiki folder structure">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.11 &mdash; This Wiki folder structure
@@ -549,8 +549,8 @@ Images and data for a particular page are stored in two separate folders within 
 
 <table name="f-03-12" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./03-0000/02-images/figm-03-12.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="451" src="./03-0000/02-images/figm-03-12.png" alt="Storing images and data">
+<!-- LINK -->         <a href="../03-0000/02-images/figm-03-12.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="451" src="../03-0000/02-images/figm-03-12.png" alt="Storing images and data">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 3.12 &mdash; Storing images and data

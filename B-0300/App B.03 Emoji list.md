@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-B03--ecm-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 ## B.3<!--      🟥H2🟥--><img width="087" height="1" src="https://psop.uk/wi-s" alt="Spacer">Full list of all emoji characters by Unicode value
@@ -18,7 +18,7 @@ At the time of writing (October 2024), there were **1910** emojis in the list.
 All the data in this table is available as an Excel spread sheet *(for convenience)*. Download it here:
 
 
-<p align="center"><a href="./B-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
+<p align="center"><a href="../B-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
 
 <br><br>
 

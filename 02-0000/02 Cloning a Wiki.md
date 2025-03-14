@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0200--eav-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 2<!--         🟥H1🟥--><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer">Cloning a Wiki
@@ -35,8 +35,8 @@ The Wiki repository can be *“cloned”* (copied) locally to a PC using the ${\
 
 <table name="f-02-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-01.png" alt="Clone a Wiki">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-01.png" alt="Clone a Wiki">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.1 &mdash; Clone a local copy of a Wiki
@@ -57,15 +57,15 @@ Clicking the link copies the wiki link to the clipboard, in the case of this Wik
 <tr><td valign="top">&#x2777</td><td>Select ${\large \color{#00B050}\langle\text{Source\ Control}\rangle}$ (in the left bar), ${\large \color{#00B050}\text{Ctrl+Shift+G}}$ </td></tr>
 <tr><td valign="top">&#x2778</td><td>Select ${\large \color{#00B050}\langle\text{Clone\ Repository}\rangle}$</td></tr>
 <tr><td valign="top">&#x2779</td><td>Paste the link above into the editor as shown below:<br><br>
-    <a href="./02-0000/02-images/figm-02-01a.png" title="Use ctrl+click to open image in new tab"><img src="./02-0000/02-images/figm-02-01a.png" alt="Clone a Wiki step 4"></a></td></tr>
+    <a href="../02-0000/02-images/figm-02-01a.png" title="Use ctrl+click to open image in new tab"><img src="../02-0000/02-images/figm-02-01a.png" alt="Clone a Wiki step 4"></a></td></tr>
 <tr><td valign="top">&#x277A</td><td>Hit enter and when prompted select a repository location on the local machine (this was mine):<br><br>
-    <a href="./02-0000/02-images/figm-02-01b.png" title="Use ctrl+click to open image in new tab"><img src="./02-0000/02-images/figm-02-01b.png" alt="Clone a Wiki step 5"></a><br>
+    <a href="../02-0000/02-images/figm-02-01b.png" title="Use ctrl+click to open image in new tab"><img src="../02-0000/02-images/figm-02-01b.png" alt="Clone a Wiki step 5"></a><br>
 <em>Only select the parent directory, VS Code will create the subdirectory that contains the Wiki. It will have the same name as the repository with which the Wiki is associated with <code>.WIKI</code> at the end (spaces in the name will be replaced by dashes).</em>
 </td></tr>
 <tr><td valign="top">&#x277B</td><td>At the next prompt, open the repository, it looks like this:<br><br>
-    <a href="./02-0000/02-images/figm-02-01c.png" title="Use ctrl+click to open image in new tab"><img src="./02-0000/02-images/figm-02-01c.png" alt="Clone a Wiki step 6"></a></td></tr>
+    <a href="../02-0000/02-images/figm-02-01c.png" title="Use ctrl+click to open image in new tab"><img src="../02-0000/02-images/figm-02-01c.png" alt="Clone a Wiki step 6"></a></td></tr>
 <tr><td valign="top">&#x277C</td><td>This is the cloned repository on a local machine, in Windows File Explorer it looks like this:<br><br>
-    <a href="./02-0000/02-images/figm-02-01d.png" title="Use ctrl+click to open image in new tab"><img src="./02-0000/02-images/figm-02-01d.png" alt="Clone a Wiki step 7"></a></td></tr>
+    <a href="../02-0000/02-images/figm-02-01d.png" title="Use ctrl+click to open image in new tab"><img src="../02-0000/02-images/figm-02-01d.png" alt="Clone a Wiki step 7"></a></td></tr>
 <!-- CAPTION -->          <tr><th width="52"></th><!-- SPACER -->
 <!-- LIST WIDTH -->         <th align="left" width="800"><sup>
 <!-- CAPTION TEXT --><!-- TEXT -->List 2.1 &mdash; Cloning a Wiki
@@ -122,8 +122,8 @@ In VS Code, select ${\large \color{#00B050}\langle\text{Terminal}\rangle}$ in th
 
 <table name="f-02-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-02.png" alt="The terminal">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-02.png" alt="The terminal">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.2 &mdash; VS Code terminal
@@ -154,8 +154,8 @@ In my case it all looks like this:
 
 <table name="f-02-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-03.png" alt="Git username and emaill">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-03.png" alt="Git username and emaill">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.3 &mdash; Git username and email
@@ -174,8 +174,8 @@ Having cloned the repository (see the previous section), there is a copy of it o
 
 <table name="f-02-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-04.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-04.png" alt="Cloned page">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-04.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-04.png" alt="Cloned page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.4 &mdash; The cloned Home page in VS Code
@@ -188,8 +188,8 @@ Change the text in the line as follows, point &#x2460;:
 
 <table name="f-02-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-05.png" alt="Modified page">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-05.png" alt="Modified page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.5 &mdash; Modified Home page
@@ -202,8 +202,8 @@ Click ${\large \color{#00B050}\langle\text{Source\ Control}\rangle}$ and it show
 
 <table name="f-02-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-06.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-06.png" alt="Changed files">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-06.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-06.png" alt="Changed files">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.6 &mdash; Changed files
@@ -214,8 +214,8 @@ The Home page is showing as a *changed file*. Before the changes can be added to
 
 <table name="f-02-07" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-07.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-07.png" alt="Staged files">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-07.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-07.png" alt="Staged files">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.7 &mdash; Staged files
@@ -236,8 +236,8 @@ To do this, enter a message in the box above the blue ${\large \color{#00B050}\l
 
 <table name="f-02-08" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-08.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-08.png" alt="Committing files">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-08.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-08.png" alt="Committing files">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.8 &mdash; Commit the change
@@ -248,8 +248,8 @@ VS Code will now ask you to synchronise the files with GitHub *(this is called a
 
 <table name="f-02-09" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-09.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-09.png" alt="Synchronise the change">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-09.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-09.png" alt="Synchronise the change">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.9 &mdash; Synchronise the change
@@ -261,8 +261,8 @@ VS Code will now ask you to synchronise the files with GitHub *(this is called a
 
 <table name="f-02-10" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-10.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./02-0000/02-images/figm-02-10.png" alt="Configuration error">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-10.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../02-0000/02-images/figm-02-10.png" alt="Configuration error">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.10 &mdash; Username and email configuration error
@@ -277,8 +277,8 @@ This will open a window asking you to sign in to GitHub:
 
 <table name="f-02-11" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-11.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./02-0000/02-images/figm-02-11.png" alt="GitHub sign in options">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-11.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../02-0000/02-images/figm-02-11.png" alt="GitHub sign in options">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.11 &mdash; GitHub prompt to sign in
@@ -289,8 +289,8 @@ Click ${\large \color{#00B050}\langle\text{Sign\ in\ wit\ your\ browser}\rangle}
 
 <table name="f-02-12" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-12.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./02-0000/02-images/figm-02-12.png" alt="GitHub sign in prompt">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-12.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../02-0000/02-images/figm-02-12.png" alt="GitHub sign in prompt">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.12 &mdash; GitHub prompt to sign in
@@ -301,8 +301,8 @@ You can use a passkey if you have one set up, otherwise it will text a code to y
 
 <table name="f-02-13" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-13.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./02-0000/02-images/figm-02-13.png" alt="GitHub authorisation code">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-13.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../02-0000/02-images/figm-02-13.png" alt="GitHub authorisation code">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.13 &mdash; GitHub authorisation code
@@ -315,8 +315,8 @@ If you now open the Wiki in a browser, you will see the changes. It looks like t
 
 <table name="f-02-14" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-14.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-14.png" alt="GitHub modified page">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-14.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-14.png" alt="GitHub modified page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 2.14 &mdash; Modified page on GitHub

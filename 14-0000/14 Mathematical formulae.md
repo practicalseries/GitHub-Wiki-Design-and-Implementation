@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1400--ecg-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 14<!--        🟥H1🟥--><img width="087" height="1" src="https://psop.uk/wi-s" alt="Spacer">Mathematical formulae
@@ -5365,27 +5365,27 @@ It should work like this:
 <tr>
 <td><code>\mathsf{ABCDEF}</code></td>
 <th align="center">San-serif font</th>
-<td><img height="20" src="./14-0000/02-images/figm-00-00a.png" alt="San-serif"></td>
+<td><img height="20" src="../14-0000/02-images/figm-00-00a.png" alt="San-serif"></td>
 </tr>
 <tr>
 <td><code>\mathbf{ABCDEF}</code></td>
 <th align="center">Bold  font</th>
-<td><img height="20" src="./14-0000/02-images/figm-00-00b.png" alt="Bold"></td>
+<td><img height="20" src="../14-0000/02-images/figm-00-00b.png" alt="Bold"></td>
 </tr>
 <tr>
 <td><code>\mathcal{ABCDEF}</code></td>
 <th align="center">Script  font</th>
-<td><img height="20" src="./14-0000/02-images/figm-00-00c.png" alt="Script"></td>
+<td><img height="20" src="../14-0000/02-images/figm-00-00c.png" alt="Script"></td>
 </tr>
 <tr>
 <td><code>\mathbb{ABCDEF}</code></td>
 <th align="center">Double struck font</th>
-<td><img height="20" src="./14-0000/02-images/figm-00-00d.png" alt="Double struck"></td>
+<td><img height="20" src="../14-0000/02-images/figm-00-00d.png" alt="Double struck"></td>
 </tr>
 <tr>
 <td><code>\mathefrak{ABCDEF}</code></td>
 <th align="center">Frakturs  font</th>
-<td><img height="20" src="./14-0000/02-images/figm-00-00e.png" alt="Frakturs"></td>
+<td><img height="20" src="../14-0000/02-images/figm-00-00e.png" alt="Frakturs"></td>
 </tr>
 </table>
 <br clear="all">

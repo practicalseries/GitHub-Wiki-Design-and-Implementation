@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-B00--ecm-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # B<!--         🟥H1🟥--><img width="097" height="1" src="https://psop.uk/wi-s" alt="Spacer">Full list of all emoji characters
@@ -13,7 +13,7 @@ ALternatively, there is a full list of emojis in a single table arranged by Unic
 
 All the data in these tables is available as an Excel spread sheet *(for convenience)*. Download it here:
 
-<p align="center"><a href="./B-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
+<p align="center"><a href="../B-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

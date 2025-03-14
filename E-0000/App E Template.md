@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-ccss--eaq-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # A<!--         🟥H1🟥--><img width="097" height="1" src="https://psop.uk/wi-s" alt="Spacer">Template
@@ -616,7 +616,7 @@ Copy caption from table Standard Markdown, HTML, Output table if required
 
 <table name="f-cc-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-01.png" alt="Matilda">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-01.png" alt="Matilda">
                     </td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure cc.1 &mdash; Matilda
@@ -634,8 +634,8 @@ This is a link to <a href="#f-cc-01">Figure cc.1</a>.
 
 <table name="f-cc-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./02-0000/02-images/figm-02-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./02-0000/02-images/figm-02-01.png" alt="Clone a Wiki">
+<!-- LINK -->         <a href="../02-0000/02-images/figm-02-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../02-0000/02-images/figm-02-01.png" alt="Clone a Wiki">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure cc.2 &mdash; Clone a local copy of a Wiki
@@ -649,10 +649,10 @@ This is a link to <a href="#f-cc-01">Figure cc.1</a>.
 <table align="center"><!-- DBL FIGURE START             🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr>
 <!-- FIGURE 1 ID -->    <td name="f-cc-03">
-<!-- FIGURE 1 IMAGE --> <img width="400" src="./02-0000/02-images/figm-02-01.png" alt="Puppy">
+<!-- FIGURE 1 IMAGE --> <img width="400" src="../02-0000/02-images/figm-02-01.png" alt="Puppy">
                         </td>
 <!-- FIGURE 2 ID -->    <td name="f-cc-04">
-<!-- FIGURE 2 IMAGE --> <img width="400" src="./02-0000/02-images/figm-02-01.png" alt="Adult">
+<!-- FIGURE 2 IMAGE --> <img width="400" src="../02-0000/02-images/figm-02-01.png" alt="Adult">
                         </td>
                     </tr>
 <!-- CAPTION -->    <tr>
@@ -985,7 +985,7 @@ This is a link to <a href="#f-cc-03">Figure cc.3</a>.
 <tr><td valign="top">&#x2776</td><td>Text</td></tr>
 <tr><td valign="top">&#x2777</td><td>Text</td></tr>
 <tr><td valign="top">&#x2778</td><td>Text<br><br><!-- In cell image -->
-    <img src="./02-0000/02-images/figm-02-02.png" alt="Clone a Wiki step 4"></td></tr>
+    <img src="../02-0000/02-images/figm-02-02.png" alt="Clone a Wiki step 4"></td></tr>
 <tr><td valign="top">&#x2779</td><td>Text</td></tr>
 <tr><td valign="top">&#x277A</td><td>Text</td></tr>
 <tr><td valign="top">&#x277B</td><td>Text</td></tr>

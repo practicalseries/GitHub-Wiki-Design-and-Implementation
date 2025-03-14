@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1700--ecm-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 17<!--        🟥H1🟥--><img width="088" height="1" src="https://psop.uk/wi-s" alt="Spacer">Managing a Wiki
@@ -77,8 +77,8 @@ This is a screen shot of part of my modification history for this Wiki:
 
 <table name="f-17-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./17-0000/02-images/figm-17-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./17-0000/02-images/figm-17-01.png" alt="Wiki development revisions">
+<!-- LINK -->         <a href="../17-0000/02-images/figm-17-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../17-0000/02-images/figm-17-01.png" alt="Wiki development revisions">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 17.1 &mdash; Wiki development revisions
@@ -113,8 +113,8 @@ This is the current history for the Home page of this repository:
 
 <table name="f-17-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./17-0000/02-images/figm-17-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./17-0000/02-images/figm-17-02.png" alt="Wiki page revision">
+<!-- LINK -->         <a href="../17-0000/02-images/figm-17-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../17-0000/02-images/figm-17-02.png" alt="Wiki page revision">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 17.2 &mdash; Wiki page revision
@@ -132,8 +132,8 @@ Scroll to the bottom of the page and keep clicking Older until you get to the ol
 
 <table name="f-17-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./17-0000/02-images/figm-17-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./17-0000/02-images/figm-17-03.png" alt="Wiki first commit">
+<!-- LINK -->         <a href="../17-0000/02-images/figm-17-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../17-0000/02-images/figm-17-03.png" alt="Wiki first commit">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 17.3 &mdash; Wiki first commit
@@ -224,7 +224,7 @@ In my case the commit point is: <code>dd06e43</code>
 </td></tr>
 <!-- LIST ROW 03  --><tr><td valign="top">&#x2462;<!-- 3  --></td>
     <td><!-- TEXT -->Using Windows File Explorer navigate to the Wiki folder, in my case it looks like this:<br><br>
-<a href="./17-0000/02-images/figm-17-03a.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03a.png" alt="Git directory"></a><br><br>
+<a href="../17-0000/02-images/figm-17-03a.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03a.png" alt="Git directory"></a><br><br>
 Make sure that the folder has a <code>.git</code> directory within it (highlighted)    
     </td></tr>
 <!-- LIST ROW 04  --><tr><td valign="top">&#x2463;<!-- 4  --></td>
@@ -233,11 +233,11 @@ Make sure the backup has the <code>.git</code> directory within it
 </td></tr>
 <!-- LIST ROW 05  --><tr><td valign="top">&#x2464;<!-- 5  --></td>
     <td><!-- TEXT -->In VS Code, select ${\color{#00B050}\langle\text{Terminal}\rangle}$ and then ${\color{#00B050}\langle\text{New\ Terminal}\rangle}$ to open the Git terminal Window at the bottom:<br><br>
-<a href="./17-0000/02-images/figm-17-03b.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03b.png" alt="Git directory"></a>   
+<a href="../17-0000/02-images/figm-17-03b.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03b.png" alt="Git directory"></a>   
     </td></tr>
 <!-- LIST ROW 06  --><tr><td valign="top">&#x2465;<!-- 6  --></td>
     <td><!-- TEXT -->The terminal window looks like this:<br><br>
-<a href="./17-0000/02-images/figm-17-03c.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03c.png" alt="Git directory"></a>
+<a href="../17-0000/02-images/figm-17-03c.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03c.png" alt="Git directory"></a>
 </td></tr>
 <!-- LIST ROW 07  --><tr><td valign="top">&#x2466;<!-- 7  --></td>
     <td><!-- TEXT -->
@@ -249,25 +249,25 @@ ${\large \color{#0050C0}\text{git\ reset\ --hard\ }\color{#C00000}\text{[commitN
  Where ${\large \color{#C00000}\text{[commitNo]}}$ is the first commit point number, in my case it is   
     
 ${\large \color{#0050C0}\text{git\ reset\ --hard\ dd06e43}}$<br><br>
-<a href="./17-0000/02-images/figm-17-03d.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03d.png" alt="Git directory"></a>
+<a href="../17-0000/02-images/figm-17-03d.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03d.png" alt="Git directory"></a>
 </td></tr>
 <!-- LIST ROW 08  --><tr><td valign="top">&#x2467;<!-- 8  --></td>
     <td><!-- TEXT -->The repository now only has the single Home.md file within it (everything else has gone)<br><br>
-<a href="./17-0000/02-images/figm-17-03e.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03e.png" alt="Git directory"></a></td></tr>
+<a href="../17-0000/02-images/figm-17-03e.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03e.png" alt="Git directory"></a></td></tr>
 <!-- LIST ROW 09  --><tr><td valign="top">&#x2468;<!-- 9  --></td>
     <td><!-- TEXT -->Now go to the backup created in step &#x2463; and select everything apart from the <code>.git</code> directory<br><br>
-<a href="./17-0000/02-images/figm-17-03f.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03f.png" alt="Git directory"></a>
+<a href="../17-0000/02-images/figm-17-03f.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03f.png" alt="Git directory"></a>
 </td></tr>
 <!-- LIST ROW 10  --><tr><td valign="top">&#x2469;<!-- 10 --></td>
     <td><!-- TEXT -->Copy the selection <strong>(everything but the <code>.git</code> directory)</strong> from the backup.<br><br>    
 Navigate to the proper repository and paste it in (replacing the <code>Home.md</code> file in the process)</td></tr>
 <!-- LIST ROW 11  --><tr><td valign="top">&#x246A;<!-- 11 --></td>
     <td><!-- TEXT -->VS Code will now show a large number of new files (533 changes in my case):<br><br>
-<a href="./17-0000/02-images/figm-17-03g.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03g.png" alt="Git directory"></a>
+<a href="../17-0000/02-images/figm-17-03g.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03g.png" alt="Git directory"></a>
 </td></tr>
 <!-- LIST ROW 12  --><tr><td valign="top">&#x246B;<!-- 12 --></td>
     <td><!-- TEXT -->Stage all the files, enter a commit message and commit the changes:<br><br>
-<a href="./17-0000/02-images/figm-17-03h.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03h.png" alt="Git directory"></a><br><br>
+<a href="../17-0000/02-images/figm-17-03h.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03h.png" alt="Git directory"></a><br><br>
 
 ${\large \color{#C00000}\text{DO\ NOT\ SYNC\ THE\ REPOSITORY\ IF\ PROMPTED\ TO\ DO\ SO}}$
 </td></tr>
@@ -283,15 +283,15 @@ To make those changes permanent, the local Wiki must be pushed to GitHub overwri
 In the terminal, enter the command:
 
 ${\large \color{#0050C0}\text{git\ push\ origin\ HEAD\ --force}}$<br><br>
-<a href="./17-0000/02-images/figm-17-03i.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03i.png" alt="Git directory"></a>   
+<a href="../17-0000/02-images/figm-17-03i.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03i.png" alt="Git directory"></a>   
 </td></tr>
 <!-- LIST ROW 15  --><tr><td valign="top">&#x246E;<!-- 15 --></td>
     <td><!-- TEXT -->After a short period, it comes back with a response, this was mine:<br><br>
-<a href="./17-0000/02-images/figm-17-03j.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03j.png" alt="Git directory"></a>
+<a href="../17-0000/02-images/figm-17-03j.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03j.png" alt="Git directory"></a>
 </td></tr>
 <!-- LIST ROW 16  --><tr><td valign="top">&#x246F;<!-- 16 --></td>
     <td><!-- TEXT -->Looking at the history, the Wiki now has (in my case):<br><br>
-<a href="./17-0000/02-images/figm-17-03k.png" title="Use ctrl+click to open image in new tab"><img src="./17-0000/02-images/figm-17-03k.png" alt="Git directory"></a><br><br>
+<a href="../17-0000/02-images/figm-17-03k.png" title="Use ctrl+click to open image in new tab"><img src="../17-0000/02-images/figm-17-03k.png" alt="Git directory"></a><br><br>
 
 There are just two commits, the original commit (when the Wiki was created) and now the second commit with all the files back where they should be. 
 

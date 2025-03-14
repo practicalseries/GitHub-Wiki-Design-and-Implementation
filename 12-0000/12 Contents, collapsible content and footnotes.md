@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1200--ecf-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 12<!--        🟥H1🟥--><img width="087" height="1" src="https://psop.uk/wi-s" alt="Spacer">Contents, collapsible content and footnotes
@@ -27,8 +27,8 @@ These links are identical to those discussed in <a href="09-links#93linking-to-h
 
 <table name="f-12-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./12-0000/02-images/figm-12-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="331" src="./12-0000/02-images/figm-12-01.png" alt="Table of contents">
+<!-- LINK -->         <a href="../12-0000/02-images/figm-12-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="331" src="../12-0000/02-images/figm-12-01.png" alt="Table of contents">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 12.1 &mdash; Table of contents in a sidebar
@@ -131,7 +131,7 @@ These are just standard markdown links covered in <a href="09-links#94linking-to
 <table name="t-12-02a" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <tr><td width="850" height="60" valign="middle">
 
-&emsp;&emsp;&nbsp;&nbsp; ${\LARGE \color{#0050C0}\text{\[}\color{#C00000}\text{Substitute\ Text}\color{#0050C0}\text{\]\(}\color{#4B0082}\text{pageName\}}$<img width="15" src="./09-0000/02-images/figm-09-03b.png?bx=0911" alt="Hash">${\LARGE \color{#1F883D}\text{headingName}\color{#0050C0}\text{\)}}$
+&emsp;&emsp;&nbsp;&nbsp; ${\LARGE \color{#0050C0}\text{\[}\color{#C00000}\text{Substitute\ Text}\color{#0050C0}\text{\]\(}\color{#4B0082}\text{pageName\}}$<img width="15" src="../09-0000/02-images/figm-09-03b.png?bx=0911" alt="Hash">${\LARGE \color{#1F883D}\text{headingName}\color{#0050C0}\text{\)}}$
 </td></tr>
 </table>                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
 
@@ -199,7 +199,7 @@ Again, these are in the standard HTML format for a link to a point on a page:
 <table name="t-12-03a" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <tr><td width="850" height="60" valign="middle">
 
-&emsp;&emsp;&nbsp;&nbsp; ${\LARGE \color{#0050C0}\text{<a\ href="}\color{#4B0082}\text{pageName}}$<img width="15" src="./09-0000/02-images/figm-09-03b.png?bx=0911" alt="Hash">${\LARGE \color{#1F883D}\text{headingName}\color{#0050C0}\text{">}\color{#C00000}\text{Substitute\ Text}\color{#0050C0}\text{<\/a>}}$ 
+&emsp;&emsp;&nbsp;&nbsp; ${\LARGE \color{#0050C0}\text{<a\ href="}\color{#4B0082}\text{pageName}}$<img width="15" src="../09-0000/02-images/figm-09-03b.png?bx=0911" alt="Hash">${\LARGE \color{#1F883D}\text{headingName}\color{#0050C0}\text{">}\color{#C00000}\text{Substitute\ Text}\color{#0050C0}\text{<\/a>}}$ 
 </td></tr>
 </table>                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
 
@@ -233,8 +233,8 @@ These are used to indent the links so that they all line up, the alignment is as
 
 <table name="f-12-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./12-0000/02-images/figm-12-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="614" src="./12-0000/02-images/figm-12-02.png" alt="Table of contents">
+<!-- LINK -->         <a href="../12-0000/02-images/figm-12-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="614" src="../12-0000/02-images/figm-12-02.png" alt="Table of contents">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 12.2 &mdash; Table of contents alignment in a sidebar
@@ -434,8 +434,8 @@ The following is the sidebar TOC for chapter 2 of this Wiki:
 
 <table name="f-12-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./12-0000/02-images/figm-12-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./12-0000/02-images/figm-12-03.png" alt="Table of contents">
+<!-- LINK -->         <a href="../12-0000/02-images/figm-12-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../12-0000/02-images/figm-12-03.png" alt="Table of contents">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 12.3 &mdash; Collapsible TOC
@@ -623,8 +623,8 @@ It looks like this in a repository `README.md` file:
 
 <table name="f-12-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./12-0000/02-images/figm-12-04.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="896" src="./12-0000/02-images/figm-12-04.png" alt="Read.me footnote">
+<!-- LINK -->         <a href="../12-0000/02-images/figm-12-04.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="896" src="../12-0000/02-images/figm-12-04.png" alt="Read.me footnote">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 12.4 &mdash; A footnote in a repository Markdown file
@@ -637,8 +637,8 @@ Putting exactly the same code in a Wiki Markdown file does this:
 
 <table name="f-12-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./12-0000/02-images/figm-12-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="896" src="./12-0000/02-images/figm-12-05.png" alt="Wiki footnote not working">
+<!-- LINK -->         <a href="../12-0000/02-images/figm-12-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="896" src="../12-0000/02-images/figm-12-05.png" alt="Wiki footnote not working">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 12.5 &mdash; The same footnote in a Wiki Markdown file
@@ -669,8 +669,8 @@ Breaking it down it looks like this:
 
 <table name="f-12-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./12-0000/02-images/figm-12-06.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="896" src="./12-0000/02-images/figm-12-06.png" alt="PS footnote">
+<!-- LINK -->         <a href="../12-0000/02-images/figm-12-06.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="896" src="../12-0000/02-images/figm-12-06.png" alt="PS footnote">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 12.6 &mdash; PracticalSeries footnote in a Wiki Markdown file

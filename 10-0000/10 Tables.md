@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1000--ecc-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 10<!--        🟥H1🟥--><img width="087" height="1" src="https://psop.uk/wi-s" alt="Spacer">Tables
@@ -421,8 +421,8 @@ At the most basic level, the HTML would be constructed as follows:
 
 <table name="f-10-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./10-0000/02-images/figm-10-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="748" src="./10-0000/02-images/figm-10-02.png?bxno=1410" alt="A basic table">
+<!-- LINK -->         <a href="../10-0000/02-images/figm-10-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="748" src="../10-0000/02-images/figm-10-02.png?bxno=1410" alt="A basic table">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 10.2 &mdash; HTML structure for a basic table
@@ -1435,8 +1435,8 @@ Looking at this table in detail:
 
 <table name="f-10-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./10-0000/02-images/figm-10-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="763" src="./10-0000/02-images/figm-10-05.png" alt="Setting column width">
+<!-- LINK -->         <a href="../10-0000/02-images/figm-10-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="763" src="../10-0000/02-images/figm-10-05.png" alt="Setting column width">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 10.5 &mdash; Measured width of table columns in pixels
@@ -1510,8 +1510,8 @@ Looking at this table in detail:
 
 <table name="f-10-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./10-0000/02-images/figm-10-06.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="296" src="./10-0000/02-images/figm-10-06.png" alt="Setting column width">
+<!-- LINK -->         <a href="../10-0000/02-images/figm-10-06.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="296" src="../10-0000/02-images/figm-10-06.png" alt="Setting column width">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 10.6 &mdash; Measured height of table rows in pixels

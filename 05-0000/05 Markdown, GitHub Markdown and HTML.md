@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0500--eaq-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 
@@ -78,8 +78,8 @@ Markdown is written in a plain text file with the extension .md. Markdown files 
 
 <table name="f-05-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./05-0000/02-images/figm-05-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="806" src="./05-0000/02-images/figm-05-01.png" alt="A Markdown file">
+<!-- LINK -->         <a href="../05-0000/02-images/figm-05-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="806" src="../05-0000/02-images/figm-05-01.png" alt="A Markdown file">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 5.1 &mdash; A Markdown file
@@ -94,8 +94,8 @@ Markdown files are not *“what you see is what you get”* (WYSIWIG) files like
 
 <table name="f-05-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./05-0000/02-images/figm-05-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="786" src="./05-0000/02-images/figm-05-02.png" alt="Markdown process">
+<!-- LINK -->         <a href="../05-0000/02-images/figm-05-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="786" src="../05-0000/02-images/figm-05-02.png" alt="Markdown process">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 5.2 &mdash; A visual representation of the Markdown process

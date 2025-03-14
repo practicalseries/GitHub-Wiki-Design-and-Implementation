@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1600--eck-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 16<!--        🟥H1🟥--><img width="087" height="1" src="https://psop.uk/wi-s" alt="Spacer">PracticalSeries Wiki conventions
@@ -21,8 +21,8 @@ All PracticalSeries Wiki pages have a standard arrangement, the following shows 
 
 <table name="f-16-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./16-0000/02-images/figm-16-01.png" alt="PracticalSeries page">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../16-0000/02-images/figm-16-01.png" alt="PracticalSeries page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.1 &mdash; A typical PracticalSeries page
@@ -65,8 +65,8 @@ The folder structure is shown below (split into two columns):
 
 <table name="f-16-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="822" src="./16-0000/02-images/figm-16-02.png" alt="Wiki folder structure">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="822" src="../16-0000/02-images/figm-16-02.png" alt="Wiki folder structure">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.2 &mdash; The folder structure for this Wiki
@@ -85,8 +85,8 @@ The unexpanded contents of the root folder are:
 
 <table name="f-16-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="302" src="./16-0000/02-images/figm-16-03.png" alt="The root folder">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="302" src="../16-0000/02-images/figm-16-03.png" alt="The root folder">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.3 &mdash; The root folder
@@ -129,8 +129,8 @@ The GitHub logo file is the logo at the top of each page:
 
 <table name="f-16-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./ps-github-wiki-logo.svg" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="896" src="./ps-github-wiki-logo.svg" alt="The logo image">
+<!-- LINK -->         <a href="../ps-github-wiki-logo.svg" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="896" src="../ps-github-wiki-logo.svg" alt="The logo image">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.4 &mdash; The logo image
@@ -159,8 +159,8 @@ All these leading pages live in the ${\large \color{#446FBD}\text{00-0000}}$ fol
 
 <table name="f-16-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="453" src="./16-0000/02-images/figm-16-05.png" alt="The 00-0000 folder">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="453" src="../16-0000/02-images/figm-16-05.png" alt="The 00-0000 folder">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.5 &mdash; The 00-0000 folder
@@ -263,8 +263,8 @@ These can be seen below:
 
 <table name="f-16-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-06.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="211" src="./16-0000/02-images/figm-16-06.png" alt="The 11-0000 folder">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-06.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="211" src="../16-0000/02-images/figm-16-06.png" alt="The 11-0000 folder">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.6 &mdash; The 11-0000 folder
@@ -311,8 +311,8 @@ For example the chapter `11 Images` is split into two sections with the split oc
 
 <table name="f-16-07" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-07.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="262" src="./16-0000/02-images/figm-16-07.png" alt="The section folder">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-07.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="262" src="../16-0000/02-images/figm-16-07.png" alt="The section folder">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.7 &mdash; The section folder
@@ -333,8 +333,8 @@ The page title area is entirely generated by GitHub, it looks like this:
 
 <table name="f-16-08" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-08.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="896" src="./16-0000/02-images/figm-16-08.png" alt="Title area">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-08.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="896" src="../16-0000/02-images/figm-16-08.png" alt="Title area">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.8 &mdash; The title area of a page
@@ -380,8 +380,8 @@ The page heading area has the same format for every page in the PracticalSeries 
 
 <table name="f-16-09" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./16-0000/02-images/figm-16-09.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="896" src="./16-0000/02-images/figm-16-09.png" alt="Heading area">
+<!-- LINK -->         <a href="../16-0000/02-images/figm-16-09.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="896" src="../16-0000/02-images/figm-16-09.png" alt="Heading area">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 16.9 &mdash; The heading area of a page
@@ -409,7 +409,7 @@ The Markdown behind the heading area is:
 ```md
 <a name="idtop"></a>
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo">
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo">
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0200--djy-blue"></p>
 
 ```
@@ -421,7 +421,7 @@ The Markdown behind the heading area is:
 
 <a name="idtop"></a>
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo">
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo">
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0200--djy-blue"></p>
 
 
@@ -432,7 +432,7 @@ The Markdown behind the heading area is:
 
 The first line `<a name="idtop"></a>` is the top of page marker
 
-This is followed by the Logo image `<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo">`
+This is followed by the Logo image `<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo">`
 
 and finally, the Web ID badge `<p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0200--djy-blue"></p>`
 
@@ -522,7 +522,7 @@ The logo image is the first visible element on each Wiki page. It is just a stra
 <!-- MD row -->     <tr><td align="left"><br><!-- 🔴MARKDOWN BELOW🔴 -->
 
 ```md
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo">
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo">
 ```
 <p> </p></td></tr><!-- 🔴MARKDOWN END OF ROW🔴 -->
 <!-- Header row --> <tr>
@@ -530,7 +530,7 @@ The logo image is the first visible element on each Wiki page. It is just a stra
                     </tr>
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo">
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo">
 
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->

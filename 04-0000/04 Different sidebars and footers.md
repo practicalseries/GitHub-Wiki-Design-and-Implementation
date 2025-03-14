@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-ccss--eaq-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 
@@ -14,8 +14,8 @@ It can be seen here for the PracticalSeries PAL Software Wiki:
 
 <table name="f-04-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./04-0000/02-images/figm-04-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="350" src="./04-0000/02-images/figm-04-01.png" alt="Individual sidebars and footers">
+<!-- LINK -->         <a href="../04-0000/02-images/figm-04-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="350" src="../04-0000/02-images/figm-04-01.png" alt="Individual sidebars and footers">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 4.1 &mdash; Individual sidebars and footers for different pages
@@ -40,8 +40,8 @@ Sidebars are just an area that appears at the top-right side of the page, the PA
 
 <table name="f-04-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./04-0000/02-images/figm-04-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./04-0000/02-images/figm-04-02.png" alt="Sidebar arrangement">
+<!-- LINK -->         <a href="../04-0000/02-images/figm-04-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../04-0000/02-images/figm-04-02.png" alt="Sidebar arrangement">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 4.2 &mdash; Sidebar arrangement
@@ -54,8 +54,8 @@ If the browser window width contracts to less than 996&nbsp;pixels wide, the sid
 
 <table name="f-04-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./04-0000/02-images/figm-04-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="735" src="./04-0000/02-images/figm-04-03.png" alt="Reduced with sidebar">
+<!-- LINK -->         <a href="../04-0000/02-images/figm-04-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="735" src="../04-0000/02-images/figm-04-03.png" alt="Reduced with sidebar">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 4.3 &mdash; Reduced with sidebar for smaller browser windows
@@ -80,8 +80,8 @@ The sidebar also provides a fairly simple navigation bar, both are highlighted b
 
 <table name="f-04-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./04-0000/02-images/figm-04-04.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="309" src="./04-0000/02-images/figm-04-04.png" alt="PracticalSeries sidebar">
+<!-- LINK -->         <a href="../04-0000/02-images/figm-04-04.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="309" src="../04-0000/02-images/figm-04-04.png" alt="PracticalSeries sidebar">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 4.4 &mdash; Components of the PracticalSeries sidebar
@@ -94,8 +94,8 @@ The navigation bar is a simple tool for navigating between previous and next pag
 
 <table name="f-04-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./04-0000/02-images/figm-04-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="292" src="./04-0000/02-images/figm-04-05.png" alt="Navigation bar">
+<!-- LINK -->         <a href="../04-0000/02-images/figm-04-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="292" src="../04-0000/02-images/figm-04-05.png" alt="Navigation bar">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 4.5 &mdash; Navigation bar
@@ -116,8 +116,8 @@ Footers are just an area that appears at the bottom of the page (same width as t
 
 <table name="f-04-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./04-0000/02-images/figm-04-06.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./04-0000/02-images/figm-04-06.png" alt="Footer arrangement">
+<!-- LINK -->         <a href="../04-0000/02-images/figm-04-06.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../04-0000/02-images/figm-04-06.png" alt="Footer arrangement">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 4.5 &mdash; Footer arrangement

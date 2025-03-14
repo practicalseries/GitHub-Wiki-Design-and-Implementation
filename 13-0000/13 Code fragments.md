@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1300--ecg-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 13<!--        🟥H1🟥--><img width="087" height="1" src="https://psop.uk/wi-s" alt="Spacer">Code fragments
@@ -406,7 +406,7 @@ Let’s say for example that you wanted to use HTML to display the following as 
 
 ```html
 <table align="center">
-<tr><td align="center"><img src="./01-0000/02-images/figm-01-01.png"></td></tr>
+<tr><td align="center"><img src="../01-0000/02-images/figm-01-01.png"></td></tr>
 </table>
 ```
 
@@ -415,14 +415,14 @@ You would think we would simply wrap it in the `<pre><code>` tags as follows:
 
 ```html
 <pre><code><table align="center">
-<tr><td align="center"><img src="./01-0000/02-images/figm-01-01.png"></td></tr>
+<tr><td align="center"><img src="../01-0000/02-images/figm-01-01.png"></td></tr>
 </table></code></pre>
 ```
 
 What this give however is this:
 
 <pre><code><table align="center">
-<tr><td align="center"><img src="./01-0000/02-images/figm-01-01.png"></td></tr>
+<tr><td align="center"><img src="../01-0000/02-images/figm-01-01.png"></td></tr>
 </table></code></pre>
 
 It has got the grey background of a code fragment, but the HTML starting with `<table>` has simply rendered as HTML, we don’t see the code, but the code has been executed and displays the image.
@@ -479,7 +479,7 @@ To make the HTML code fragment work, it must be re-written as:
 
 ```html
 <pre><code>&lt;table align="center"&gt;
-&lt;tr&gt;&lt;td align="center"&gt;&lt;img src="./01-0000/02-images/figm-01-01.png"&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align="center"&gt;&lt;img src="../01-0000/02-images/figm-01-01.png"&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;</code></pre>
 
 ```
@@ -488,7 +488,7 @@ To make the HTML code fragment work, it must be re-written as:
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
 <pre><code>&lt;table align="center"&gt;
-&lt;tr&gt;&lt;td align="center"&gt;&lt;img src="./01-0000/02-images/figm-01-01.png"&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td align="center"&gt;&lt;img src="../01-0000/02-images/figm-01-01.png"&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;</code></pre>
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
@@ -506,7 +506,7 @@ Converting all the reserved characters in a HTML code fragment into escape codes
 
 It’s something I’ve had to do a lot when producing the PracticalSeries website. In the end I used a Word document with embedded macros to do the conversion, it is available here for you to use:
 
-&emsp;&emsp;&emsp;<!---🟡ENTER URL🟡--><a href="./13-0000/04-data/ps-html-converter.docm">ps-html-converter.docm</a>
+&emsp;&emsp;&emsp;<!---🟡ENTER URL🟡--><a href="../13-0000/04-data/ps-html-converter.docm">ps-html-converter.docm</a>
 
 To use this document: download the document, open it and enable the macros<a name="rn-02" href="#fn-02"><!-- 🟨FOOTNOTE LINK🟨--><sup>💠2</sup></a> (Word will try to stop you, especially since you downloaded it from the internet).
 
@@ -514,8 +514,8 @@ Copy the HTML you want to convert onto a blank page in the document (the one sta
 
 <table name="f-13-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./13-0000/02-images/figm-13-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./13-0000/02-images/figm-13-01.png" alt="HTML conversion">
+<!-- LINK -->         <a href="../13-0000/02-images/figm-13-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../13-0000/02-images/figm-13-01.png" alt="HTML conversion">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 13.1 &mdash; HTML code copied into the conversion document
@@ -526,8 +526,8 @@ Now select the code to be converted:
 
 <table name="f-13-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./13-0000/02-images/figm-13-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./13-0000/02-images/figm-13-02.png" alt="HTML conversion">
+<!-- LINK -->         <a href="../13-0000/02-images/figm-13-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../13-0000/02-images/figm-13-02.png" alt="HTML conversion">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 13.2 &mdash; Select the code fragment
@@ -538,8 +538,8 @@ Now press ctrl+alt+R to run the macro to convert the code. It does this:
 
 <table name="f-13-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./13-0000/02-images/figm-13-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./13-0000/02-images/figm-13-03.png" alt="HTML conversion">
+<!-- LINK -->         <a href="../13-0000/02-images/figm-13-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../13-0000/02-images/figm-13-03.png" alt="HTML conversion">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 13.3 &mdash; Converted the code fragment

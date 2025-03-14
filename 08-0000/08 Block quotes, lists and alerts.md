@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0800--eba-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 8<!--         🟥H1🟥--><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer">Block quotes, lists and alerts
@@ -1166,8 +1166,8 @@ As more digits are added (going from point 9 to point 10 or from point 99 to poi
 
 <table name="f-08-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./08-0000/02-images/figm-08-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="187" src="./08-0000/02-images/figm-08-01.png" alt="Ordered list indentations ">
+<!-- LINK -->         <a href="../08-0000/02-images/figm-08-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="187" src="../08-0000/02-images/figm-08-01.png" alt="Ordered list indentations ">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 8.1 &mdash; Ordered list indentations 

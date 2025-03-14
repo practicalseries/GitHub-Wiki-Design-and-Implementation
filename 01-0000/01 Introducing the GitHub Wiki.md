@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0100--eau-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 1<!--         🟥H1🟥--><img width="105" height="1" src="https://psop.uk/wi-s" alt="Spacer">Introducing the GitHub Wiki
@@ -9,8 +9,8 @@ GitHub introduced Wikis in 2008 and they are available to every repository on Gi
 
 <table name="f-01-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-01.png" alt="Accessing a Wiki">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-01.png" alt="Accessing a Wiki">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.1 &mdash; Accessing a Wiki
@@ -53,8 +53,8 @@ Every repository in GitHub can have Wiki pages, it’s a built-in function of Gi
 
 <table name="f-01-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-02.png" alt="Accessing a Wiki and its settings">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-02.png" alt="Accessing a Wiki and its settings">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.2 &mdash; Accessing a Wiki and its settings
@@ -67,8 +67,8 @@ To disable the Wiki option for a repository, click ${\large\color{#00B050}\langl
 
 <table name="f-01-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-03.png" alt="Disabling a Wiki">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-03.png" alt="Disabling a Wiki">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.3 &mdash; Disabling a Wiki
@@ -129,8 +129,8 @@ In the main repository, click the ${\large \color{#00B050}\langle\text{Wiki}\ran
 
 <table name="f-01-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-04.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-04.png" alt="Creating a Wiki">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-04.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-04.png" alt="Creating a Wiki">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.4 &mdash; Creating a Wiki
@@ -141,8 +141,8 @@ This opens the create first page screen:
 
 <table name="f-01-05" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-05.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-05.png" alt="Create first page">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-05.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-05.png" alt="Create first page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.5 &mdash; Create the first page
@@ -155,8 +155,8 @@ This creates the main page of the Wiki; this page is always called *Home* (it’
 
 <table name="f-01-06" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-06.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-06.png" alt="Add content">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-06.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-06.png" alt="Add content">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.6 &mdash; Add content to the first page
@@ -193,8 +193,8 @@ To create the page, click Save page and that’s it, clicking the Wiki link on t
 
 <table name="f-01-07" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-07.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-07.png" alt="New Home page">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-07.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-07.png" alt="New Home page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.7 &mdash; The newly created Wiki Home page
@@ -211,8 +211,8 @@ Once a Wiki has been created (the ${\large \color{#446FBD}\text{Home}}$ page exi
 
 <table name="f-01-08" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-08.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-08.png" alt="New page">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-08.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-08.png" alt="New page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.8 &mdash; Create a new Wiki Page
@@ -229,8 +229,8 @@ The final thing looks like this:
 
 <table name="f-01-09" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-09.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-09.png" alt="New page editor">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-09.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-09.png" alt="New page editor">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.9 &mdash; A new Wiki Page editor
@@ -241,8 +241,8 @@ It renders like this:
 
 <table name="f-01-10" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-10.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-10.png" alt="The new page">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-10.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-10.png" alt="The new page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.10 &mdash; The new Wiki Page
@@ -258,8 +258,8 @@ Editing a Wiki page is exactly the same process, just click the ${\large \color{
 
 <table name="f-01-11" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-11.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-11.png" alt="Edit a Page">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-11.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-11.png" alt="Edit a Page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.11 &mdash; Edit a Wiki Page
@@ -301,8 +301,8 @@ To view the history of a particular page, select the page in the Wiki and click 
 
 <table name="f-01-12" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-12.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-12.png" alt="Page history">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-12.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-12.png" alt="Page history">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.12 &mdash; Wiki page history
@@ -314,8 +314,8 @@ Ticking any two of the tick boxes and selecting ${\large \color{#00B050}\langle\
 
 <table name="f-01-13" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-13.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-13.png" alt="Version differences">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-13.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-13.png" alt="Version differences">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.13 &mdash; Version differences within a file
@@ -348,8 +348,8 @@ Let’s say that I logon to GitHub using the username: `practicalseries` and let
 
 <table name="f-01-14" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-14.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-14.png" alt="Test repository">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-14.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-14.png" alt="Test repository">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.14 &mdash; A test repository
@@ -359,8 +359,8 @@ It looks like this:
 
 <table name="f-01-15" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-15.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-15.png" alt="New repository">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-15.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-15.png" alt="New repository">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.15 &mdash; The new test repository
@@ -374,8 +374,8 @@ Firstly, lets access the `README.md` file (by clicking on it in the file list, h
 
 <table name="f-01-16" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-16.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-16.png" alt="Repository URL">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-16.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-16.png" alt="Repository URL">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.16 &mdash; URL for a standard REPOSITORY page
@@ -395,8 +395,8 @@ If we do the same with the Wiki Home page (by clicking the ${\large \color{#00B0
 
 <table name="f-01-17" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-17.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-17.png" alt="WIKI page URL">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-17.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-17.png" alt="WIKI page URL">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.17 &mdash; URL for a WIKI page
@@ -458,8 +458,8 @@ GitHub Wiki pages have various standard (and in some cases, optional) components
 
 <table name="f-01-18" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-18.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-18.png" alt="PAL Software page">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-18.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-18.png" alt="PAL Software page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.18 &mdash; The PAL Software Wiki page
@@ -491,8 +491,8 @@ The third point (point &#x2462; in <a href="#f-01-18">Figure&nbsp;1.18</a>) is t
 
 <table name="f-01-19" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-19.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./01-0000/02-images/figm-01-19.png" alt="Wiki contents page">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-19.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../01-0000/02-images/figm-01-19.png" alt="Wiki contents page">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.19 &mdash; The Wiki contents page
@@ -518,8 +518,8 @@ Would appear in the Pages area as:
 
 <table name="f-01-20" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-20.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./01-0000/02-images/figm-01-20.png" alt="Pages in wrong order">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-20.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../01-0000/02-images/figm-01-20.png" alt="Pages in wrong order">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.20 &mdash; Pages listed in the wrong order
@@ -540,8 +540,8 @@ This can be seen in the following example:
 
 <table name="f-01-21" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-21.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img src="./01-0000/02-images/figm-01-21.png" alt="Pages in right order">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-21.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img src="../01-0000/02-images/figm-01-21.png" alt="Pages in right order">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.21 &mdash; Pages listed in the right order
@@ -610,8 +610,8 @@ If no sidebar or footer exists, GitHub will prompt for them to be made on the Ho
 
 <table name="f-01-22" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-22.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-22.png" alt="Creating a sidebar/footer">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-22.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-22.png" alt="Creating a sidebar/footer">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.22 &mdash; Creating a sidebar or footer
@@ -621,8 +621,8 @@ Sidebars and footers that already exist can be edited from any page by clicking 
 
 <table name="f-01-22" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./01-0000/02-images/figm-01-23.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./01-0000/02-images/figm-01-23.png" alt="Editing a sidebar/footer">
+<!-- LINK -->         <a href="../01-0000/02-images/figm-01-23.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../01-0000/02-images/figm-01-23.png" alt="Editing a sidebar/footer">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 1.23 &mdash; Editing a sidebar or footer

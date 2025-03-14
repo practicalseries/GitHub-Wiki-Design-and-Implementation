@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0600--eaD-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 6<!--         🟥H1🟥--><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer">Basic Markdown and text formatting
@@ -35,8 +35,8 @@ The font colour is a dark grey colour (not black), it is the colour `rgb(31, 35,
 
 <table name="f-06-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td >
-<!-- LINK -->         <a href="./06-0000/02-images/figm-06-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="189" height="99" src="./06-0000/02-images/figm-06-02.png" alt="Body text colour">
+<!-- LINK -->         <a href="../06-0000/02-images/figm-06-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="189" height="99" src="../06-0000/02-images/figm-06-02.png" alt="Body text colour">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 6.2 &mdash; Body text font colour
@@ -468,8 +468,8 @@ Text line 2 (forced break above)
                     </tr>
 <!-- GIT row -->    <tr><td align="left"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<a href="./06-0000/02-images/figm-06-02a.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="359" src="./06-0000/02-images/figm-06-02a.png" alt="Single line break"></a>
+<a href="../06-0000/02-images/figm-06-02a.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="359" src="../06-0000/02-images/figm-06-02a.png" alt="Single line break"></a>
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -502,8 +502,8 @@ Text line 3 (2 x forced breaks above)
                     </tr>
 <!-- GIT row -->    <tr><td align="left"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<a href="./06-0000/02-images/figm-06-02b.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="359" src="./06-0000/02-images/figm-06-02b.png" alt="Double line break"></a>
+<a href="../06-0000/02-images/figm-06-02b.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="359" src="../06-0000/02-images/figm-06-02b.png" alt="Double line break"></a>
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -534,8 +534,8 @@ Text line 3 (blank line above)
                     </tr>
 <!-- GIT row -->    <tr><td align="left"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<a href="./06-0000/02-images/figm-06-02c.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="359" src="./06-0000/02-images/figm-06-02c.png" alt="Blank line break"></a>
+<a href="../06-0000/02-images/figm-06-02c.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="359" src="../06-0000/02-images/figm-06-02c.png" alt="Blank line break"></a>
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -569,8 +569,8 @@ The HTML `<p>` tag does produce the correct paragraph spacing (same as a blank l
                     </tr>
 <!-- GIT row -->    <tr><td align="left"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-<a href="./06-0000/02-images/figm-06-02d.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="359" src="./06-0000/02-images/figm-06-02d.png" alt="HTML paragraphs"></a>
+<a href="../06-0000/02-images/figm-06-02d.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="359" src="../06-0000/02-images/figm-06-02d.png" alt="HTML paragraphs"></a>
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>

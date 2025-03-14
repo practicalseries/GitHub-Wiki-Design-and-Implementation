@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-1500--eck-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 15<!--        🟥H1🟥--><img width="087" height="1" src="https://psop.uk/wi-s" alt="Spacer">Navigation bars, badges and buttons
@@ -19,8 +19,8 @@ Navigation bars are used in all PracticalSeries sidebars and footers, they are u
 
 <table name="f-15-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./15-0000/02-images/figm-15-01.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./15-0000/02-images/figm-15-01.png" alt="Nav bar">
+<!-- LINK -->         <a href="../15-0000/02-images/figm-15-01.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../15-0000/02-images/figm-15-01.png" alt="Nav bar">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 15.1 &mdash; Navigation bars
@@ -32,8 +32,8 @@ The navigation bars in the sidebar and footer are identical for a particular pag
 
 <table name="f-15-02" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./15-0000/02-images/figm-15-02.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="292" src="./15-0000/02-images/figm-15-02.png" alt="Nav bar details">
+<!-- LINK -->         <a href="../15-0000/02-images/figm-15-02.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="292" src="../15-0000/02-images/figm-15-02.png" alt="Nav bar details">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 15.2 &mdash; Navigation bar details
@@ -131,37 +131,37 @@ The ${\color{#00B050}\text{[ImageName]}}$ is one of five images stored in the Wi
                         <th width="250" align="left">Function</th>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img width="25" src="./00-0000/02-images/wi-l.svg" alt="Nav bar details"></td>
+                        <td align="center"><img width="25" src="../00-0000/02-images/wi-l.svg" alt="Nav bar details"></td>
                         <td align="left"><code>wi-l.svg</code></td>
                         <td align="left">Wiki image, left arrow</td>
                         <td align="left">Prev page</td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img width="25" src="./00-0000/02-images/wi-u.svg" alt="Nav bar details"></td>
+                        <td align="center"><img width="25" src="../00-0000/02-images/wi-u.svg" alt="Nav bar details"></td>
                         <td align="left"><code>wi-u.svg</code></td>
                         <td align="left">Wiki image, up arrow</td>
                         <td align="left">Prev chapter</td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img width="25" src="./00-0000/02-images/wi-h.svg" alt="Nav bar details"></td>
+                        <td align="center"><img width="25" src="../00-0000/02-images/wi-h.svg" alt="Nav bar details"></td>
                         <td align="left"><code>wi-h.svg</code></td>
                         <td align="left">Wiki image, home</td>
                         <td align="left">Home page</td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img width="25" src="./00-0000/02-images/wi-d.svg" alt="Nav bar details"></td>
+                        <td align="center"><img width="25" src="../00-0000/02-images/wi-d.svg" alt="Nav bar details"></td>
                         <td align="left"><code>wi-d.svg</code></td>
                         <td align="left">Wiki image, down arrow</td>
                         <td align="left">Next chapter</td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img width="25" src="./00-0000/02-images/wi-r.svg" alt="Nav bar details"></td>
+                        <td align="center"><img width="25" src="../00-0000/02-images/wi-r.svg" alt="Nav bar details"></td>
                         <td align="left"><code>wi-r.svg</code></td>
                         <td align="left">Wiki image, right arrow</td>
                         <td align="left">Next page</td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img width="25" src="./00-0000/02-images/wi-b.svg" alt="Nav bar details"></td>
+                        <td align="center"><img width="25" src="../00-0000/02-images/wi-b.svg" alt="Nav bar details"></td>
                         <td align="left"><code>wi-b.svg</code></td>
                         <td align="left">Wiki image, white square (blank)</td>
                         <td align="left">Place holder for a blank cell</td>
@@ -287,55 +287,55 @@ The predefined colours are as follows; each is a range of colours from the top t
                         <th width="200" align="center">Bottom colour</th>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02a.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02a.png" alt="IO colour"></td>
                         <td align="left"><code>brightgreen, success</code></td>
                         <td align="center"><code>#4FCA21</code></td>
                         <td align="center"><code>#3DB80F</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02b.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02b.png" alt="IO colour"></td>
                         <td align="left"><code>green</code></td>
                         <td align="center"><code>#9AC812</code></td>
                         <td align="center"><code>#89B701</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02c.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02c.png" alt="IO colour"></td>
                         <td align="left"><code>yellow</code></td>
                         <td align="center"><code>#DBB327</code></td>
                         <td align="center"><code>#C9A115</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02d.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02d.png" alt="IO colour"></td>
                         <td align="left"><code>yellowgreen</code></td>
                         <td align="center"><code>#A6A82C</code></td>
                         <td align="center"><code>#94961A</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02e.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02e.png" alt="IO colour"></td>
                         <td align="left"><code>orange, important</code></td>
                         <td align="center"><code>#F78344</code></td>
                         <td align="center"><code>#E57132</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02f.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02f.png" alt="IO colour"></td>
                         <td align="left"><code>red, critical</code></td>
                         <td align="center"><code>#DC664F</code></td>
                         <td align="center"><code>#CA543D</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02g.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02g.png" alt="IO colour"></td>
                         <td align="left"><code>blue, informational</code></td>
                         <td align="center"><code>#4FCA21</code></td>
                         <td align="center"><code>#3DB80F</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02h.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02h.png" alt="IO colour"></td>
                         <td align="left"><code>grey, gray</code></td>
                         <td align="center"><code>#5F5F5F</code></td>
                         <td align="center"><code>#4D4D4D</code></td>
                     </tr>
 <!-- Data row -->   <tr>
-                        <td align="center"><img height="40" width="90" src="./15-0000/02-images/figm-15-02i.png" alt="IO colour"></td>
+                        <td align="center"><img height="40" width="90" src="../15-0000/02-images/figm-15-02i.png" alt="IO colour"></td>
                         <td align="left"><code>lightgrey, lightgray, inactive</code></td>
                         <td align="center"><code>#A1A1A1</code></td>
                         <td align="center"><code>#8F8F8F</code></td>
@@ -596,8 +596,8 @@ The populated page looks like this:
 
 <table name="f-15-03" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
-<!-- LINK -->         <a href="./15-0000/02-images/figm-15-03.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="850" src="./15-0000/02-images/figm-15-03.png" alt="Dynamic badge configuration">
+<!-- LINK -->         <a href="../15-0000/02-images/figm-15-03.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="850" src="../15-0000/02-images/figm-15-03.png" alt="Dynamic badge configuration">
                     </a></td></tr>
 <!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->   Figure 15.1 &mdash; Dynamic badge configuration
