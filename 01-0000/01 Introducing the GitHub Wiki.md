@@ -179,7 +179,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author about emojis](07-special-characters-and-escaping-characters#a-note-by-the-author-about-emojis)<br>
 &emsp;&ensp;&hairsp;[7.4&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Comments](07-special-characters-and-escaping-characters#74comments)<br>
 </details><!--               🟩🟩🟩 -->
-
+                        </td>
+                        <td width="448" align="left" valign="top">
 <details><!-- [SECTION 08]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
 <summary><a href="../08-block-quotes,-lists-and-alerts">8<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Block quotes, lists and alerts</a>
 </summary><!-- BLANK LINE BELOW -->
@@ -238,8 +239,7 @@
 &emsp;&ensp;&hairsp;[9.8&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Relative links](09.05-links#98relative-links)<br>
 &emsp;&ensp;&hairsp;[9.8.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Relative links from any Wiki page](09.05-links#981relative-links-from-any-wiki-page)<br>
 </details><!--               🟩🟩🟩 -->
-                        </td>
-                        <td width="448" align="left" valign="top">
+
 <details><!-- [SECTION 10]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
 <summary><a href="../10-tables">10<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Tables</a>
 </summary><!-- BLANK LINE BELOW -->
