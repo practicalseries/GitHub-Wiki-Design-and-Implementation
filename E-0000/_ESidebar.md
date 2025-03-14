@@ -23,49 +23,49 @@ home                                                    ../Home.md
 casenotes                                               ../00-0000/CaseNotes.md
 licence                                                 ../00-0000/Licence.md
 01-introducing-the-github-wiki                          ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
-02-cloning-a-wiki                                       ../02-0000/02 Cloning a Wiki.md
-03-a-wiki-folder-structure                              ../03-0000/03 A Wiki folder structure.md
-04-different-sidebars-and-footers                       ../04-0000/04 Different sidebars and footers.md
-05-markdown,-github-markdown-and-html                   ../05-0000/05 Markdown, GitHub Markdown and HTML.md
-06-basic markdown and text formatting
-06.04-basic markdown and text formatting
-06.07-basic markdown and text formatting
-06.10-basic markdown and text formatting
-07-special-characters-and-escaping-characters
-08-block-quotes,-lists-and-alerts
-09-links
-09.05-links
-10-tables
-11-images
-11.05-images
-12-contents,-collapsible-content-and-footnotes
-13-code-fragments
-14-mathematical-formulae
-15-navigation-bars,-badges-and-buttons
-16-practicalseries-wiki-conventions
+02-cloning-a-wiki                                       ../02-0000/02%20Cloning%20a%20Wiki.md
+03-a-wiki-folder-structure                              ../03-0000/03%20A%20Wiki%20folder%20structure.md
+04-different-sidebars-and-footers                       ../04-0000/04%20Different%20sidebars%20and%20footers.md
+05-markdown,-github-markdown-and-html                   ../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md
+06-basic-markdown-and-text-formatting                   ../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md
+06.04-basic markdown and text formatting                ../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md
+06.07-basic markdown and text formatting                ../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md
+06.10-basic markdown and text formatting                ../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md
+07-special-characters-and-escaping-characters           ../07-0000/07%20Special%20characters%20and%20escaping%20characters.md
+08-block-quotes,-lists-and-alerts                       ../08-0000/08%20Block%20quotes,%20lists%20and%20alerts.md
+09-links                                                ../09-0000/09%20Links.md
+09.05-links                                             ../09-0500/09.05%20Links.md
+10-tables                                               ../10-0000/10%20Tables.md
+11-images                                               ../11-0000/11%20Images.md
+11.05-images                                            ../11-0500/11.05%20Images.md
+12-contents,-collapsible-content-and-footnotes          ../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md
+13-code-fragments                                       ../13-0000/13%20Code%20fragments.md
+14-mathematical-formulae                                ../14-0000/14%20Mathematical%20formulae.md
+15-navigation-bars,-badges-and-buttons                  ../15-0000/15%20Navigation%20bars,%20badges%20and%20buttons.md
+16-practicalseries-wiki-conventions                     ../16-0000/16%20PracticalSeries%20Wiki%20conventions.md
 16.05-practicalseries-wiki-conventions                  ../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md
-16.06-practicalseries-wiki-conventions
-17-managing-a-wiki
-app-a-html-escape-characters
-app-b-emoji-list
-app-b.03-emoji-list
-app-c-segoe-character-set
-app-c.02-segoe-character-set
-app-c.03-segoe-character-set
-app-c.04-segoe-character-set
-app-c.05-segoe-character-set
-app-c.06-segoe-character-set
-app-c.07-segoe-character-set
-app-c.08-segoe-character-set
-app-c.09-segoe-character-set
-app-c.10-segoe-character-set
-app-c.11-segoe-character-set
-app-c.12-segoe-character-set
-app-c.13-segoe-character-set
-app-c.14-segoe-character-set
-app-d-3d-model
-app-e-template
--->
+16.06-practicalseries-wiki-conventions                  ../16-0600/16.06%20PracticalSeries%20Wiki%20conventions.md
+17-managing-a-wiki                                      ../17-0000/17%20Managing%20a%20Wiki.md
+app-a-html-escape-characters                            ../A-0000/App%20A%20HTML%20escape%20characters.md
+app-b-emoji-list                                        ../B-0000/App%20B%20Emoji%20list.md
+app-b.03-emoji-list                                     ../B-0300/App%20B.03%20Emoji%20list.md
+app-c-segoe-character-set                               ../C-0000/App%20C%20Segoe%20Character%20Set.md
+app-c.02-segoe-character-set                            ../C-0200/App%20C.02%20Segoe%20Character%20Set.md
+app-c.03-segoe-character-set                            ../C-0300/App%20C.03%20Segoe%20Character%20Set.md
+app-c.04-segoe-character-set                            ../C-0400/App%20C.04%20Segoe%20Character%20Set.md
+app-c.05-segoe-character-set                            ../C-0500/App%20C.05%20Segoe%20Character%20Set.md
+app-c.06-segoe-character-set                            ../C-0600/App%20C.06%20Segoe%20Character%20Set.md
+app-c.07-segoe-character-set                            ../C-0700/App%20C.07%20Segoe%20Character%20Set.md
+app-c.08-segoe-character-set                            ../C-0800/App%20C.08%20Segoe%20Character%20Set.md
+app-c.09-segoe-character-set                            ../C-0900/App%20C.09%20Segoe%20Character%20Set.md
+app-c.10-segoe-character-set                            ../C-1000/App%20C.10%20Segoe%20Character%20Set.md
+app-c.11-segoe-character-set                            ../C-1100/App%20C.11%20Segoe%20Character%20Set.md
+app-c.12-segoe-character-set                            ../C-1200/App%20C.12%20Segoe%20Character%20Set.md
+app-c.13-segoe-character-set                            ../C-1300/App%20C.13%20Segoe%20Character%20Set.md
+app-c.14-segoe-character-set                            ../C-1400/App%20C.14%20Segoe%20Character%20Set.md
+app-d-3d-model                                          ../D-0000/App%20D%203D%20model.md
+app-e-template                                          ../E-0000/App%20E%20Template.md
+
 
 <details ><!-- HOME          🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
 <summary>&emsp;&ensp;&nbsp;<a href="home"><!-- HEAD -->Home</a>

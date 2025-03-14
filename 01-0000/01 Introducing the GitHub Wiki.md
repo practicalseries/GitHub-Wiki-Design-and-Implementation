@@ -9,31 +9,31 @@
 <!-- DATA ROW -->   <tr>
                         <td width="448" align="left" valign="top">
 <details ><!-- HOME          🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
-<summary>&emsp;&ensp;&nbsp;<a href="Home.md"><!-- HEAD -->Home</a>
+<summary>&emsp;&ensp;&nbsp;<a href="../Home.md"><!-- HEAD -->Home</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The GitHub Wiki](home#github-wiki--design-and-implementation)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[What does this guide cover?](home#what-does-this-guide-cover)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](home#a-note-by-the-author)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The GitHub Wiki](../Home.md#github-wiki--design-and-implementation)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[What does this guide cover?](../Home.md#what-does-this-guide-cover)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](../Home.md#a-note-by-the-author)<br>
 </details><!--               🟩🟩🟩 -->
 
 
 <!--          [CASENOTES]    🟢🟢🟢 UNNUMBERED, NO COLLAPSE -->
-&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="casenotes"><!-- HEAD -->CaseNotes</a>
+&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="../00-0000/CaseNotes.md"><!-- HEAD -->CaseNotes</a>
 <!--                         🟩🟩🟩 -->
 
 <details ><!-- LICENCE       🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
-<summary>&emsp;&ensp;&nbsp;<a href="licence"><!-- HEAD -->Licence</a>
+<summary>&emsp;&ensp;&nbsp;<a href="../00-0000/Licence.md"><!-- HEAD -->Licence</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The licences and other details](licence#the-licences-and-other-details)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The Licence](licence#the-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Why did I choose the MIT Licence?](licence#why-did-i-choose-the-mit-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Permissive licences](licence#permissive-licences)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Copyleft licence](licence#copyleft-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Limiting liabilities](licence#limiting-liabilities)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](licence#which-licence-to-use)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling: licence or license](licence#a-note-on-spelling-licence-or-license)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The licences and other details](../00-0000/Licence.md#the-licences-and-other-details)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The Licence](../00-0000/Licence.md#the-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Why did I choose the MIT Licence?](../00-0000/Licence.md#why-did-i-choose-the-mit-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Permissive licences](../00-0000/Licence.md#permissive-licences)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Copyleft licence](../00-0000/Licence.md#copyleft-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Limiting liabilities](../00-0000/Licence.md#limiting-liabilities)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](../00-0000/Licence.md#which-licence-to-use)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling: licence or license](../00-0000/Licence.md#a-note-on-spelling-licence-or-license)<br>
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
