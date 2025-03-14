@@ -1,34 +1,32 @@
-### Wiki contents<img width="111" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-C--1200-808080">
+### Wiki contents<img width="113" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-E--0000-808080">
 
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="app-c.11-segoe-character-set">
+                <a class="hlink" href="app-d-3d-model">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="app-b-emoji-list">
+                <a class="hlink" href="app-d-3d-model">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="home">
                 <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="app-d-3d-model">
-                <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
+                <img height="30px" src="https://psop.uk/wi-b"></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="app-c.13-segoe-character-set">
-                <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
+                <img height="30px" src="https://psop.uk/wi-b"></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 
 
 <!-- PAGE REFERENCES FOR LINKS
 https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/
-home
-casenotes
-licence
-01-introducing-the-github-wiki
-02-imposing-a-folder-structure-on-a-wiki
-03-a-wiki-folder-structure
-04-different-sidebars-and-footers
-05-markdown,-github-markdown-and-html
+home                                                    ../Home.md
+casenotes                                               ../00-0000/CaseNotes.md
+licence                                                 ../00-0000/Licence.md
+01-introducing-the-github-wiki                          ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
+02-cloning-a-wiki                                       ../02-0000/02 Cloning a Wiki.md
+03-a-wiki-folder-structure                              ../03-0000/03 A Wiki folder structure.md
+04-different-sidebars-and-footers                       ../04-0000/04 Different sidebars and footers.md
+05-markdown,-github-markdown-and-html                   ../05-0000/05 Markdown, GitHub Markdown and HTML.md
 06-basic markdown and text formatting
 06.04-basic markdown and text formatting
 06.07-basic markdown and text formatting
@@ -45,7 +43,7 @@ licence
 14-mathematical-formulae
 15-navigation-bars,-badges-and-buttons
 16-practicalseries-wiki-conventions
-16.05-practicalseries-wiki-conventions
+16.05-practicalseries-wiki-conventions                  ../16-0500/16.05 PracticalSeries Wiki conventions.md
 16.06-practicalseries-wiki-conventions
 17-managing-a-wiki
 app-a-html-escape-characters
@@ -540,7 +538,7 @@ app-e-template
 &emsp;&ensp;&hairsp;[B.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Emoji characters by Unicode](app-b.03-emoji-list#b3full-list-of-all-emoji-characters-by-unicode-value)<br>
 </details><!--               🟨🟨🟨 -->
 
-<details open><!-- [APP C]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<details><!-- [APP C]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
 <summary><a href="../app-c-segoe-character-set">C<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Segoe UI full character set</a>
 </summary><!-- BLANK LINE BELOW -->
 
@@ -569,26 +567,26 @@ app-e-template
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[3D Sierpinski cube](app-d-3d-model#3d-sierpinski-cube)<br>
 </details><!--               🟨🟨🟨 -->
 
-<details><!-- [APP E]       🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<details open><!-- [APP E]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
 <summary><a href="../app-e-template">E<!-- NUM -->&ensp;&nbsp;&nbsp;&nbsp;<!-- HEAD -->Template</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[COMMENT FIELDS](app-e-template#--------comment-fields)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HEADINGS](app-e-template#--------------headings)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[TABLES](app-e-template#----------------tables)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[FIGURES](app-e-template#---------------figures)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[LISTS](app-e-template#-----------------lists)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[TASK LISTS](app-e-template#------------task-lists)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[CODE FRAGMENT](app-e-template#---------code-fragment)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[FORMULAE](app-e-template#--------------formulae)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[LINKS](app-e-template#-----------------links)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[BUTTONS](app-e-template#---------------buttons)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[ALERTS](app-e-template#----------------alerts)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[COLOURED TEXT](app-e-template#---------coloured-text)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[INDEX NUMBERS](app-e-template#---------index-numbers)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[END OF SECTION](app-e-template#--------end-of-section)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[FOOTNOTE](app-e-template#--------------footnote)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[END OF PAGE](app-e-template#-----------end-of-page)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[COMMENT FIELDS](#--------comment-fields)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HEADINGS](#--------------headings)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[TABLES](#----------------tables)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[FIGURES](#---------------figures)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[LISTS](#-----------------lists)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[TASK LISTS](#------------task-lists)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[CODE FRAGMENT](#---------code-fragment)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[FORMULAE](#--------------formulae)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[LINKS](#-----------------links)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[BUTTONS](#---------------buttons)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[ALERTS](#----------------alerts)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[COLOURED TEXT](#---------coloured-text)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[INDEX NUMBERS](#---------index-numbers)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[END OF SECTION](#--------end-of-section)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[FOOTNOTE](#--------------footnote)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[END OF PAGE](#-----------end-of-page)<br>
 </details><!--               🟨🟨🟨 -->
 
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
