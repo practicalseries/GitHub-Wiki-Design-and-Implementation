@@ -96,7 +96,7 @@ app-e-template
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling: licence or license](licence#a-note-on-spelling-licence-or-license)<br>
 </details><!--               🟩🟩🟩 -->
 
-<details open><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<details><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
 <summary><a href="../01-introducing-the-github-wiki">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 

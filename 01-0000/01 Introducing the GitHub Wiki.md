@@ -3,12 +3,11 @@
 <img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0100--eau-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
-<table name="t-cc-nn" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
-<!-- Header row --> <tr>
-                        <th align="center" colspan="3">Table of Contents</th>
-                    </tr>
-<!-- Data row -->   <tr>
-                        <td width="298" align="left">
+
+
+<table name="t-TOC-01" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
+<!-- DATA ROW -->   <tr>
+                        <td width="448" align="left" valing="top">
 <details ><!-- HOME          🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
 <summary>&emsp;&ensp;&nbsp;<a href="../Home.md"><!-- HEAD -->Home</a>
 </summary><!-- BLANK LINE BELOW -->
@@ -117,8 +116,6 @@
 &emsp;&ensp;&hairsp;[5.5.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;PracticalSeries and Markdown](05-markdown,-github-markdown-and-html#552practicalseries-and-markdown)<br>
 &emsp;&ensp;&hairsp;[5.6&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Markdown difference between files](05-markdown,-github-markdown-and-html#56markdown-difference-between-files)<br>
 </details><!--               🟩🟩🟩 -->
-                        </td>
-                        <td width="298" align="left">
 
 <details><!-- [SECTION 06]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
 <summary><a href="../06-basic-markdown-and-text-formatting">6<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Basic Markdown and text formatting</a>
@@ -241,7 +238,8 @@
 &emsp;&ensp;&hairsp;[9.8&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Relative links](09.05-links#98relative-links)<br>
 &emsp;&ensp;&hairsp;[9.8.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Relative links from any Wiki page](09.05-links#981relative-links-from-any-wiki-page)<br>
 </details><!--               🟩🟩🟩 -->
-
+                        </td>
+                        <td width="448" align="left" valing="top">
 <details><!-- [SECTION 10]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
 <summary><a href="../10-tables">10<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Tables</a>
 </summary><!-- BLANK LINE BELOW -->
@@ -321,8 +319,6 @@
 &emsp;&ensp;&hairsp;[13.4&emsp;&emsp;&thinsp;&hairsp;HTML code fragments](13-code-fragments#134html-code-fragments)<br>
 &emsp;&ensp;&hairsp;[13.4.1&emsp;&ensp;&hairsp;Converting HTML to code](13-code-fragments#1341converting-html-to-code-fragments)<br>
 </details><!--               🟩🟩🟩 -->
-                        </td>
-                        <td width="298" align="left">
 
 <details><!-- [SECTION 14]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
 <summary><a href="../14-mathematical-formulae">14<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Mathematical formulae</a>
@@ -538,13 +534,10 @@
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
                         </td>
                     </tr>
-<!-- CAPTION -->    <tr><th colspan="3" align="left"><sup>
-<!-- CAPTION TEXT -->   Table cc.n &mdash; Markdown escape characters
-                    </sup></th></tr>
-</table>
-<br clear="all">                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
-
-
+<!-- CAPTION -->    <tr><th colspan="2" align="left"><sup>
+<!-- CAPTION TEXT -->Table of contents
+                     </sup></th></tr>
+</table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
 
 
