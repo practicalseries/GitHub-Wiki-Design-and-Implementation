@@ -19,14 +19,14 @@
 
 <!-- PAGE REFERENCES FOR LINKS
 https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/
-home
-casenotes
-licence
-01-introducing-the-github-wiki
-02-imposing-a-folder-structure-on-a-wiki
-03-a-wiki-folder-structure
-04-different-sidebars-and-footers
-05-markdown,-github-markdown-and-html
+home                                                    ../Home.md
+casenotes                                               ../00-0000/CaseNotes.md
+licence                                                 ../00-0000/Licence.md
+01-introducing-the-github-wiki                          ../01-0000/01 Introducing the GitHub Wiki.md
+02-imposing-a-folder-structure-on-a-wiki                ../02-0000/02 Cloning a Wiki.md
+03-a-wiki-folder-structure                              ../03-0000/03 A Wiki folder structure.md
+04-different-sidebars-and-footers                       ../04-0000/04 Different sidebars and footers.md
+05-markdown,-github-markdown-and-html                   ../05-0000/05 Markdown, GitHub Markdown and HTML.md
 06-basic markdown and text formatting
 06.04-basic markdown and text formatting
 06.07-basic markdown and text formatting

@@ -19,45 +19,45 @@
 
 
 <!--          [CASENOTES]    🟢🟢🟢 UNNUMBERED, NO COLLAPSE -->
-&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="casenotes"><!-- HEAD -->CaseNotes</a>
+&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="../00-0000/CaseNotes.md"><!-- HEAD -->CaseNotes</a>
 <!--                         🟩🟩🟩 -->
 
 <details ><!-- LICENCE       🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
-<summary>&emsp;&ensp;&nbsp;<a href="licence"><!-- HEAD -->Licence</a>
+<summary>&emsp;&ensp;&nbsp;<a href="../00-0000/Licence.md"><!-- HEAD -->Licence</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The licences and other details](licence#the-licences-and-other-details)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The Licence](licence#the-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Why did I choose the MIT Licence?](licence#why-did-i-choose-the-mit-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Permissive licences](licence#permissive-licences)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Copyleft licence](licence#copyleft-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Limiting liabilities](licence#limiting-liabilities)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](licence#which-licence-to-use)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling: licence or license](licence#a-note-on-spelling-licence-or-license)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The licences and other details](../00-0000/Licence.md#the-licences-and-other-details)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The Licence](../00-0000/Licence.md#the-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Why did I choose the MIT Licence?](../00-0000/Licence.md#why-did-i-choose-the-mit-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Permissive licences](../00-0000/Licence.md#permissive-licences)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Copyleft licence](../00-0000/Licence.md#copyleft-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Limiting liabilities](../00-0000/Licence.md#limiting-liabilities)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](../00-0000/Licence.md#which-licence-to-use)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling: licence or license](../00-0000/Licence.md#a-note-on-spelling-licence-or-license)<br>
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="../01-introducing-the-github-wiki">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
+<summary><a href="../../01-0000/01 Introducing the GitHub Wiki.md">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](#11what-are-github-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](#12understanding-the-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](#13creating-a-wiki-for-a-repository)<br>
-&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](#131creating-the-first-wiki-page)<br>
-&emsp;&ensp;&hairsp;[1.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating additional pages](#132creating-additional-pages)<br>
-&emsp;&ensp;&hairsp;[1.3.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Editing a Wiki page](#133editing-a-wiki-page)<br>
-&emsp;&ensp;&hairsp;[1.4&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;The Wiki is its own repository](#14the-wiki-is-its-own-repository)<br>
-&emsp;&ensp;&hairsp;[1.4.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Viewing a Wiki page history](#141viewing-a-wiki-page-history)<br>
-&emsp;&ensp;&hairsp;[1.4.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;How GitHub handles Wiki branche](#142how-github-handles-wiki-branches)<br>
-&emsp;&ensp;&hairsp;[1.4.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;The Wiki link to the main repository](#143the-wiki-and-its-link-to-the-main-repository)<br>
-&emsp;&ensp;&hairsp;[1.5&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Basic components of a Wiki page](#15basic-components-of-a-wiki-page)<br>
-&emsp;&ensp;&hairsp;[1.5.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Title bar and revision](#151title-bar-and-revision)<br>
-&emsp;&ensp;&hairsp;[1.5.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Contents (pages) area](#152contents-pages-area)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Listing pages in the order you want](#listing-the-pages-in-the-order-you-want)<br>
-&emsp;&ensp;&hairsp;[1.5.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Sidebars](#153sidebars)<br>
-&emsp;&ensp;&hairsp;[1.5.4&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Footers](#154footers)<br>
-&emsp;&ensp;&hairsp;[1.6&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Sidebars and footers](#16sidebars-and-footers)<br>
-&emsp;&ensp;&hairsp;[1.6.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating a sidebar and footer](#161creating-a-sidebar-and-footer-in-github)<br>
+&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](../01-0000/01 Introducing the GitHub Wiki.md#11what-are-github-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](../01-0000/01 Introducing the GitHub Wiki.md#12understanding-the-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](../01-0000/01 Introducing the GitHub Wiki.md#13creating-a-wiki-for-a-repository)<br>
+&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](../01-0000/01 Introducing the GitHub Wiki.md#131creating-the-first-wiki-page)<br>
+&emsp;&ensp;&hairsp;[1.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating additional pages](../01-0000/01 Introducing the GitHub Wiki.md#132creating-additional-pages)<br>
+&emsp;&ensp;&hairsp;[1.3.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Editing a Wiki page](../01-0000/01 Introducing the GitHub Wiki.md#133editing-a-wiki-page)<br>
+&emsp;&ensp;&hairsp;[1.4&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;The Wiki is its own repository](../01-0000/01 Introducing the GitHub Wiki.md#14the-wiki-is-its-own-repository)<br>
+&emsp;&ensp;&hairsp;[1.4.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Viewing a Wiki page history](../01-0000/01 Introducing the GitHub Wiki.md#141viewing-a-wiki-page-history)<br>
+&emsp;&ensp;&hairsp;[1.4.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;How GitHub handles Wiki branche](../01-0000/01 Introducing the GitHub Wiki.md#142how-github-handles-wiki-branches)<br>
+&emsp;&ensp;&hairsp;[1.4.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;The Wiki link to the main repository](../01-0000/01 Introducing the GitHub Wiki.md#143the-wiki-and-its-link-to-the-main-repository)<br>
+&emsp;&ensp;&hairsp;[1.5&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Basic components of a Wiki page](../01-0000/01 Introducing the GitHub Wiki.md#15basic-components-of-a-wiki-page)<br>
+&emsp;&ensp;&hairsp;[1.5.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Title bar and revision](../01-0000/01 Introducing the GitHub Wiki.md#151title-bar-and-revision)<br>
+&emsp;&ensp;&hairsp;[1.5.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Contents (pages) area](../01-0000/01 Introducing the GitHub Wiki.md#152contents-pages-area)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Listing pages in the order you want](../01-0000/01 Introducing the GitHub Wiki.md#listing-the-pages-in-the-order-you-want)<br>
+&emsp;&ensp;&hairsp;[1.5.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Sidebars](../01-0000/01 Introducing the GitHub Wiki.md#153sidebars)<br>
+&emsp;&ensp;&hairsp;[1.5.4&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Footers](../01-0000/01 Introducing the GitHub Wiki.md#154footers)<br>
+&emsp;&ensp;&hairsp;[1.6&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Sidebars and footers](../01-0000/01 Introducing the GitHub Wiki.md#16sidebars-and-footers)<br>
+&emsp;&ensp;&hairsp;[1.6.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating a sidebar and footer](../01-0000/01 Introducing the GitHub Wiki.md#161creating-a-sidebar-and-footer-in-github)<br>
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 02]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
@@ -534,10 +534,12 @@
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
                         </td>
                     </tr>
-<!-- CAPTION -->    <tr><th colspan="2" align="left"><sup>
+<!-- CAPTION -->    <tr><th colspan="2" align="center"><sup>
 <!-- CAPTION TEXT -->Table of contents
                      </sup></th></tr>
 </table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
+
+<br><br>
 
 
 
