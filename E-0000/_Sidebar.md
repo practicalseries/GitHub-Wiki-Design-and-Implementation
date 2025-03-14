@@ -22,7 +22,7 @@ https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/
 home                                                    ../Home.md
 casenotes                                               ../00-0000/CaseNotes.md
 licence                                                 ../00-0000/Licence.md
-01-introducing-the-github-wiki                          ../01-0000/01 Introducing the GitHub Wiki.md
+01-introducing-the-github-wiki                          ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
 02-imposing-a-folder-structure-on-a-wiki                ../02-0000/02 Cloning a Wiki.md
 03-a-wiki-folder-structure                              ../03-0000/03 A Wiki folder structure.md
 04-different-sidebars-and-footers                       ../04-0000/04 Different sidebars and footers.md
