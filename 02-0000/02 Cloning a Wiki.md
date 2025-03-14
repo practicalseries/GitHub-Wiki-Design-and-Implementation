@@ -170,7 +170,7 @@ That’s it, the credentials have been entered *(I wish VS Code would find a way
 
 ### 2.3.2<!--   🟥H3🟥--><img width="076" height="1" src="https://psop.uk/wi-s" alt="Spacer">Modifying the local repository
 
-Having cloned the repository (see the previous section), there is a copy of it on the local machine. At this point I’m assuming it is just the Home page created in <a href="01-introducing-the-github-wiki#131creating-the-first-wiki-page">Section&nbsp;1.3.1</a>, it looks like this in VS Code:
+Having cloned the repository (see the previous section), there is a copy of it on the local machine. At this point I’m assuming it is just the Home page created in <a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#131creating-the-first-wiki-page">Section&nbsp;1.3.1</a>, it looks like this in VS Code:
 
 <table name="f-02-04" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
