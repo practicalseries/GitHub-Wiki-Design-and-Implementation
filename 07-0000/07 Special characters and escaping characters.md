@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0700--eaE-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 # 7<!--         🟥H1🟥--><img width="101" height="1" src="https://psop.uk/wi-s" alt="Spacer">Special characters and escaping characters
@@ -1470,6 +1470,11 @@ Mainly this affects some of the special space characters:
 </table>
 <br clear="all">                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
 
+> [!IMPORTANT]<!-- IMPORTANT ALERT -->
+> **This is only a partial list of the most common escape sequences, a full list is available in <a href="app-a.02-html-escape-characters#heading">Appendix&nbsp;A.2</a>**
+
+
+
 The alternate decimal and hexadecimal escape codes work everywhere.
 
 > [!NOTE]<!-- NOTE ALERT -->
@@ -1513,8 +1518,8 @@ This argument falls down with the CLDR: `smiling face with hearts` and the GitHu
                         ${\LARGE \color{#C00000}\text{DON'T\ EVER!}}$
                         </td>
                         <td>
-<!-- LINK -->         <a href="../07-0000/02-images/sgsmiley.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="200" src="../07-0000/02-images/sgsmiley.png" alt="Smiley">
+<!-- LINK -->         <a href="./07-0000/02-images/sgsmiley.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="200" src="./07-0000/02-images/sgsmiley.png" alt="Smiley">
                         </a></td>
                     </tr>
 </table>                             <!-- FIGURE END  🔼🔼(BLANK LINE BELOW) -->
