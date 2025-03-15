@@ -50,7 +50,7 @@ licence                                                 ../00-0000/Licence.md
 16.06-practicalseries-wiki-conventions                  ../16-0600/16.06%20PracticalSeries%20Wiki%20conventions.md
 17-managing-a-wiki                                      ../17-0000/17%20Managing%20a%20Wiki.md
 app-a-html-escape-characters                            ../A-0000/App%20A%20HTML%20escape%20characters.md
-app-a.02-html-escape-characters                         ../A-0000/App%20A.02%20HTML%20escape%20characters.md
+app-a.02-html-escape-characters                         ../A-0200/App%20A.02%20HTML%20escape%20characters.md
 app-b-emoji-list                                        ../B-0000/App%20B%20Emoji%20list.md
 app-b.03-emoji-list                                     ../B-0300/App%20B.03%20Emoji%20list.md
 app-c-segoe-character-set                               ../C-0000/App%20C%20Segoe%20Character%20Set.md
@@ -521,7 +521,7 @@ app-e-template                                          ../E-0000/App%20E%20Temp
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[A.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;HTML Escape codes, full list](../A-0000/App%20A%20HTML%20escape%20characters.md#a1html-escape-codes-full-list)<br>
-&emsp;&ensp;&hairsp;[A.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Non-functional escape sequences](../A-0000/App%20A.02%20HTML%20escape%20characters.md#heading)<br>
+&emsp;&ensp;&hairsp;[A.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Non-functional escape sequences](../A-0200/App%20A.02%20HTML%20escape%20characters.md#heading)<br>
 </details><!--               🟨🟨🟨 -->
 
 <details><!-- [APP B]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->

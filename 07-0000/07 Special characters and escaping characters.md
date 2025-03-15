@@ -1471,7 +1471,7 @@ Mainly this affects some of the special space characters:
 <br clear="all">                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
 
 > [!IMPORTANT]<!-- IMPORTANT ALERT -->
-> **This is only a partial list of the most common escape sequences, a full list is available in <a href="../A-0000/App%20A.02%20HTML%20escape%20characters.md#heading">Appendix&nbsp;A.2</a>**
+> **This is only a partial list of the most common escape sequences, a full list is available in <a href="../A-0200/App%20A.02%20HTML%20escape%20characters.md#heading">Appendix&nbsp;A.2</a>**
 
 
 
