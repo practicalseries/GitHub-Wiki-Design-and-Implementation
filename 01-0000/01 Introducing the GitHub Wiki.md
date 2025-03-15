@@ -539,7 +539,7 @@
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
                         </td>
                     </tr>
-<!-- CAPTION -->    <tr><th colspan="2" align="center"><sup>
+<!-- CAPTION -->    <tr><th colspan="2" align="center" valign="middle"><sup>
 <!-- CAPTION TEXT -->Table of contents</sup>
 <table align="right"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
