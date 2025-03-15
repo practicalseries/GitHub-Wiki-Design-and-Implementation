@@ -1221,7 +1221,7 @@ Creating a sidebar or footer using this method creates common sidebars and foote
 <p align="right"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080">
 
 <table>
-<tr><td></td><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080"></tr>
+<tr><td><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080"></td></tr>
 <tr>
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
