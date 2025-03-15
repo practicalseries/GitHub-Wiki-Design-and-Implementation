@@ -444,7 +444,6 @@
 </details><!--               🟩🟩🟩 -->
 
 <!-- APPENDICES -->
-<hr><!-- SEPARATOR -->
 <details><!-- APPENDICES TOP 🔴🔴🔴 LEVEL COLLAPSE -->
 <summary><a href="../A-0000/App%20A%20HTML%20escape%20characters.md"><!-- APP TOP LEVEL -->Appendices</a>
 </summary>
