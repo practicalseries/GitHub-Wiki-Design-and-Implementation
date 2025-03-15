@@ -1,30 +1,7 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
 <img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
-
-
-
-<table align="right"><tr><!-- NAVIGATION BAR -->
-        <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
-                <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
-        <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
-                <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
-        <td align="center"><!-- HOME -->
-                <a class="hlink" href="home">
-                <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
-        <td align="center"><!-- NEXT CHAPTER -->
-                <img height="30px" src="https://psop.uk/wi-b"></td>
-        <td align="center"><!-- NEXT PAGE -->
-                <img height="30px" src="https://psop.uk/wi-b"></td>
-        <td align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0100--eau-blue"></td>
-</tr></table><!-- END OF NAVIGATION BAR -->
-
-
-
-
-
+<p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0100--eau-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 <table name="t-TOC-01" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- DATA ROW -->   <tr>
