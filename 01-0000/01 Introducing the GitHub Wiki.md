@@ -532,7 +532,7 @@
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
                         </td>
                     </tr>
-<!-- CAPTION -->    <tr><th align="center">
+<!-- CAPTION -->    <tr><th align="center" valign="middle">
 <table align="center"><tr><!-- 🟣END OF PAG🟣E -->
         <td><a href="#idend"><strong>⬇️ End of page</strong></a></td>
 </tr></table>
