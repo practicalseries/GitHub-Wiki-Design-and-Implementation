@@ -4,7 +4,7 @@
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0100--eau-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 
-<table align="center"><tr><!-- NAVIGATION BAR -->
+<table align="right"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
                 <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
