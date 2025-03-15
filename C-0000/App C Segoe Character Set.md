@@ -11,7 +11,7 @@ The character set is very large (approximately 26,700 characters in total) and h
 
 The character set is split as follows:
 
-<sup>&emsp;&emsp;&emsp;[C.2.&emsp;Characters U+00000 to U+00FFF](../C-0200/App%20C.02%20Segoe%20Character%20Set.md)</sup><br>
+&emsp;&emsp;&emsp;[C.2.&emsp;Characters U+00000 to U+00FFF](../C-0200/App%20C.02%20Segoe%20Character%20Set.md)<br>
 &emsp;&emsp;&emsp;[C.3.&emsp;Characters U+01000 to U+01FFF](../C-0300/App%20C.03%20Segoe%20Character%20Set.md)<br>
 &emsp;&emsp;&emsp;[C.4.&emsp;Characters U+02000 to U+02FFF](../C-0400/App%20C.04%20Segoe%20Character%20Set.md)<br>
 &emsp;&emsp;&emsp;[C.5.&emsp;Characters U+03000 to U+09FFF](../C-0500/App%20C.05%20Segoe%20Character%20Set.md)<br>
