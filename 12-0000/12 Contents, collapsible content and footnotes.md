@@ -23,7 +23,7 @@ I’ve come up with a workaround to allow footnotes and their linkage to work on
 
 A table of contents (TOC) is simply a list of the heading on a page (or on many Wiki pages) that form navigable links to the appropriate page and heading.
 
-These links are identical to those discussed in <a href="09-links#93linking-to-headings-on-the-current-page">section&nbsp;9.3</a> and <a href="09-links#94linking-to-headings-on-a-different-page">section&nbsp;9.4</a>. The following is an extract of the TOC from this Wiki (it appears in the sidebar of the following page: https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md).
+These links are identical to those discussed in <a href="09-links#93linking-to-headings-on-the-current-page">section&nbsp;9.3</a> and <a href="09-links#94linking-to-headings-on-a-different-page">section&nbsp;9.4</a>. The following is an extract of the TOC from this Wiki (it appears in the sidebar of the following page: https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/01-Introducing-the-GitHub-Wiki).
 
 <table name="f-12-01" align="center"><!-- FIGURE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Figure row --> <tr><td>
@@ -59,8 +59,8 @@ The Markdown behind this is:
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](licence#which-licence-to-use)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling](licence#a-note-on-spelling-licence-or-license)<br>
 
-&ensp;&nbsp;&nbsp;[1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md)<br><!--SEC 01 -->
-&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository)<br>
+&ensp;&nbsp;&nbsp;[1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki](01-Introducing-the-GitHub-Wiki)<br><!--SEC 01 -->
+&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki](01-Introducing-the-GitHub-Wiki#13creating-a-wiki-for-a-repository)<br>
 
 ```
 <p> </p></td></tr><!-- 🔴MARKDOWN END OF ROW🔴 -->
@@ -82,8 +82,8 @@ The Markdown behind this is:
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](licence#which-licence-to-use)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling](licence#a-note-on-spelling-licence-or-license)<br>
 
-&ensp;&nbsp;&nbsp;[1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md)<br><!--SEC 01 -->
-&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository)<br>
+&ensp;&nbsp;&nbsp;[1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki](01-Introducing-the-GitHub-Wiki)<br><!--SEC 01 -->
+&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki](01-Introducing-the-GitHub-Wiki#13creating-a-wiki-for-a-repository)<br>
 
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
@@ -118,7 +118,7 @@ Ignoring all the special space characters at the start *(these are just used to 
 [Which licence to use?](licence#which-licence-to-use)<br>
 [A note on spelling](licence#a-note-on-spelling-licence-or-license)<br>
 
-[1. Introducing the GitHub Wiki](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md)<br>
+[1. Introducing the GitHub Wiki](01-Introducing-the-GitHub-Wiki)<br>
 
 ```
 <p> </p></td></tr><!-- 🔴MARKDOWN END OF ROW🔴 -->
@@ -166,8 +166,8 @@ The HTML equivalent is:
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<a href="licence#which-licence-to-use">Which licence to use?</a><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<a href="licence#a-note-on-spelling-licence-or-license">A note on spelling</a><br>
 
-&ensp;&nbsp;&nbsp;<a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a><br>
-&emsp;&ensp;&hairsp;<a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository">1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki</a><br>
+&ensp;&nbsp;&nbsp;<a href="01-Introducing-the-GitHub-Wiki">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a><br>
+&emsp;&ensp;&hairsp;<a href="01-Introducing-the-GitHub-Wiki#13creating-a-wiki-for-a-repository">1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki</a><br>
 ```
 <p> </p></td></tr><!-- 🟢HTML END OF ROW🟢 -->
 <!-- Header row --> <tr><th align="left">${\large \color{#B00000}\text{G\ I\ T\ H\ U\ B}\space\ \space\text{O\ U\ T\ P\ U\ T}}$ 🔽</th></tr>
@@ -186,8 +186,8 @@ The HTML equivalent is:
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<a href="licence#which-licence-to-use">Which licence to use?</a><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<a href="licence#a-note-on-spelling-licence-or-license">A note on spelling</a><br>
 
-&ensp;&nbsp;&nbsp;<a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a><br>
-&emsp;&ensp;&hairsp;<a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository">1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki</a><br>
+&ensp;&nbsp;&nbsp;<a href="01-Introducing-the-GitHub-Wiki">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a><br>
+&emsp;&ensp;&hairsp;<a href="01-Introducing-the-GitHub-Wiki#13creating-a-wiki-for-a-repository">1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki</a><br>
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -513,14 +513,14 @@ TOCs can be inserted directly into HTML table (they can be inserted in to Markdo
 <tr>
 <td width="425" valign="top">
 <details><!-- SECTION 01 -->
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/01-Introducing-the-GitHub-Wiki">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#a-note-by-the-author)<br>
-&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#12understanding-the-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository)<br>
-&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#131creating-the-first-wiki-page)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](01-Introducing-the-GitHub-Wiki#a-note-by-the-author)<br>
+&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](01-Introducing-the-GitHub-Wiki#11what-are-github-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](01-Introducing-the-GitHub-Wiki#12understanding-the-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](01-Introducing-the-GitHub-Wiki#13creating-a-wiki-for-a-repository)<br>
+&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](01-Introducing-the-GitHub-Wiki#131creating-the-first-wiki-page)<br>
 </details>
 </td>
 
@@ -551,14 +551,14 @@ It looks like this:
 <tr>
 <td width="425" valign="top">
 <details><!-- SECTION 01 -->
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/01-Introducing-the-GitHub-Wiki">1&ensp;&nbsp;&nbsp;&thinsp;Introducing the GitHub Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#a-note-by-the-author)<br>
-&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#12understanding-the-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository)<br>
-&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#131creating-the-first-wiki-page)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](01-Introducing-the-GitHub-Wiki#a-note-by-the-author)<br>
+&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](01-Introducing-the-GitHub-Wiki#11what-are-github-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](01-Introducing-the-GitHub-Wiki#12understanding-the-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](01-Introducing-the-GitHub-Wiki#13creating-a-wiki-for-a-repository)<br>
+&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](01-Introducing-the-GitHub-Wiki#131creating-the-first-wiki-page)<br>
 </details>
 </td>
 

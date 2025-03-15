@@ -37,7 +37,7 @@ This section is largely based on what I have come to understand by developing Wi
 
 *Here we go then.*
 
-A Wiki is a *(restricted)* repository in its own right (see <a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#14the-wiki-is-its-own-repository">section&nbsp;1.4</a>). It is restricted because GitHub doesn’t give all the facilities available to a normal repository to a Wiki, you cannot, for example, have branches within a Wiki repository (GitHub just ignores them and only works with the Master branch).
+A Wiki is a *(restricted)* repository in its own right (see <a href="01-introducing-the-github-wiki#14the-wiki-is-its-own-repository">section&nbsp;1.4</a>). It is restricted because GitHub doesn’t give all the facilities available to a normal repository to a Wiki, you cannot, for example, have branches within a Wiki repository (GitHub just ignores them and only works with the Master branch).
 
 Now, when you clone a repository to a local machine (see <a href="02-cloning-a-wiki">section&nbsp;2</a>) and open it in some Git friendly text editor (<a href="https://code.visualstudio.com/">VS Code</a> for example) you get the full facilities available for managing any repository and you can apply them all to the Wiki &mdash; you can, for example,  create branches within the Wiki and push them back to GitHub, only to have GitHub ignore them completely.
 
@@ -107,7 +107,7 @@ In VS Code, with Source Control active, there is a list of the most recent commi
 
 ## 17.2<!--     🟥H2🟥--><img width="077" height="1" src="https://psop.uk/wi-s" alt="Spacer">Finding the first Wiki commit
 
-GitHub can display the history of any Wiki page (this was discussed in <a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#141viewing-a-wiki-page-history">section&nbsp;1.4.1</a>). Broadly, go to the Wiki page you want to see the history of and click the revisions link (this is in the title area of the page, just below the title text).
+GitHub can display the history of any Wiki page (this was discussed in <a href="01-introducing-the-github-wiki#141viewing-a-wiki-page-history">section&nbsp;1.4.1</a>). Broadly, go to the Wiki page you want to see the history of and click the revisions link (this is in the title area of the page, just below the title text).
 
 This is the current history for the Home page of this repository:
 
@@ -122,7 +122,7 @@ This is the current history for the Home page of this repository:
 </table>                             <!-- FIGURE END  🔼🔼(BLANK LINE BELOW) -->
 
 
-As was said in <a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#141viewing-a-wiki-page-history">section&nbsp;1.4.1</a>, this history isn’t particularly useful, for a start you cannot see the complete history for the whole Wiki, just a page at a time.
+As was said in <a href="01-introducing-the-github-wiki#141viewing-a-wiki-page-history">section&nbsp;1.4.1</a>, this history isn’t particularly useful, for a start you cannot see the complete history for the whole Wiki, just a page at a time.
 
 The only practical use for the GitHub Wiki history is for finding the first commit number for the Wiki. This is only needed if you rebase the Wiki to get rid of all the commits that accrue in the creation process (this is discussed in detail in the next section).
 
@@ -412,7 +412,7 @@ I don’t have 500 stars, so I can’t tell if this is true
 
 I’ve also noted that when I’ve searched for things in the process of writing this, GitHub Wikis tend not to come up in the search results.
 
-Either way, if your Wiki is configured for public editing (see <a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#f-01-03">here</a>) it won’t feature in 
+Either way, if your Wiki is configured for public editing (see <a href="01-introducing-the-github-wiki#f-01-03">here</a>) it won’t feature in 
 
 To turn this off, click ${\large \color{#00B050}\langle\text{Settings}\rangle}$ for the repository, select ${\large \color{#00B050}\langle\text{General}\rangle}$ in the left-hand menu bar and then in the Features area (main section) tick the ${\large \color{#00B050}\langle\text{Restrict\ editing...}\rangle}$ box:
 

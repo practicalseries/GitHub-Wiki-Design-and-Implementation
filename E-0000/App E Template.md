@@ -1195,8 +1195,8 @@ x=\frac{-b\pm\sqrt{b^2—4ad}}{2a}
 
 ## 🟥 Configured link
 
-<!--  1.4      --><a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#14the-wiki-is-its-own-repository">section&nbsp;1.4</a>
-<!--  1.4.1    --><a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#141viewing-a-wiki-page-history">section&nbsp;1.4.1</a>
+<!--  1.4      --><a href="01-introducing-the-github-wiki#14the-wiki-is-its-own-repository">section&nbsp;1.4</a>
+<!--  1.4.1    --><a href="01-introducing-the-github-wiki#141viewing-a-wiki-page-history">section&nbsp;1.4.1</a>
 <!--  2        --><a href="02-cloning-a-wiki">section&nbsp;2</a>
 <!--  3        --><a href="03-a-wiki-folder-structure">section&nbsp;3</a>
 <!--  4        --><a href="04-different-sidebars-and-footers">section&nbsp;4</a>

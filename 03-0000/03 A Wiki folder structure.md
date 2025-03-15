@@ -266,7 +266,7 @@ The second point is that the page filename is also listed in the GitHub generate
 
 The first point isn’t particularly serious, but the name should match the first heading on the page (in this example: *Execution of Controller software)*.
 
-The second point is more problematic and was touched upon in <a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#152contents-pages-area">Section&nbsp;1.5.2</a>.
+The second point is more problematic and was touched upon in <a href="01-introducing-the-github-wiki#152contents-pages-area">Section&nbsp;1.5.2</a>.
 
 The order of the pages in the Pages area is listed in alphanumeric order (based on the ASCII table https://www.ascii-code.com/ to those of a certain age, or nowadays the Unicode table https://www.unicode.org/charts/charindex.html<a name="rn-01" href="#fn-01"><!-- 🟨FOOTNOTE LINK🟨--><sup>💠1</sup></a>). 
 

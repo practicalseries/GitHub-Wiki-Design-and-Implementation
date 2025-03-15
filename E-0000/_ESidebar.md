@@ -22,7 +22,7 @@ https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/
 home                                                    ../Home.md
 casenotes                                               ../00-0000/CaseNotes.md
 licence                                                 ../00-0000/Licence.md
-../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md                          ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
+01-introducing-the-github-wiki                          ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
 02-cloning-a-wiki                                       ../02-0000/02%20Cloning%20a%20Wiki.md
 03-a-wiki-folder-structure                              ../03-0000/03%20A%20Wiki%20folder%20structure.md
 04-different-sidebars-and-footers                       ../04-0000/04%20Different%20sidebars%20and%20footers.md
@@ -47,6 +47,7 @@ licence                                                 ../00-0000/Licence.md
 16.06-practicalseries-wiki-conventions                  ../16-0600/16.06%20PracticalSeries%20Wiki%20conventions.md
 17-managing-a-wiki                                      ../17-0000/17%20Managing%20a%20Wiki.md
 app-a-html-escape-characters                            ../A-0000/App%20A%20HTML%20escape%20characters.md
+app-a.02-html-escape-characters                         ../A-0000/App%20A.02%20HTML%20escape%20characters.md
 app-b-emoji-list                                        ../B-0000/App%20B%20Emoji%20list.md
 app-b.03-emoji-list                                     ../B-0300/App%20B.03%20Emoji%20list.md
 app-c-segoe-character-set                               ../C-0000/App%20C%20Segoe%20Character%20Set.md
@@ -96,27 +97,27 @@ app-e-template                                          ../E-0000/App%20E%20Temp
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="../../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
+<summary><a href="../01-introducing-the-github-wiki">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#12understanding-the-wiki-pages)<br>
-&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository)<br>
-&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#131creating-the-first-wiki-page)<br>
-&emsp;&ensp;&hairsp;[1.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating additional pages](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#132creating-additional-pages)<br>
-&emsp;&ensp;&hairsp;[1.3.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Editing a Wiki page](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#133editing-a-wiki-page)<br>
-&emsp;&ensp;&hairsp;[1.4&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;The Wiki is its own repository](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#14the-wiki-is-its-own-repository)<br>
-&emsp;&ensp;&hairsp;[1.4.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Viewing a Wiki page history](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#141viewing-a-wiki-page-history)<br>
-&emsp;&ensp;&hairsp;[1.4.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;How GitHub handles Wiki branche](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#142how-github-handles-wiki-branches)<br>
-&emsp;&ensp;&hairsp;[1.4.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;The Wiki link to the main repository](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#143the-wiki-and-its-link-to-the-main-repository)<br>
-&emsp;&ensp;&hairsp;[1.5&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Basic components of a Wiki page](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#15basic-components-of-a-wiki-page)<br>
-&emsp;&ensp;&hairsp;[1.5.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Title bar and revision](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#151title-bar-and-revision)<br>
-&emsp;&ensp;&hairsp;[1.5.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Contents (pages) area](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#152contents-pages-area)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Listing pages in the order you want](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#listing-the-pages-in-the-order-you-want)<br>
-&emsp;&ensp;&hairsp;[1.5.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Sidebars](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#153sidebars)<br>
-&emsp;&ensp;&hairsp;[1.5.4&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Footers](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#154footers)<br>
-&emsp;&ensp;&hairsp;[1.6&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Sidebars and footers](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#16sidebars-and-footers)<br>
-&emsp;&ensp;&hairsp;[1.6.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating a sidebar and footer](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#161creating-a-sidebar-and-footer-in-github)<br>
+&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](01-introducing-the-github-wiki#12understanding-the-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](01-introducing-the-github-wiki#13creating-a-wiki-for-a-repository)<br>
+&emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](01-introducing-the-github-wiki#131creating-the-first-wiki-page)<br>
+&emsp;&ensp;&hairsp;[1.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating additional pages](01-introducing-the-github-wiki#132creating-additional-pages)<br>
+&emsp;&ensp;&hairsp;[1.3.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Editing a Wiki page](01-introducing-the-github-wiki#133editing-a-wiki-page)<br>
+&emsp;&ensp;&hairsp;[1.4&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;The Wiki is its own repository](01-introducing-the-github-wiki#14the-wiki-is-its-own-repository)<br>
+&emsp;&ensp;&hairsp;[1.4.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Viewing a Wiki page history](01-introducing-the-github-wiki#141viewing-a-wiki-page-history)<br>
+&emsp;&ensp;&hairsp;[1.4.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;How GitHub handles Wiki branche](01-introducing-the-github-wiki#142how-github-handles-wiki-branches)<br>
+&emsp;&ensp;&hairsp;[1.4.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;The Wiki link to the main repository](01-introducing-the-github-wiki#143the-wiki-and-its-link-to-the-main-repository)<br>
+&emsp;&ensp;&hairsp;[1.5&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Basic components of a Wiki page](01-introducing-the-github-wiki#15basic-components-of-a-wiki-page)<br>
+&emsp;&ensp;&hairsp;[1.5.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Title bar and revision](01-introducing-the-github-wiki#151title-bar-and-revision)<br>
+&emsp;&ensp;&hairsp;[1.5.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Contents (pages) area](01-introducing-the-github-wiki#152contents-pages-area)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Listing pages in the order you want](01-introducing-the-github-wiki#listing-the-pages-in-the-order-you-want)<br>
+&emsp;&ensp;&hairsp;[1.5.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Sidebars](01-introducing-the-github-wiki#153sidebars)<br>
+&emsp;&ensp;&hairsp;[1.5.4&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Footers](01-introducing-the-github-wiki#154footers)<br>
+&emsp;&ensp;&hairsp;[1.6&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Sidebars and footers](01-introducing-the-github-wiki#16sidebars-and-footers)<br>
+&emsp;&ensp;&hairsp;[1.6.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating a sidebar and footer](01-introducing-the-github-wiki#161creating-a-sidebar-and-footer-in-github)<br>
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 02]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
@@ -512,8 +513,13 @@ app-e-template                                          ../E-0000/App%20E%20Temp
 </summary>
 <br><!-- BLANK LINE BELOW -->
 
-<!-- [APP A]                 🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<a href="../app-a-html-escape-characters">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape characters</a>
+<details><!-- [APP A   ]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./app-a-html-escape-characters">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape </a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[A.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;HTML Escape codes, full list](app-a-html-escape-characters#a1html-escape-codes-full-list)<br>
+&emsp;&ensp;&hairsp;[A.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Non-functional escape sequences](app-a.02-html-escape-characters#heading)<br>
+</details><!--               🟨🟨🟨 -->
 
 <details><!-- [APP B]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
 <summary><a href="../app-b-emoji-list">B<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Full list of all emoji characters</a>
