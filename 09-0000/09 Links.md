@@ -612,8 +612,8 @@ The ${\large \color{#00B050}\text{headingName}}$ is the same as the heading itse
 
 ### 9.3.2<!--   🟥H3🟥--><img width="076" height="1" src="https://psop.uk/wi-s" alt="Spacer">An example of a heading link
 
-For example, on the Wiki page: [01 Introducing the GitHub Wiki](01-introducing-the-github-wiki) there is a heading: 
-[1.1. What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages).
+For example, on the Wiki page: [01 Introducing the GitHub Wiki](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md) there is a heading: 
+[1.1. What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages).
 
 The Markdown for the heading is this:
 
@@ -675,7 +675,7 @@ Link to <a href="#11what-are-github-wiki-pages">1.1 What are GitHub Wiki pages?<
                     </tr>
 <!-- GIT row -->    <tr><td width="850" height="60" valign="middle"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-Link to [1.1 What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages)
+Link to [1.1 What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
@@ -743,7 +743,7 @@ Link to <a href="#11what-are-github-wiki-pages" title="HEADING LINK">1.1. What a
                     </tr>
 <!-- GIT row -->    <tr><td width="850" height="60" valign="middle"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-Link to [1.1. What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages "HEADING LINK")
+Link to [1.1. What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages "HEADING LINK")
 
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
@@ -781,8 +781,8 @@ The rules for the ${\large \color{#4B0082}\text{pageName}}$ and ${\large \color{
 
 Using the same example of <a href="#932an-example-of-a-heading-link">section&nbsp;9.3.2</a> where:
 
-The Wiki page: [01 Introducing the GitHub Wiki](01-introducing-the-github-wiki) has the heading: 
-[1.1. What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages).
+The Wiki page: [01 Introducing the GitHub Wiki](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md) has the heading: 
+[1.1. What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages).
 
 The Markdown for the heading is this:
 
@@ -830,7 +830,7 @@ The ${\large \color{#4B0082}\text{pageName}}$ (using the rules of <a href="#921r
 <!-- MD row -->     <tr><td align="left"><br><!-- 🔴MARKDOWN BELOW🔴 -->
 
 ```md
-01-introducing-the-github-wiki
+../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
 ```
 <p> </p></td></tr><!-- 🔴MARKDOWN END OF ROW🔴 -->
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
@@ -847,7 +847,7 @@ Thus the whole link become:
 <!-- MD row -->    <tr><td align="left"><br><!-- 🔴MARKDOWN BELOW🔴 -->
 
 ```md
-[1.1.What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages)
+[1.1.What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)
 ```
 <p> </p></td></tr><!-- 🔴MARKDOWN END OF ROW🔴 -->
 <!-- Header row --> <tr>
@@ -856,7 +856,7 @@ Thus the whole link become:
 <!-- HTML row -->   <tr><td align="left"><br><!-- 🟢HTML BELOW🟢 -->
 
 ```html
-<a href="01-introducing-the-github-wiki#11what-are-github-wiki-pages">1.1 What are GitHub Wiki pages?</a>
+<a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages">1.1 What are GitHub Wiki pages?</a>
 ```
 <p> </p></td></tr><!-- 🟢HTML END OF ROW🟢 -->
 <!-- Header row --> <tr>
@@ -864,7 +864,7 @@ Thus the whole link become:
                     </tr>
 <!-- GIT row -->    <tr><td width="850" height="60" valign="middle"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
-[1.1 What are GitHub Wiki pages?](01-introducing-the-github-wiki#11what-are-github-wiki-pages)
+[1.1 What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)
 
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 <!-- CAPTION -->    <tr><th align="left"><sup>
