@@ -539,9 +539,11 @@
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
                         </td>
                     </tr>
-<!-- CAPTION -->    <tr><th colspan="2" align="center" valign="middle"><sup>
-<!-- CAPTION TEXT -->Table of contents</sup>
-<table align="right"><tr><!-- NAVIGATION BAR -->
+<!-- CAPTION -->    <tr><th align="center"><sup>
+<!-- CAPTION TEXT -->Table of contents
+                     </sup></th>
+                     <td>
+<table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
                 <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
@@ -557,8 +559,7 @@
         <td align="center"><!-- NEXT PAGE -->
                 <a class="hlink" href="../E-0000/App%20E%20Template.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
-</tr></table><!-- END OF NAVIGATION BAR -->
-                     </th></tr>
+</tr></table><!-- END OF NAVIGATION BAR -->                     </td></tr>
 </table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
 <br><br>
