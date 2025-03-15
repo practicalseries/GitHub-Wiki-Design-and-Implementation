@@ -1220,8 +1220,8 @@ Creating a sidebar or footer using this method creates common sidebars and foote
 
 <p align="right"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080">
 
-<table align="center"><tr><!-- NAVIGATION BAR -->
-        <td aligne="right"><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080"></td>
+<table align="center"><tr><td clospan="5" align="right"><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080"></td></tr>
+<tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
                 <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
