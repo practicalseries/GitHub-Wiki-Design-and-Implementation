@@ -17,11 +17,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](../Home.md#a-note-by-the-author)<br>
 </details><!--               🟩🟩🟩 -->
 
-
-<!--          [CASENOTES]    🟢🟢🟢 UNNUMBERED, NO COLLAPSE -->
-&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="../00-0000/CaseNotes.md"><!-- HEAD -->CaseNotes</a>
-<!--                         🟩🟩🟩 -->
-
 <details ><!-- LICENCE       🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
 <summary>&emsp;&ensp;&nbsp;<a href="../00-0000/Licence.md"><!-- HEAD -->Licence</a>
 </summary><!-- BLANK LINE BELOW -->
