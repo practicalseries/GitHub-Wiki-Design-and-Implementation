@@ -543,7 +543,7 @@
 <!-- CAPTION TEXT -->Table of contents
                      </sup></th>
                      <td>
-<table align="center"><tr><!-- NAVIGATION BAR -->
+<table align="right"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
                 <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
