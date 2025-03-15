@@ -184,7 +184,7 @@ GitHub will render anything that starts `https://`, `http://` or `www.` as a lin
 
 Links are always displayed in blue `rgb(009,105,218) #0969DA` and underlined.
 
-Links are always the same size as body text and can be emphasised with bold or italic by putting the appropriate number of asterisks before and after them (see **<a href="../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md#64emphasis-with-bold">section&nbsp;6.4</a>** and *<a href="../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md#65emphasis-with-italics">section&nbsp;6.5</a>)*. For example:
+Links are always the same size as body text and can be emphasised with bold or italic by putting the appropriate number of asterisks before and after them (see **<a href="06.04-basic-markdown-and-text-formatting#64emphasis-with-bold">section&nbsp;6.4</a>** and *<a href="06.04-basic-markdown-and-text-formatting#65emphasis-with-italics">section&nbsp;6.5</a>)*. For example:
 
 <table name="t-09-03" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>Markdown, HTML equivalence and GitHub output

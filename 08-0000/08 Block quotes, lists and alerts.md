@@ -5,7 +5,7 @@
 
 # 8<!--         🟥H1🟥--><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer">Block quotes, lists and alerts
 
-Markdown can produce its own numbered and unnumbered lists, these can be mixed and nested as required. These lists are quite basic and don’t look very good (lists within the PracticalSeries Wikis use tables to give better structure and formatting, see <a href="10-tables">section&nbsp;10</a> for details).
+Markdown can produce its own numbered and unnumbered lists, these can be mixed and nested as required. These lists are quite basic and don’t look very good (lists within the PracticalSeries Wikis use tables to give better structure and formatting, see <a href="../10-0000/10%20Tables.md">section&nbsp;10</a> for details).
 
 Block quotes and alerts are used to highlight particular text.
 
@@ -602,7 +602,7 @@ It converts the list to an ordered list (numbers followed by a full stop are int
 
 It’s the full stop after the number that cause the problem, GitHub thinks were trying to create an ordered list starting at 2004, it displays it as roman numerals because it is preceded by an asterisk (see <a href="#83ordered-numbered-lists">section&nbsp;8.3.3</a> for details).
 
-To make the list display properly, we need to escape the full stop (see <a href="07-special-characters-and-escaping-characters#t-07-01">Table&nbsp;7.1</a>) by putting a backslash in front of it:
+To make the list display properly, we need to escape the full stop (see <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#t-07-01">Table&nbsp;7.1</a>) by putting a backslash in front of it:
 
 <table name="t-08-09" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right" colspan="2"><sup>Markdown and GitHub output
@@ -1148,7 +1148,7 @@ HTML allows the type of numbering to be selected *(within limits)* with the use 
 
 ### 8.3.4<!--   🟥H3🟥--><img width="076" height="1" src="https://psop.uk/wi-s" alt="Spacer">Indents and spacing
 
-In terms of spacing, the number mark is indented two normal spaces and a thin space (see <a href="07-special-characters-and-escaping-characters#72special-space-characters">section&nbsp;7.2</a>) from the left edge of the text area<a name="rn-01" href="#fn-01"><!-- 🟨FOOTNOTE LINK🟨--><sup>💠1</sup></a>, the text following the point mark is indented a further single space.
+In terms of spacing, the number mark is indented two normal spaces and a thin space (see <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#72special-space-characters">section&nbsp;7.2</a>) from the left edge of the text area<a name="rn-01" href="#fn-01"><!-- 🟨FOOTNOTE LINK🟨--><sup>💠1</sup></a>, the text following the point mark is indented a further single space.
 
 With nested levels, the text of each nested level is indented a further seven normal spaces.
 

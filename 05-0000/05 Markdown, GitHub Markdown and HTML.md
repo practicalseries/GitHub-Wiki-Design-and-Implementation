@@ -140,7 +140,7 @@ This guide is not intended to be an instruction manual for HTML (although I do h
 
 In many cases (tables for example), HTML is much easier and more flexible than Markdown.
 
-The PracticalSeries Wikis use HTML a lot, particularly where tables are concerned (see <a href="10-tables">section&nbsp;10</a>).
+The PracticalSeries Wikis use HTML a lot, particularly where tables are concerned (see <a href="../10-0000/10%20Tables.md">section&nbsp;10</a>).
 
 *It seems to me that using HTML in Markdown is frowned upon; I see the point: Markdown is supposed to be easy to read and adding HTML makes it harder. It’s a fair point; the trouble is HTML is needed to make Markdown do what you want it to do. It isn’t the 1990s anymore and online documentation has come a long way. Markdown needs to be more sophisticated in what it will allow* ${\large\color{#C00000}\text{(changing\ the\ font\ colour\ doesn’t\ seem\ too\ outrageous\ to\ me)}}$ *. Until Markdown is better, people will find ways around the restrictions.*
 
@@ -345,11 +345,11 @@ Anyway, here are the differences I’ve found
 
 <table name="l-05-01" align="center">   <!-- LIST START🔽🔽(BLANK LINE ABOVE) -->
 <!-- LIST ROW     --><tr><td valign="top">&#x2776;<!-- 1  --></td>
-<td align="left"><!-- TEXT -->Footnotes, these work in repositories, but not in Wiki markdown, see <a href="12-Contents,-collapsible-content-and-footnotes#126footnotes">section&nbsp;12.6</a></td></tr>
+<td align="left"><!-- TEXT -->Footnotes, these work in repositories, but not in Wiki markdown, see <a href="../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md#126footnotes">section&nbsp;12.6</a></td></tr>
 <!-- LIST ROW     --><tr><td valign="top">&#x2777;<!-- 2  --></td>
-<td align="left"><!-- TEXT -->Repository Markdown does not support the <code>&lt;u&gt;</code> tag for underlining text (you have to use the <code>&lt;ins&gt;</code> tag instead) see <a href="06.07-basic-markdown-and-text-formatting#67emphasis-with-underlining">section&nbsp;6.7</a></td></tr>
+<td align="left"><!-- TEXT -->Repository Markdown does not support the <code>&lt;u&gt;</code> tag for underlining text (you have to use the <code>&lt;ins&gt;</code> tag instead) see <a href="../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md#67emphasis-with-underlining">section&nbsp;6.7</a></td></tr>
 <!-- LIST ROW     --><tr><td valign="top">&#x2778;<!-- 2  --></td>
-<td align="left"><!-- TEXT -->HTML in GitHub Markdown does not support the <code>&numsp;</code>, <code>&emsp13;</code>, <code>&emsp14;</code>, <code>&puncsp;</code> or <code>&hairsp;</code> <em>(and other)</em> escape sequences. Repostitory HTML has no problems <a href="07-special-characters-and-escaping-characters#721escape-sequence-restrictions-in-github-html">section&nbsp;7.2.1</a></td></tr>
+<td align="left"><!-- TEXT -->HTML in GitHub Markdown does not support the <code>&numsp;</code>, <code>&emsp13;</code>, <code>&emsp14;</code>, <code>&puncsp;</code> or <code>&hairsp;</code> <em>(and other)</em> escape sequences. Repostitory HTML has no problems <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#721escape-sequence-restrictions-in-github-html">section&nbsp;7.2.1</a></td></tr>
 <!-- CAPTION -->          <tr><th width="52"></th><!-- SPACER -->
 <!-- LIST WIDTH -->         <th align="left" width="700"><sup>
 <!-- CAPTION TEXT -->List 5.1 &mdash; List of Markdown differences

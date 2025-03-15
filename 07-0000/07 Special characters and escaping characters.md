@@ -53,7 +53,7 @@ For example if the following Markdown text were used:
 </td></tr><!-- 🔵GITHUB OUTPUT END (BLANK LINE ABOVE)🔵 -->
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
-<a href="08-block-quotes,-lists-and-alerts">Section&nbsp;8</a> explains about lists. The point here is that if we wish to display the asterisk as an asterisk, we need to escape it *(by adding a backslash)*:
+<a href="../08-0000/08%20Block%20quotes,%20lists%20and%20alerts.md">Section&nbsp;8</a> explains about lists. The point here is that if we wish to display the asterisk as an asterisk, we need to escape it *(by adding a backslash)*:
 
 <table name="t-07-00b" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>Markdown and GitHub output
@@ -240,7 +240,7 @@ Continuing the previous example Unicode value for the letter “A” is `65` (de
 
 **GitHub Markdown accepts the use of both HTML escape sequence and escape codes.**
 
-The following tables gives a list of common escape sequence and escape codes <a href="app-a-html-escape-characters">Appendix&nbsp;A</a> has a complete list of all HTML escape sequences and codes (they mostly all work in GitHub Markdown, there are some exceptions though, these are listed in <a href="07-special-characters-and-escaping-characters#721escape-sequence-restrictions-in-github-html">section&nbsp;7.2.1</a>).
+The following tables gives a list of common escape sequence and escape codes <a href="app-a-html-escape-characters">Appendix&nbsp;A</a> has a complete list of all HTML escape sequences and codes (they mostly all work in GitHub Markdown, there are some exceptions though, these are listed in <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#721escape-sequence-restrictions-in-github-html">section&nbsp;7.2.1</a>).
 
 <table name="t-07-03" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Header row -->     <tr>
@@ -1480,7 +1480,7 @@ The alternate decimal and hexadecimal escape codes work everywhere.
 > [!NOTE]<!-- NOTE ALERT -->
 > *The above escape sequences work perfectly well with just Markdown, it is only when they are inside an HTML tag that problems occur.*
 >
-> *To complicate things, it is only Wiki Markdown that is affected, all the escape sequences work perfectly well in repository Markdown, see* <a href="05-markdown,-github-markdown-and-html#56markdown-difference-between-files">section 5.6</a>.
+> *To complicate things, it is only Wiki Markdown that is affected, all the escape sequences work perfectly well in repository Markdown, see* <a href="../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md#56markdown-difference-between-files">section 5.6</a>.
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

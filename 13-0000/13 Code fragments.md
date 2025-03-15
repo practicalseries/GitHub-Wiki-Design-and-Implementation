@@ -430,7 +430,7 @@ It has got the grey background of a code fragment, but the HTML starting with `<
 > [!IMPORTANT]<!-- IMPORTANT ALERT -->
 > **This doesn’t happen if we use Markdown with three backticks.**
 
-The solution to this problem is that we must replace all the greater than and less than symbols with their HTML escape codes (these were first discussed in <a href="07-special-characters-and-escaping-characters#712html-escape-sequences">section&nbsp;7.1.2</a>), the table of which is reproduced below:
+The solution to this problem is that we must replace all the greater than and less than symbols with their HTML escape codes (these were first discussed in <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#712html-escape-sequences">section&nbsp;7.1.2</a>), the table of which is reproduced below:
 
 
 <table name="t-13-07" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->

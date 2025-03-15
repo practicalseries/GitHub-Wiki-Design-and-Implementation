@@ -39,7 +39,7 @@ This section is largely based on what I have come to understand by developing Wi
 
 A Wiki is a *(restricted)* repository in its own right (see <a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#14the-wiki-is-its-own-repository">section&nbsp;1.4</a>). It is restricted because GitHub doesn’t give all the facilities available to a normal repository to a Wiki, you cannot, for example, have branches within a Wiki repository (GitHub just ignores them and only works with the Master branch).
 
-Now, when you clone a repository to a local machine (see <a href="02-cloning-a-wiki">section&nbsp;2</a>) and open it in some Git friendly text editor (<a href="https://code.visualstudio.com/">VS Code</a> for example) you get the full facilities available for managing any repository and you can apply them all to the Wiki &mdash; you can, for example,  create branches within the Wiki and push them back to GitHub, only to have GitHub ignore them completely.
+Now, when you clone a repository to a local machine (see <a href="../02-0000/02%20Cloning%20a%20Wiki.md">section&nbsp;2</a>) and open it in some Git friendly text editor (<a href="https://code.visualstudio.com/">VS Code</a> for example) you get the full facilities available for managing any repository and you can apply them all to the Wiki &mdash; you can, for example,  create branches within the Wiki and push them back to GitHub, only to have GitHub ignore them completely.
 
 So, while you have all the facilities to manage the Wiki as a full-blown repository, it is best to scale down your ambitions and just use those facilities that GitHub wants you to 
 

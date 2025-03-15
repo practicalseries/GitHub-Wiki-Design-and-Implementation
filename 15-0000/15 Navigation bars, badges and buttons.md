@@ -51,19 +51,19 @@ The navigation bar is constructed as a five-column table, each cell is configure
 ```html
 <table align="center"><tr><!-- NAVIGATION BAR -->
     <td align="center"><!-- PREVIOUS PAGE -->
-        <a class="hlink" href="06.04-basic-markdown-and-text-formatting">
+        <a class="hlink" href="../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md">
         <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
     <td align="center"><!-- PREVIOUS CHAPTER -->
-        <a class="hlink" href="05-markdown,-github-markdown-and-html">
+        <a class="hlink" href="../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md">
         <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
     <td align="center"><!-- HOME -->
         <a class="hlink" href="home">
         <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
     <td align="center"><!-- NEXT CHAPTER -->
-        <a class="hlink" href="07-special-characters-and-escaping-characters">
+        <a class="hlink" href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md">
         <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
     <td align="center"><!-- NEXT PAGE -->
-        <a class="hlink" href="06.10-basic-markdown-and-text-formatting">
+        <a class="hlink" href="../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md">
         <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 
@@ -74,19 +74,19 @@ The navigation bar is constructed as a five-column table, each cell is configure
 
 <table align="center"><tr><!-- NAVIGATION BAR -->
     <td align="center"><!-- PREVIOUS PAGE -->
-        <a class="hlink" href="06.04-basic-markdown-and-text-formatting">
+        <a class="hlink" href="../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md">
         <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
     <td align="center"><!-- PREVIOUS CHAPTER -->
-        <a class="hlink" href="05-markdown,-github-markdown-and-html">
+        <a class="hlink" href="../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md">
         <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
     <td align="center"><!-- HOME -->
         <a class="hlink" href="home">
         <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
     <td align="center"><!-- NEXT CHAPTER -->
-        <a class="hlink" href="07-special-characters-and-escaping-characters">
+        <a class="hlink" href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md">
         <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
     <td align="center"><!-- NEXT PAGE -->
-        <a class="hlink" href="06.10-basic-markdown-and-text-formatting">
+        <a class="hlink" href="../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md">
         <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 
@@ -96,7 +96,7 @@ The navigation bar is constructed as a five-column table, each cell is configure
 <!-- CAPTION TEXT -->Table 15.1 &mdash; Navigation bar HTML
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
-*This is the link from the side bar of <a href="06.07-basic-markdown-and-text-formatting#67emphasis-with-underlining">section&nbsp;6.7</a>.*
+*This is the link from the side bar of <a href="../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md#67emphasis-with-underlining">section&nbsp;6.7</a>.*
 
 Each cell of the table `<td>` contains a link in the form:
 
@@ -106,7 +106,7 @@ Each cell of the table `<td>` contains a link in the form:
 
 &emsp;&emsp; ${\color{#446FBD}\text{<img\ height="30px"\ }\color{#00B050}\text{src="00-0000/02-images/[ImageName]"\ }\color{#ED7D31}\text{alt="[AltName]" title="[ToolTip]"}\color{#446FBD}\text{><\/a><\/td>}}$
 
-Where the ${\color{#B00000}\text{href="[PageName]"}}$ is the name of the Wiki page being linked to in the standard format for a link (see <a href="09-links#921rules-for-linking-to-a-wiki-page">section&nbsp;9.2.1</a>), i.e.:<br><br>
+Where the ${\color{#B00000}\text{href="[PageName]"}}$ is the name of the Wiki page being linked to in the standard format for a link (see <a href="../09-0000/09%20Links.md#921rules-for-linking-to-a-wiki-page">section&nbsp;9.2.1</a>), i.e.:<br><br>
 
 <table name="l-15-01" align="center">   <!-- LIST START🔽🔽(BLANK LINE ABOVE) -->
 <!-- LIST ROW 01  --><tr><td valign="top">&#x2776;<!-- 1  --></td>
@@ -216,7 +216,7 @@ Badges are used extensively in GitHub; these are some examples:
 
 These types of badges are used on all the PracticalSeries Wiki pages. The `Web ID` one at the top contains the chapter and section number of the current page, the three letters at the end (`eck` in this case), are a mechanism for tracking the page revision<a name="rn-01" href="#fn-01"><!-- 🟨FOOTNOTE LINK🟨--><sup>💠1</sup></a>.
 
-The `loc` badge is used on sidebar and footer pages to identify which folder the sidebar or footer is located in *(it is a mechanism for identifying a particular sidebar or footer, it isn’t always clear which sidebar or footer you are working on, they all have the same name, just the folder is different, see <a href="04-different-sidebars-and-footers">section&nbsp;4</a> for details)*.
+The `loc` badge is used on sidebar and footer pages to identify which folder the sidebar or footer is located in *(it is a mechanism for identifying a particular sidebar or footer, it isn’t always clear which sidebar or footer you are working on, they all have the same name, just the folder is different, see <a href="../04-0000/04%20Different%20sidebars%20and%20footers.md">section&nbsp;4</a> for details)*.
 
 The badge in the middle is just an example of what can be done with badges.
 
@@ -369,7 +369,7 @@ The colour can also be specified in hexadecimal RGB format:
 > [!NOTE]<!-- NOTE ALERT -->
 > *The hexadecimal number is entered without a leading hash* `#`.
 
-Spaces can be inserted into the text strings by using an underscore `_` or by using the `%20` character string (see <a href="09.05-links#962spaces-in-filenames">section&nbsp;9.6.2</a>). For example:
+Spaces can be inserted into the text strings by using an underscore `_` or by using the `%20` character string (see <a href="../09-0500/09.05%20Links.md#962spaces-in-filenames">section&nbsp;9.6.2</a>). For example:
 
 <table name="t-15-03b" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>HTML and GitHub output
@@ -629,7 +629,7 @@ Dynamic badges can be coloured and the text changed using the same options as fo
 
 GitHub doesn’t directly support the use of buttons in Markdown, despite having its own buttons on the screen (the ${\large \color{#00B050}\langle\text{new\ page}\rangle}$ button at the top of each Wiki page for example).
 
-It is possible to add a button by creating an image (with any associated text) and pasting it into a Wiki page as a link (see <a href="11-images#1124making-the-image-a-link">section&nbsp;11.2.4</a>).
+It is possible to add a button by creating an image (with any associated text) and pasting it into a Wiki page as a link (see <a href="../11-0000/11%20Images.md#1124making-the-image-a-link">section&nbsp;11.2.4</a>).
 
 There is, however, a much easier way using the Shield IO (discussed in the previous sections). Look at the following (it works by the way):
 
@@ -657,7 +657,7 @@ This uses a Shields IO badge in a HTML link as follows:
 <!-- CAPTION TEXT -->Table 15.5 &mdash; An example button
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
-The first part is an anchor link to the downloadable document (see <a href="09.05-links#96downloading-a-file">section&nbsp;9.6</a> for details). In this case it is:
+The first part is an anchor link to the downloadable document (see <a href="../09-0500/09.05%20Links.md#96downloading-a-file">section&nbsp;9.6</a> for details). In this case it is:
 
 &emsp;`https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/00-0000/04-data/github-wiki-design.pdf`
 

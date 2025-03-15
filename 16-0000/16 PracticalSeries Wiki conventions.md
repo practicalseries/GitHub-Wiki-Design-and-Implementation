@@ -57,7 +57,7 @@ The following sections discuss each of these areas in turn and list the various 
 
 ## 16.2<!--     🟥H2🟥--><img width="077" height="1" src="https://psop.uk/wi-s" alt="Spacer">The PracticalSeries folder structure
 
-<a href="03-a-wiki-folder-structure">Section&nbsp;3</a> gave details of how to structure a Wiki folder arrangement and the naming conventions used to name files within the structure. 
+<a href="../03-0000/03%20A%20Wiki%20folder%20structure.md">Section&nbsp;3</a> gave details of how to structure a Wiki folder arrangement and the naming conventions used to name files within the structure. 
 
 This section shows a practical implementation of that folder structure in relation to this Wiki.
 
@@ -170,7 +170,7 @@ All these leading pages live in the ${\large \color{#446FBD}\text{00-0000}}$ fol
 > [!NOTE]<!-- NOTE ALERT -->
 > *All the leading pages (in this case* `CaseNotes.md` *and* `Licence.md`) *share the same sidebar and footer, this is possible because these leading pages are usually outside the normal next chapter/previous chapter navigation hierarchy.*
 
-The ${\large \color{#446FBD}\text{00-0000/02-images}}$ folder contains the common images files used throughout the Wiki (for navigation bars, see <a href="15-navigation-bars,-badges-and-buttons#151navigation-bars">section&nbsp;15.1</a> and for image spacing, see <a href="11-images#114using-a-spacer-image">section&nbsp;11.4</a>), these all start `wi-` (indicating Wiki image). Any images required by the Home page or any of the leading pages would also be stored in this folder (these would begin `figm-`).
+The ${\large \color{#446FBD}\text{00-0000/02-images}}$ folder contains the common images files used throughout the Wiki (for navigation bars, see <a href="15-navigation-bars,-badges-and-buttons#151navigation-bars">section&nbsp;15.1</a> and for image spacing, see <a href="../11-0000/11%20Images.md#114using-a-spacer-image">section&nbsp;11.4</a>), these all start `wi-` (indicating Wiki image). Any images required by the Home page or any of the leading pages would also be stored in this folder (these would begin `figm-`).
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
@@ -444,7 +444,7 @@ Examining each in turn:
 
 ### 16.4.1<!--  🟥H3🟥--><img width="070" height="1" src="https://psop.uk/wi-s" alt="Spacer">Top of page marker
 
-The top of page marker is named anchor element that is used to identify the top of the page and allow navigation back to it (navigation to named elements was covered in <a href="09.05-links#95linking-to-a-named-element">section&nbsp;9.5</a>)
+The top of page marker is named anchor element that is used to identify the top of the page and allow navigation back to it (navigation to named elements was covered in <a href="../09-0500/09.05%20Links.md#95linking-to-a-named-element">section&nbsp;9.5</a>)
 
 This top of page marker is completely invisible and does not render on the page (it is essentially a named anchor point, but the anchor point itself is empty, there is no text or href attribute). The Markdown for this is:
 
@@ -511,7 +511,7 @@ The `:arrow_up:` is the emoji ⬆. The link is `#idtop`, this is the same name u
 
 ### 16.4.2<!--  🟥H3🟥--><img width="067" height="1" src="https://psop.uk/wi-s" alt="Spacer">Logo image
 
-The logo image is the first visible element on each Wiki page. It is just a straight forward image (see <a href="11-images#1121a-basic-html-image">section&nbsp;11.2.1</a>):
+The logo image is the first visible element on each Wiki page. It is just a straight forward image (see <a href="../11-0000/11%20Images.md#1121a-basic-html-image">section&nbsp;11.2.1</a>):
 
 <table name="t-16-05" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>Markdown and GitHub output
@@ -538,7 +538,7 @@ The logo image is the first visible element on each Wiki page. It is just a stra
 <!-- CAPTION TEXT -->Table 16.5 &mdash; Logo image Markdown
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
-It is an HTML image link `<img>` tag that displays the image ps-github-wiki-logo.svg that is stored in the Wiki root folder (hence the `./`, current directory, that precedes the filename in the link, see <a href="09.05-links#98relative-links">section&nbsp;9.8</a>).
+It is an HTML image link `<img>` tag that displays the image ps-github-wiki-logo.svg that is stored in the Wiki root folder (hence the `./`, current directory, that precedes the filename in the link, see <a href="../09-0500/09.05%20Links.md#98relative-links">section&nbsp;9.8</a>).
 
 The first part `width="896"` sets the image to be the full width of the page.
 

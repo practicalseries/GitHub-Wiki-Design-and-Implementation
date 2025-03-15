@@ -6,7 +6,7 @@
 
 # 4<!--         🟥H1🟥--><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer">Different sidebars and footers
 
-It was mentioned earlier (<a href="03-a-wiki-folder-structure#33page-naming-and-wiki-limits">section&nbsp;3.3</a> <!-- Off-page Section -->) that the PS Wiki pages require the ability for each Wiki page to have its own sidebar and footer (rather than using the default sidebar and footer created using GitHub). It turns out that this is remarkably easy, the only problem being that it has to be done on a local machine and then pushed to GitHub. It can’t be done via the GitHub website directly.
+It was mentioned earlier (<a href="../03-0000/03%20A%20Wiki%20folder%20structure.md#33page-naming-and-wiki-limits">section&nbsp;3.3</a> <!-- Off-page Section -->) that the PS Wiki pages require the ability for each Wiki page to have its own sidebar and footer (rather than using the default sidebar and footer created using GitHub). It turns out that this is remarkably easy, the only problem being that it has to be done on a local machine and then pushed to GitHub. It can’t be done via the GitHub website directly.
 
 To make a sidebar and footer unique to a page, or to a group of pages, simply put the page in a subfolder and then create the files `_Sidebar.md` and `_Footer.md` within that same subfolder and the these will be used in place of the default sidebar and footer files in the root directory.
 
@@ -104,7 +104,7 @@ The navigation bar is a simple tool for navigating between previous and next pag
 
 <a href="15-navigation-bars,-badges-and-buttons#151navigation-bars">Section&nbsp;15.1</a> contains full detail of how this navigation bar is built.
 
-Below the navigation bar is a table of contents, this shows the sections applicable to the current chapter expanded and all other chapters collapsed to just the chapter number. Any section can be expanded or collapsed by clicking the little black arrow next to the chapter number. <a href="12-Contents,-collapsible-content-and-footnotes">Section&nbsp;12</a> explains how the table of contents is constructed and how the collapsing arrangement works.
+Below the navigation bar is a table of contents, this shows the sections applicable to the current chapter expanded and all other chapters collapsed to just the chapter number. Any section can be expanded or collapsed by clicking the little black arrow next to the chapter number. <a href="../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md">Section&nbsp;12</a> explains how the table of contents is constructed and how the collapsing arrangement works.
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

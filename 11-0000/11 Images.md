@@ -104,7 +104,7 @@ The ${\large \color{#ED7D31}\text{ImageTitle}}$ is optional, it is displayed if 
 
 The ${\large \color{#C00000}\text{Alternative\ Text}}$ is only displayed if the image file cannot be found (it is also used by specialist screen readers, *it’s bad form not to include it)*.
 
-The following is the Markdown to display the image of Henry (first seen in <a href="09.05-links#f-09-06">section&nbsp;9.6.2</a>):
+The following is the Markdown to display the image of Henry (first seen in <a href="../09-0500/09.05%20Links.md#f-09-06">section&nbsp;9.6.2</a>):
 
 <table name="t-11-02" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>Markdown
@@ -400,7 +400,7 @@ It shows a broken image icon followed by the alternative text *(just like Markdo
 
 ### 11.2.2<!--  🟥H3🟥--><img width="071" height="1" src="https://psop.uk/wi-s" alt="Spacer">Image size in HTML
 
-HTML allows images to be resized (in pixels) using the ${\large \color{#00B050}\text{width}}$ or ${\large \color{#00B050}\text{height}}$ attributes (similar to cells in a table, see <a href="10-tables#1024setting-the-width-of-a-table-column">section&nbsp;10.2.4</a> and <a href="10-tables#1025setting-the-height-of-a-table-row">section&nbsp;10.2.5</a>).
+HTML allows images to be resized (in pixels) using the ${\large \color{#00B050}\text{width}}$ or ${\large \color{#00B050}\text{height}}$ attributes (similar to cells in a table, see <a href="../10-0000/10%20Tables.md#1024setting-the-width-of-a-table-column">section&nbsp;10.2.4</a> and <a href="../10-0000/10%20Tables.md#1025setting-the-height-of-a-table-row">section&nbsp;10.2.5</a>).
 
 The following reduces the Henry image to 300 px wide:
 
@@ -543,9 +543,9 @@ a tortor ornare, non pretium diam faucibus. Morbi ut mollis.</p>
 > [!NOTE]<!-- NOTE ALERT -->
 > *If the `align` attribute is not used, the text will not wrap, it will appear below the image.*
 
-This leads to the text wrapping problem we came across with tables (see <a href="10-tables#1023text-wrap-and-side-by-side-tables">section&nbsp;10.2.3</a>). With images we have an additional option to solve the problem.
+This leads to the text wrapping problem we came across with tables (see <a href="../10-0000/10%20Tables.md#1023text-wrap-and-side-by-side-tables">section&nbsp;10.2.3</a>). With images we have an additional option to solve the problem.
 
-The first solution is to use the ${\LARGE \color{#C00000}\text{<br\ clear="all">}}$ tag after the image (this is just like the solution for tables <a href="10-tables#how-to-stop-text-wrapping">see here</a>):
+The first solution is to use the ${\LARGE \color{#C00000}\text{<br\ clear="all">}}$ tag after the image (this is just like the solution for tables <a href="../10-0000/10%20Tables.md#how-to-stop-text-wrapping">see here</a>):
 
 <table name="t-11-10" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>HTML and GitHub output
@@ -766,7 +766,7 @@ Line 4 is the end of the first cell and its row.
 
 Line 5 defines the second row and its data cell, in this case the text within the cell is centre aligned (${\large \color{#00B050}\text{align="center"}}$). The caption text (`Figure 11.7 &mdash; Henry`) is the text that will appear in the row below the image, the `&mdash;` is an em dash (&mdash;) that separates the figure number from the figure description.
 
-The `<sup>…</sup>` puts the caption text as a superscript (see <a href="06.07-basic-markdown-and-text-formatting#69superscript-and-subscript">section&nbsp;6.9</a>), it raises the text and makes it smaller, this is just to make the text look more like a caption than body text.
+The `<sup>…</sup>` puts the caption text as a superscript (see <a href="../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md#69superscript-and-subscript">section&nbsp;6.9</a>), it raises the text and makes it smaller, this is just to make the text look more like a caption than body text.
 
 Line 6 is simply the closing table tag to finish the whole thing off.
 
@@ -774,7 +774,7 @@ Line 6 is simply the closing table tag to finish the whole thing off.
 > [!NOTE]<!-- NOTE ALERT -->
 > *If both the image and the table cell have widths specified, whichever is larger has priority.*
 
-There is one final point, with the image in a table, it is possible to put a dark border around the whole table by using the border attribute discussed in <a href="10-tables#1029table-border">section&nbsp;10.2.9</a>. To do this, change the first line to:
+There is one final point, with the image in a table, it is possible to put a dark border around the whole table by using the border attribute discussed in <a href="../10-0000/10%20Tables.md#1029table-border">section&nbsp;10.2.9</a>. To do this, change the first line to:
 
 
 <table name="t-11-16" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->

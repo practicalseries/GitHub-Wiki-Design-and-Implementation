@@ -248,7 +248,7 @@ Row 2a text|Row 2b text|Row 2c text
 
 ### 10.1.3<!--  🟥H3🟥--><img width="071" height="1" src="https://psop.uk/wi-s" alt="Spacer">Vertical line breaks and alignment
 
-It is possible to add additional lines to a cell by using the <br> element (see <a href="06-basic-markdown-and-text-formatting#621forced-line-break">section&nbsp;6.2.1</a>):
+It is possible to add additional lines to a cell by using the <br> element (see <a href="../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md#621forced-line-break">section&nbsp;6.2.1</a>):
 
 <table name="t-10-07" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>Markdown and GitHub output
@@ -293,7 +293,7 @@ The `<br>` forces a line break within the cell.
 
 By default, the width of a column in a table is determined by the longest text in any cell in the column.
 
-It is possible to force a column to a given width by adding special space characters (see <a href="07-special-characters-and-escaping-characters#72special-space-characters">section&nbsp;7.2</a>) such as the em-space `&emsp;` to cells in the header row *(it works in the body text too, but the header row is the most obvious place)*:
+It is possible to force a column to a given width by adding special space characters (see <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#72special-space-characters">section&nbsp;7.2</a>) such as the em-space `&emsp;` to cells in the header row *(it works in the body text too, but the header row is the most obvious place)*:
 
 <table name="t-10-08" align="center"><!-- 🔴🟢🔵TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- TOP & WIDTH --><tr><th width="850" align="right"><sup>Markdown and GitHub output
@@ -326,7 +326,7 @@ It is possible to force a column to a given width by adding special space charac
                     </sup></th></tr>
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
-It has to be the special space characters, if the cell is padded with multiple spaces (from the space bar), these will be ignored (see <a href="06-basic-markdown-and-text-formatting#613body-text-markdown-rules">section&nbsp;6.1.3</a>)
+It has to be the special space characters, if the cell is padded with multiple spaces (from the space bar), these will be ignored (see <a href="../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md#613body-text-markdown-rules">section&nbsp;6.1.3</a>)
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
@@ -336,9 +336,9 @@ It has to be the special space characters, if the cell is padded with multiple s
 
 All the normal forms of emphasis (bold, italic &c.) can be used in tables. Block quotes and alerts however, cannot.
 
-All escape characters, emojis and escape sequences can also be used, as can code fragments (see <a href="13-code-fragments">section&nbsp;13</a>) and footnotes (see <a href="12-Contents,-collapsible-content-and-footnotes#126footnotes">section&nbsp;12.6</a>).
+All escape characters, emojis and escape sequences can also be used, as can code fragments (see <a href="13-code-fragments">section&nbsp;13</a>) and footnotes (see <a href="../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md#126footnotes">section&nbsp;12.6</a>).
 
-All types of links (see <a href="09-links">section&nbsp;9</a>) and figures (see <a href="11-image">section&nbsp;11</a>) can be used in tables.
+All types of links (see <a href="../09-0000/09%20Links.md">section&nbsp;9</a>) and figures (see <a href="11-image">section&nbsp;11</a>) can be used in tables.
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
@@ -1447,7 +1447,7 @@ The first column (left side) is exactly 300&nbsp;px wide, the second (middle) is
 
 
 > [!NOTE]<!-- NOTE ALERT -->
-> *The maximum width of a table is 896 px (see <a href="06-basic-markdown-and-text-formatting#611body-text-responsive-design">section&nbsp;6.1.1</a>). If the width values add up to more than this, then the widths will reduce in proportion (ish) until they fit the page area . This reduction feature is done by the browser rather than GitHub and the exact result depends on the browser being used.*
+> *The maximum width of a table is 896 px (see <a href="../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md#611body-text-responsive-design">section&nbsp;6.1.1</a>). If the width values add up to more than this, then the widths will reduce in proportion (ish) until they fit the page area . This reduction feature is done by the browser rather than GitHub and the exact result depends on the browser being used.*
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
@@ -1848,7 +1848,7 @@ That is it, that is all that can be done in terms of modifying the border of a t
 
 ### 10.2.10<!-- 🟥H3🟥--><img width="060" height="1" src="https://psop.uk/wi-s" alt="Spacer">Giving a table a navigable name
 
-It is often useful to be able to navigate to a table if it is reference elsewhere in the Wiki, this was explained in <a href="09.05-links#95linking-to-a-named-element">section&nbsp;9.5</a>, but is covered here specifically in terms of a table.
+It is often useful to be able to navigate to a table if it is reference elsewhere in the Wiki, this was explained in <a href="../09-0500/09.05%20Links.md#95linking-to-a-named-element">section&nbsp;9.5</a>, but is covered here specifically in terms of a table.
 
 To make a table a navigable point (something that can be linked to from another point in the Wiki or even from an external website), the `<table>` tag is assigned a ${\large \color{#00B050}\text{name}}$. Like this:
 
@@ -1936,7 +1936,7 @@ This is a link to [Table 10.51](#t-10-51)
                     </sup></th></tr>
 </table>                             <!-- 🟥🟩🟦TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
-The link: `[Table 10.51](#t-10-51)` is the standard form of Markdown link covered in detail in <a href="09.05-links#95linking-to-a-named-element">section&nbsp;9.5</a>.
+The link: `[Table 10.51](#t-10-51)` is the standard form of Markdown link covered in detail in <a href="../09-0500/09.05%20Links.md#95linking-to-a-named-element">section&nbsp;9.5</a>.
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

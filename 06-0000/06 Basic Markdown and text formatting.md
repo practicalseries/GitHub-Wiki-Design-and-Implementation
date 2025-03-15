@@ -733,7 +733,7 @@ Horizontal lines *(sometimes called “rules”)* are thick grey lines that span
 
 Horizontal lines are created using three or more asterisks `***`, dashes `---` or underscores `___`. That said, the best way to create a horizontal lines is to use the `<hr>` tag, this has become the standard.
 
-If using three dashes, make sure it is surrounded by blank lines, if there is any text on the line immediately above, it will be turned into a heading (see <a href="06.10-basic-markdown-and-text-formatting#610headings">section&nbsp;6.10</a>)
+If using three dashes, make sure it is surrounded by blank lines, if there is any text on the line immediately above, it will be turned into a heading (see <a href="../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md#610headings">section&nbsp;6.10</a>)
 
 The following are all horizontal lines:
 

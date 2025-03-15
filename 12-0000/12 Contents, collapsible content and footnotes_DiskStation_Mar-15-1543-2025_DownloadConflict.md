@@ -452,14 +452,14 @@ To explain the collapsible TOC, consider the HTML (and Markdown) behind the chap
 
 ```html
 <details open><!-- SECTION 02 -->
-<summary><a href="../02-0000/02%20Cloning%20a%20Wiki.md">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
+<summary><a href="02-Cloning-a-Wiki">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](../02-0000/02%20Cloning%20a%20Wiki.md#21why-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](../02-0000/02%20Cloning%20a%20Wiki.md#22how-to-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#23pushing-wiki-changes-back-to-github)<br>
-&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](../02-0000/02%20Cloning%20a%20Wiki.md#231configuring-the-git-username-and-email-address)<br>
-&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#232committing-the-changes-and-synchronising-with-github)<br>
+&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](02-Cloning-a-Wiki#21why-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](02-Cloning-a-Wiki#22how-to-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](02-Cloning-a-Wiki#23pushing-wiki-changes-back-to-github)<br>
+&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](02-Cloning-a-Wiki#231configuring-the-git-username-and-email-address)<br>
+&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](02-Cloning-a-Wiki#232committing-the-changes-and-synchronising-with-github)<br>
 </details><!-- END OF COLLAPSIBLE AREA -->
 
 ```
@@ -468,14 +468,14 @@ To explain the collapsible TOC, consider the HTML (and Markdown) behind the chap
 <!-- GIT row -->    <tr><td align="left" valign="top"><!-- 🔵GITHUB OUTPUT BELOW (BLANK LINE BELOW)🔵 -->
 
 <details open><!-- SECTION 02 -->
-<summary><a href="../02-0000/02%20Cloning%20a%20Wiki.md">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
+<summary><a href="02-Cloning-a-Wiki">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](../02-0000/02%20Cloning%20a%20Wiki.md#21why-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](../02-0000/02%20Cloning%20a%20Wiki.md#22how-to-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#23pushing-wiki-changes-back-to-github)<br>
-&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](../02-0000/02%20Cloning%20a%20Wiki.md#231configuring-the-git-username-and-email-address)<br>
-&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#232committing-the-changes-and-synchronising-with-github)<br>
+&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](02-Cloning-a-Wiki#21why-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](02-Cloning-a-Wiki#22how-to-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](02-Cloning-a-Wiki#23pushing-wiki-changes-back-to-github)<br>
+&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](02-Cloning-a-Wiki#231configuring-the-git-username-and-email-address)<br>
+&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](02-Cloning-a-Wiki#232committing-the-changes-and-synchronising-with-github)<br>
 </details><!-- END OF COLLAPSIBLE AREA -->
 
 
@@ -526,14 +526,14 @@ TOCs can be inserted directly into HTML table (they can be inserted in to Markdo
 
 <td width="425" valign="top">
 <details><!-- SECTION 02 -->
-<summary><a href="../02-0000/02%20Cloning%20a%20Wiki.md">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
+<summary><a href="02-Cloning-a-Wiki">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](../02-0000/02%20Cloning%20a%20Wiki.md#21why-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](../02-0000/02%20Cloning%20a%20Wiki.md#22how-to-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#23pushing-wiki-changes-back-to-github)<br>
-&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](../02-0000/02%20Cloning%20a%20Wiki.md#231configuring-the-git-username-and-email-address)<br>
-&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#232committing-the-changes-and-synchronising-with-github)<br>
+&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](02-Cloning-a-Wiki#21why-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](02-Cloning-a-Wiki#22how-to-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](02-Cloning-a-Wiki#23pushing-wiki-changes-back-to-github)<br>
+&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](02-Cloning-a-Wiki#231configuring-the-git-username-and-email-address)<br>
+&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](02-Cloning-a-Wiki#232committing-the-changes-and-synchronising-with-github)<br>
 </details>
 </td></tr>
 </table>
@@ -564,14 +564,14 @@ It looks like this:
 
 <td width="425" valign="top">
 <details open><!-- SECTION 02 -->
-<summary><a href="../02-0000/02%20Cloning%20a%20Wiki.md">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
+<summary><a href="02-Cloning-a-Wiki">2&ensp;&nbsp;&nbsp;&thinsp;Cloning a Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](../02-0000/02%20Cloning%20a%20Wiki.md#21why-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](../02-0000/02%20Cloning%20a%20Wiki.md#22how-to-clone-a-wiki-to-a-local-machine)<br>
-&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#23pushing-wiki-changes-back-to-github)<br>
-&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](../02-0000/02%20Cloning%20a%20Wiki.md#231configuring-the-git-username-and-email-address)<br>
-&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](../02-0000/02%20Cloning%20a%20Wiki.md#232committing-the-changes-and-synchronising-with-github)<br>
+&emsp;&ensp;&hairsp;[2.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Why clone a Wiki?](02-Cloning-a-Wiki#21why-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;How to clone a Wiki](02-Cloning-a-Wiki#22how-to-clone-a-wiki-to-a-local-machine)<br>
+&emsp;&ensp;&hairsp;[2.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Pushing changes to GitHub](02-Cloning-a-Wiki#23pushing-wiki-changes-back-to-github)<br>
+&emsp;&ensp;&hairsp;[2.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Configuring the Git credentials](02-Cloning-a-Wiki#231configuring-the-git-username-and-email-address)<br>
+&emsp;&ensp;&hairsp;[2.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Commit and synchronise to GitHub](02-Cloning-a-Wiki#232committing-the-changes-and-synchronising-with-github)<br>
 </details>
 </td></tr>
 <!-- CAPTION -->    <tr><th colspan="2" align="left"><sup>

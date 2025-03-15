@@ -9,7 +9,7 @@ It is perfectly possible to impose a folder structure on a GitHub Wiki, but it i
 
 It should be noted that GitHub largely ignores any applied folder structure, it will list any markdown files (files ending `.md`) in its contents *(pages)* area and allow them to be accessed without referring to the folder structure (see <a href="../09-0500/09.05%20Links.md#98relative-links">section&nbsp;9.8</a>). Other files need to be referred to (as a minimum) with the full path from the root directory of the Wiki (I.e. all folders and subfolders that follow the ${\large \color{#446FBD}\text{/}\color{#c00000}\text{wiki}}$ directory).
 
-The big advantage to using a folder structure is that it allows different sidebars and footers for the pages in each subfolder (see <a href="../04-0000/04%20Different%20sidebars%20and%20footers.md">section&nbsp;4</a>).
+The big advantage to using a folder structure is that it allows different sidebars and footers for the pages in each subfolder (see <a href="04-different-sidebars-and-footers">section&nbsp;4</a>).
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
