@@ -534,7 +534,7 @@
                     </tr>
 <!-- CAPTION -->    <tr><th align="center" valign="middle">
 <table align="center"><tr><!-- 🟣END OF PAG🟣E -->
-        <td valign="middle"><a href="#idend"><strong>⬇️ End of page</strong></a></td>
+        <td valign="middle"><br><a href="#idend"><strong>⬇️ End of page</strong></a></td>
 </tr></table>
                      </th>
                      <td>
