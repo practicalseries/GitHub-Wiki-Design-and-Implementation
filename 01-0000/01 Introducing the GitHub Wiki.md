@@ -1220,9 +1220,6 @@ Creating a sidebar or footer using this method creates common sidebars and foote
 
 <p align="right"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080">
 
-<table>
-<tr><td><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080"></td></tr>
-<tr>
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
                 <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
@@ -1240,7 +1237,7 @@ Creating a sidebar or footer using this method creates common sidebars and foote
                 <a class="hlink" href="../E-0000/App%20E%20Template.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
-</tr><tr>
+
 <!--- COLOPHON -->
 <p align="center"><strong><!-- NAME -->The PracticalSeries of Publications&nbsp;&mdash;&nbsp;<!-- COPYRGT -->Copyright &copy; 2025 Michael Gledhill</strong></p>
 
@@ -1250,4 +1247,3 @@ Creating a sidebar or footer using this method creates common sidebars and foote
 <!-- EMAIL --><a href="mailto:mg@practicalseries.com">mg@practicalseries.com</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
 <!-- WEB   --><a href="https://practicalseries.com/">PracticalSeries of Publications</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
 <!-- REPO  --><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation">Main repository</a></p>
-</tr></table>
