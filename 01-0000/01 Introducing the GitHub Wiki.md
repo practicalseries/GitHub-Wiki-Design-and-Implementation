@@ -37,11 +37,11 @@
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><sup><a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a></sup>
+<summary><a href="../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md">1<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Introducing the GitHub Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-<sup>&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)</sup><br>
-<sup>&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#12understanding-the-wiki-pages)</sup><br>
+&emsp;&ensp;&hairsp;[1.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;What are GitHub Wiki pages?](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#11what-are-github-wiki-pages)<br>
+&emsp;&ensp;&hairsp;[1.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Understanding the Wiki pages](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#12understanding-the-wiki-pages)<br>
 &emsp;&ensp;&hairsp;[1.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Creating a Wiki for a repository](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#13creating-a-wiki-for-a-repository)<br>
 &emsp;&ensp;&hairsp;[1.3.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the first Wiki page](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#131creating-the-first-wiki-page)<br>
 &emsp;&ensp;&hairsp;[1.3.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating additional pages](../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md#132creating-additional-pages)<br>
@@ -539,9 +539,28 @@
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
                         </td>
                     </tr>
-<!-- CAPTION -->    <tr><th colspan="2" align="center"><sup>
+<!-- CAPTION -->    <tr><th align="center"><sup>
 <!-- CAPTION TEXT -->Table of contents
-                     </sup></th></tr>
+                     </sup></th>
+                     <td>
+<table align="right"><tr><!-- NAVIGATION BAR -->
+        <td align="center"><!-- PREVIOUS PAGE -->
+                <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
+                <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
+        <td align="center"><!-- PREVIOUS CHAPTER -->
+                <a class="hlink" href="../C-0000/App%20C%20Segoe%20Character%20Set.md">
+                <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
+        <td align="center"><!-- HOME -->
+                <a class="hlink" href="home">
+                <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
+        <td align="center"><!-- NEXT CHAPTER -->
+                <a class="hlink" href="../E-0000/App%20E%20Template.md">
+                <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
+        <td align="center"><!-- NEXT PAGE -->
+                <a class="hlink" href="../E-0000/App%20E%20Template.md">
+                <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
+</tr></table><!-- END OF NAVIGATION BAR -->
+                     </td></tr>
 </table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
 <br><br>
