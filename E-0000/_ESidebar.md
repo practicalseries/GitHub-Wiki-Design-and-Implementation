@@ -2,10 +2,10 @@
 
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="app-d-3d-model">
+                <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="app-d-3d-model">
+                <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="home">
@@ -19,26 +19,29 @@
 
 <!-- PAGE REFERENCES FOR LINKS
 https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/
+
+<!-- PAGE REFERENCES FOR LINKS
+https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/
 home                                                    ../Home.md
 casenotes                                               ../00-0000/CaseNotes.md
 licence                                                 ../00-0000/Licence.md
 ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md    ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
-../02-0000/02%20Cloning%20a%20Wiki.md                                       ../02-0000/02%20Cloning%20a%20Wiki.md
-../03-0000/03%20A%20Wiki%20folder%20structure.md                              ../03-0000/03%20A%20Wiki%20folder%20structure.md
-../04-0000/04%20Different%20sidebars%20and%20footers.md                       ../04-0000/04%20Different%20sidebars%20and%20footers.md
-../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md                   ../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md
-../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md                   ../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md
-../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md                ../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md
-../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md                ../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md
-../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md                ../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md
-../07-0000/07%20Special%20characters%20and%20escaping%20characters.md           ../07-0000/07%20Special%20characters%20and%20escaping%20characters.md
-../08-0000/08%20Block%20quotes,%20lists%20and%20alerts.md                       ../08-0000/08%20Block%20quotes,%20lists%20and%20alerts.md
-../09-0000/09%20Links.md                                                ../09-0000/09%20Links.md
-../09-0500/09.05%20Links.md                                             ../09-0500/09.05%20Links.md
-../10-0000/10%20Tables.md                                               ../10-0000/10%20Tables.md
-../11-0000/11%20Images.md                                               ../11-0000/11%20Images.md
-../11-0500/11.05%20Images.md                                            ../11-0500/11.05%20Images.md
-../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md          ../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md
+02-cloning-a-wiki                                       ../02-0000/02%20Cloning%20a%20Wiki.md
+03-a-wiki-folder-structure                              ../03-0000/03%20A%20Wiki%20folder%20structure.md
+04-different-sidebars-and-footers                       ../04-0000/04%20Different%20sidebars%20and%20footers.md
+05-markdown,-github-markdown-and-html                   ../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md
+06-basic-markdown-and-text-formatting                   ../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md
+06.04-basic-markdown-and-text-formatting                ../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md
+06.07-basic-markdown-and-text-formatting                ../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md
+06.10-basic-markdown-and-text-formatting                ../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md
+07-special-characters-and-escaping-characters           ../07-0000/07%20Special%20characters%20and%20escaping%20characters.md
+08-block-quotes,-lists-and-alerts                       ../08-0000/08%20Block%20quotes,%20lists%20and%20alerts.md
+09-links                                                ../09-0000/09%20Links.md
+09.05-links                                             ../09-0500/09.05%20Links.md
+10-tables                                               ../10-0000/10%20Tables.md
+11-images                                               ../11-0000/11%20Images.md
+11.05-images                                            ../11-0500/11.05%20Images.md
+12-contents,-collapsible-content-and-footnotes          ../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md
 13-code-fragments                                       ../13-0000/13%20Code%20fragments.md
 14-mathematical-formulae                                ../14-0000/14%20Mathematical%20formulae.md
 15-navigation-bars,-badges-and-buttons                  ../15-0000/15%20Navigation%20bars,%20badges%20and%20buttons.md
@@ -66,34 +69,34 @@ app-c.13-segoe-character-set                            ../C-1300/App%20C.13%20S
 app-c.14-segoe-character-set                            ../C-1400/App%20C.14%20Segoe%20Character%20Set.md
 app-d-3d-model                                          ../D-0000/App%20D%203D%20model.md
 app-e-template                                          ../E-0000/App%20E%20Template.md
-
+-->
 
 <details ><!-- HOME          🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
-<summary>&emsp;&ensp;&nbsp;<a href="home"><!-- HEAD -->Home</a>
+<summary>&emsp;&ensp;&nbsp;<a href="../Home.md"><!-- HEAD -->Home</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The GitHub Wiki](home#github-wiki--design-and-implementation)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[What does this guide cover?](home#what-does-this-guide-cover)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](home#a-note-by-the-author)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The GitHub Wiki](../Home.md#github-wiki--design-and-implementation)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[What does this guide cover?](../Home.md#what-does-this-guide-cover)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](../Home.md#a-note-by-the-author)<br>
 </details><!--               🟩🟩🟩 -->
 
 
 <!--          [CASENOTES]    🟢🟢🟢 UNNUMBERED, NO COLLAPSE -->
-&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="casenotes"><!-- HEAD -->CaseNotes</a>
+&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="../00-0000/CaseNotes.md"><!-- HEAD -->CaseNotes</a>
 <!--                         🟩🟩🟩 -->
 
 <details ><!-- LICENCE       🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
-<summary>&emsp;&ensp;&nbsp;<a href="licence"><!-- HEAD -->Licence</a>
+<summary>&emsp;&ensp;&nbsp;<a href="../00-0000/Licence.md"><!-- HEAD -->Licence</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The licences and other details](licence#the-licences-and-other-details)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The Licence](licence#the-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Why did I choose the MIT Licence?](licence#why-did-i-choose-the-mit-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Permissive licences](licence#permissive-licences)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Copyleft licence](licence#copyleft-licence)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Limiting liabilities](licence#limiting-liabilities)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](licence#which-licence-to-use)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling: licence or license](licence#a-note-on-spelling-licence-or-license)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The licences and other details](../00-0000/Licence.md#the-licences-and-other-details)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The Licence](../00-0000/Licence.md#the-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Why did I choose the MIT Licence?](../00-0000/Licence.md#why-did-i-choose-the-mit-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Permissive licences](../00-0000/Licence.md#permissive-licences)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Copyleft licence](../00-0000/Licence.md#copyleft-licence)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Limiting liabilities](../00-0000/Licence.md#limiting-liabilities)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Which licence to use?](../00-0000/Licence.md#which-licence-to-use)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on spelling: licence or license](../00-0000/Licence.md#a-note-on-spelling-licence-or-license)<br>
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 01]   🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
@@ -367,49 +370,49 @@ app-e-template                                          ../E-0000/App%20E%20Temp
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 13]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
-<summary><a href="../13-code-fragments">13<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Code fragments</a>
+<summary><a href="../../13-0000/13%20Code%20fragments.md">13<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Code fragments</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[13.1&emsp;&emsp;&thinsp;&hairsp;Inline code](13-code-fragments#131inline-code)<br>
-&emsp;&ensp;&hairsp;[13.2&emsp;&emsp;&thinsp;&hairsp;Code blocks](13-code-fragments#132code-blocks)<br>
-&emsp;&ensp;&hairsp;[13.2.1&emsp;&ensp;&hairsp;Preferred mechanism](13-code-fragments#1321preferred-mechanism-for-code-blocks)<br>
-&emsp;&ensp;&hairsp;[13.3&emsp;&emsp;&thinsp;&hairsp;Syntax highlighting](13-code-fragments#133syntax-highlighting)<br>
-&emsp;&ensp;&hairsp;[13.3.1&emsp;&ensp;&hairsp;Supported languages](13-code-fragments#1331supported-languages)<br>
-&emsp;&ensp;&hairsp;[13.4&emsp;&emsp;&thinsp;&hairsp;HTML code fragments](13-code-fragments#134html-code-fragments)<br>
-&emsp;&ensp;&hairsp;[13.4.1&emsp;&ensp;&hairsp;Converting HTML to code](13-code-fragments#1341converting-html-to-code-fragments)<br>
+&emsp;&ensp;&hairsp;[13.1&emsp;&emsp;&thinsp;&hairsp;Inline code](../13-0000/13%20Code%20fragments.md#131inline-code)<br>
+&emsp;&ensp;&hairsp;[13.2&emsp;&emsp;&thinsp;&hairsp;Code blocks](../13-0000/13%20Code%20fragments.md#132code-blocks)<br>
+&emsp;&ensp;&hairsp;[13.2.1&emsp;&ensp;&hairsp;Preferred mechanism](../13-0000/13%20Code%20fragments.md#1321preferred-mechanism-for-code-blocks)<br>
+&emsp;&ensp;&hairsp;[13.3&emsp;&emsp;&thinsp;&hairsp;Syntax highlighting](../13-0000/13%20Code%20fragments.md#133syntax-highlighting)<br>
+&emsp;&ensp;&hairsp;[13.3.1&emsp;&ensp;&hairsp;Supported languages](../13-0000/13%20Code%20fragments.md#1331supported-languages)<br>
+&emsp;&ensp;&hairsp;[13.4&emsp;&emsp;&thinsp;&hairsp;HTML code fragments](../13-0000/13%20Code%20fragments.md#134html-code-fragments)<br>
+&emsp;&ensp;&hairsp;[13.4.1&emsp;&ensp;&hairsp;Converting HTML to code](../13-0000/13%20Code%20fragments.md#1341converting-html-to-code-fragments)<br>
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 14]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
-<summary><a href="../14-mathematical-formulae">14<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Mathematical formulae</a>
+<summary><a href="../../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md">14<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Mathematical formulae</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[14.1&emsp;&emsp;&thinsp;&hairsp;An overview of LaTex](14-mathematical-formulae#141an-overview-of-latex)<br>
-&emsp;&ensp;&hairsp;[14.2&emsp;&emsp;&thinsp;&hairsp;Inserting an inline formula](14-mathematical-formulae#142inserting-an-inline-formula)<br>
-&emsp;&ensp;&hairsp;[14.2.1&emsp;&ensp;&nbsp;Alternative delimiter](14-mathematical-formulae#1421alternative-delimiter)<br>
-&emsp;&ensp;&hairsp;[14.3&emsp;&emsp;&thinsp;&hairsp;A formula block](14-mathematical-formulae#143a-formula-block)<br>
-&emsp;&ensp;&hairsp;[14.4&emsp;&emsp;&thinsp;&hairsp;Some example formulae](14-mathematical-formulae#144some-example-formulae)<br>
-&emsp;&ensp;&hairsp;[14.5&emsp;&emsp;&thinsp;&hairsp;LaTeX syntax](14-mathematical-formulae#145latex-syntax)<br>
-&emsp;&ensp;&hairsp;[14.5.1&emsp;&ensp;&hairsp;Greek lowercase](14-mathematical-formulae#1451greek-lowercase)<br>
-&emsp;&ensp;&hairsp;[14.5.2&emsp;&ensp;&hairsp;Greek uppercase and Hebrew](14-mathematical-formulae#1452greek-uppercase-variations-and-hebrew)<br>
-&emsp;&ensp;&hairsp;[14.5.3&emsp;&ensp;&hairsp;Mathematical constructions](14-mathematical-formulae#1453mathematical-constructions)<br>
-&emsp;&ensp;&hairsp;[14.5.4&emsp;&ensp;&hairsp;Variable sized delimiters](14-mathematical-formulae#1454variable-sized-delimiters)<br>
-&emsp;&ensp;&hairsp;[14.5.5&emsp;&ensp;&hairsp;Variable sized symbols](14-mathematical-formulae#1455variable-sized-symbols)<br>
-&emsp;&ensp;&hairsp;[14.5.6&emsp;&ensp;&hairsp;Variable sized symbols with limits](14-mathematical-formulae#1456variable-sized-symbols-with-limits)<br>
-&emsp;&ensp;&hairsp;[14.5.7&emsp;&ensp;&hairsp;Standard functions](14-mathematical-formulae#1457standard-functions)<br>
-&emsp;&ensp;&hairsp;[14.5.8&emsp;&ensp;&hairsp;Operators and relational symbols](14-mathematical-formulae#1458operators-and-relational-symbols)<br>
-&emsp;&ensp;&hairsp;[14.5.9&emsp;&ensp;&hairsp;Arrows](14-mathematical-formulae#1459arrows)<br>
-&emsp;&ensp;&hairsp;[14.5.10&ensp;&nbsp;&nbsp;Other symbols](14-mathematical-formulae#14510other-symbols)<br>
-&emsp;&ensp;&hairsp;[14.5.11&ensp;&nbsp;&nbsp;Accents](14-mathematical-formulae#14511accents)<br>
-&emsp;&ensp;&hairsp;[14.5.12&ensp;&nbsp;&nbsp;Matrices](14-mathematical-formulae#14512matrices)<br>
-&emsp;&ensp;&hairsp;[14.5.13&ensp;&nbsp;&nbsp;Cases](14-mathematical-formulae#14513cases)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Aligning multiple equations](14-mathematical-formulae#aligning-multiple-equations)<br>
-&emsp;&ensp;&hairsp;[14.5.14&ensp;&nbsp;&nbsp;Text formatting](14-mathematical-formulae#14514text-formatting)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Font size](14-mathematical-formulae#font-size)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Font colour](14-mathematical-formulae#font-colour)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The text command](14-mathematical-formulae#the-text-command)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Font restrictions](14-mathematical-formulae#font-restrictions)<br>
-&emsp;&ensp;&hairsp;[14.6&emsp;&emsp;&thinsp;&hairsp;Abusing LaTeX](14-mathematical-formulae#146abusing-latex)<br>
-&emsp;&ensp;&hairsp;[14.6.1&emsp;&ensp;&hairsp;Changing font colour with LaTeX](14-mathematical-formulae#1461using-latex-to-change-the-font-colour)<br>
+&emsp;&ensp;&hairsp;[14.1&emsp;&emsp;&thinsp;&hairsp;An overview of LaTex](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#141an-overview-of-latex)<br>
+&emsp;&ensp;&hairsp;[14.2&emsp;&emsp;&thinsp;&hairsp;Inserting an inline formula](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#142inserting-an-inline-formula)<br>
+&emsp;&ensp;&hairsp;[14.2.1&emsp;&ensp;&nbsp;Alternative delimiter](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1421alternative-delimiter)<br>
+&emsp;&ensp;&hairsp;[14.3&emsp;&emsp;&thinsp;&hairsp;A formula block](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#143a-formula-block)<br>
+&emsp;&ensp;&hairsp;[14.4&emsp;&emsp;&thinsp;&hairsp;Some example formulae](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#144some-example-formulae)<br>
+&emsp;&ensp;&hairsp;[14.5&emsp;&emsp;&thinsp;&hairsp;LaTeX syntax](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#145latex-syntax)<br>
+&emsp;&ensp;&hairsp;[14.5.1&emsp;&ensp;&hairsp;Greek lowercase](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1451greek-lowercase)<br>
+&emsp;&ensp;&hairsp;[14.5.2&emsp;&ensp;&hairsp;Greek uppercase and Hebrew](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1452greek-uppercase-variations-and-hebrew)<br>
+&emsp;&ensp;&hairsp;[14.5.3&emsp;&ensp;&hairsp;Mathematical constructions](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1453mathematical-constructions)<br>
+&emsp;&ensp;&hairsp;[14.5.4&emsp;&ensp;&hairsp;Variable sized delimiters](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1454variable-sized-delimiters)<br>
+&emsp;&ensp;&hairsp;[14.5.5&emsp;&ensp;&hairsp;Variable sized symbols](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1455variable-sized-symbols)<br>
+&emsp;&ensp;&hairsp;[14.5.6&emsp;&ensp;&hairsp;Variable sized symbols with limits](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1456variable-sized-symbols-with-limits)<br>
+&emsp;&ensp;&hairsp;[14.5.7&emsp;&ensp;&hairsp;Standard functions](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1457standard-functions)<br>
+&emsp;&ensp;&hairsp;[14.5.8&emsp;&ensp;&hairsp;Operators and relational symbols](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1458operators-and-relational-symbols)<br>
+&emsp;&ensp;&hairsp;[14.5.9&emsp;&ensp;&hairsp;Arrows](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1459arrows)<br>
+&emsp;&ensp;&hairsp;[14.5.10&ensp;&nbsp;&nbsp;Other symbols](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#14510other-symbols)<br>
+&emsp;&ensp;&hairsp;[14.5.11&ensp;&nbsp;&nbsp;Accents](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#14511accents)<br>
+&emsp;&ensp;&hairsp;[14.5.12&ensp;&nbsp;&nbsp;Matrices](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#14512matrices)<br>
+&emsp;&ensp;&hairsp;[14.5.13&ensp;&nbsp;&nbsp;Cases](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#14513cases)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Aligning multiple equations](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#aligning-multiple-equations)<br>
+&emsp;&ensp;&hairsp;[14.5.14&ensp;&nbsp;&nbsp;Text formatting](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#14514text-formatting)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Font size](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#font-size)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Font colour](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#font-colour)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The text command](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#the-text-command)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Font restrictions](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#font-restrictions)<br>
+&emsp;&ensp;&hairsp;[14.6&emsp;&emsp;&thinsp;&hairsp;Abusing LaTeX](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#146abusing-latex)<br>
+&emsp;&ensp;&hairsp;[14.6.1&emsp;&ensp;&hairsp;Changing font colour with LaTeX](../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#1461using-latex-to-change-the-font-colour)<br>
 </details><!--               🟩🟩🟩 x1x1x1-->
 
 <details><!-- [SECTION 15]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
@@ -427,53 +430,53 @@ app-e-template                                          ../E-0000/App%20E%20Temp
 
 
 <details><!-- [SECTION 16]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
-<summary><a href="../16-practicalseries-wiki-conventions">16<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->PracticalSeries Wiki conventions</a>
+<summary><a href="../../16-0000/16%20PracticalSeries%20Wiki%20conventions.md">16<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->PracticalSeries Wiki conventions</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[16.1&emsp;&emsp;&thinsp;&hairsp;The PracticalSeries Wiki page](16-practicalseries-wiki-conventions#161the-practicalseries-wiki-page)<br>
-&emsp;&ensp;&hairsp;[16.2&emsp;&emsp;&thinsp;&hairsp;The PracticalSeries folder structure](16-practicalseries-wiki-conventions#162the-practicalseries-folder-structure)<br>
-&emsp;&ensp;&hairsp;[16.2.1&emsp;&ensp;&hairsp;The root folder and home page](16-practicalseries-wiki-conventions#1621the-root-folder-and-home-page)<br>
-&emsp;&ensp;&hairsp;[16.2.2&emsp;&ensp;&hairsp;Leading pages](16-practicalseries-wiki-conventions#1622leading-pages)<br>
-&emsp;&ensp;&hairsp;[16.2.3&emsp;&ensp;&hairsp;.gitkeep files](16-practicalseries-wiki-conventions#1623gitkeep-files)<br>
-&emsp;&ensp;&hairsp;[16.2.4&emsp;&ensp;&hairsp;Folder and Markdown file names](16-practicalseries-wiki-conventions#1624folder-and-markdown-file-names)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Wiki pages that start at a section](16-practicalseries-wiki-conventions#wiki-pages-that-start-at-a-section)<br>
-&emsp;&ensp;&hairsp;[16.3&emsp;&emsp;&thinsp;&hairsp;The page title area](16-practicalseries-wiki-conventions#163the-page-title-area)<br>
-&emsp;&ensp;&hairsp;[16.4&emsp;&emsp;&thinsp;&hairsp;The page heading area](16-practicalseries-wiki-conventions#164the-page-heading-area)<br>
-&emsp;&ensp;&hairsp;[16.4.1&emsp;&ensp;&hairsp;Top of page marker](16-practicalseries-wiki-conventions#1641top-of-page-marker)<br>
-&emsp;&ensp;&hairsp;[16.4.2&emsp;&ensp;&hairsp;Logo image](16-practicalseries-wiki-conventions#1642logo-image)<br>
-&emsp;&ensp;&hairsp;[16.4.3&emsp;&ensp;&hairsp;Web ID badge](16-practicalseries-wiki-conventions#1643web-id-badge)<br>
-&emsp;&ensp;&hairsp;[16.5&emsp;&emsp;&thinsp;&hairsp;Main body area](16.05-practicalseries-wiki-conventions#165main-body-area)<br>
-&emsp;&ensp;&hairsp;[16.5.1&emsp;&ensp;&hairsp;Common page elements](16.05-practicalseries-wiki-conventions#1651common-page-elements)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[End of page marker](16.05-practicalseries-wiki-conventions#end-of-page-marker)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[End of section elements](16.05-practicalseries-wiki-conventions#end-of-section-elements)<br>
-&emsp;&ensp;&hairsp;[16.5.2&emsp;&ensp;&hairsp;Headings](16.05-practicalseries-wiki-conventions#1652headings)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Compensating for number widths](16.05-PracticalSeries-Wiki-conventions#compensating-for-number-widths)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Appendices headings](16.05-PracticalSeries-Wiki-conventions#appendices-headings)<br>
-&emsp;&ensp;&hairsp;[16.5.3&emsp;&ensp;&hairsp;Tables](16.05-PracticalSeries-Wiki-conventions#1653tables)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Links to a table](16.05-PracticalSeries-Wiki-conventions#links-to-a-table)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on Markdown tables](16.05-PracticalSeries-Wiki-conventions#a-note-on-markdown-tables)<br>
-&emsp;&ensp;&hairsp;[16.5.4&emsp;&ensp;&hairsp;Images](16.05-PracticalSeries-Wiki-conventions#1654images)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Images that open in a new tab](16.05-PracticalSeries-Wiki-conventions#images-that-open-in-a-new-tab)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Double images](16.05-PracticalSeries-Wiki-conventions#double-images)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Links to a figure](16.05-PracticalSeries-Wiki-conventions#links-to-a-figure)<br>
-&emsp;&ensp;&hairsp;[16.5.5&emsp;&ensp;&hairsp;Lists](16.05-PracticalSeries-Wiki-conventions#1655lists)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Common points for all lists](16.05-PracticalSeries-Wiki-conventions#common-points-for-all-lists)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Basic unordered list](16.05-PracticalSeries-Wiki-conventions#ps-basic-unordered-list)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Basic ordered list](16.05-PracticalSeries-Wiki-conventions#ps-basic-ordered-list)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Mixed ordered and unordered lists](16.05-PracticalSeries-Wiki-conventions#ps-mixed-ordered-and-unordered-lists)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Enhanced mixed lists](16.05-PracticalSeries-Wiki-conventions#ps-enhanced-mixed-ordered-and-unordered-lists)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Index list](16.05-PracticalSeries-Wiki-conventions#ps-index-list)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Reverse index list](16.05-PracticalSeries-Wiki-conventions#ps-reverse-index-list)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Index list with text wrap](16.05-PracticalSeries-Wiki-conventions#ps-index-list-with-text-wrap)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Reverse index list with text wrap](16.05-PracticalSeries-Wiki-conventions#ps-reverse-index-list-with-text-wrap)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Indexed, mixed list](16.05-PracticalSeries-Wiki-conventions#ps-indexed-mixed-list)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Reverse indexed, mixed list](16.05-PracticalSeries-Wiki-conventions#ps-reverse-indexed-mixed-list)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Task list](16.05-PracticalSeries-Wiki-conventions#ps-task-list)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Enhanced task list with observations](16.05-PracticalSeries-Wiki-conventions#ps-enhanced-task-list-with-observations)<br>
-&emsp;&ensp;&hairsp;[16.5.6&emsp;&ensp;&hairsp;Code fragments](16.05-PracticalSeries-Wiki-conventions#1656code-fragments)<br>
-&emsp;&ensp;&hairsp;[16.5.7&emsp;&ensp;&hairsp;Formulae](16.05-PracticalSeries-Wiki-conventions#1657formulae)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Standard formulae](16.05-PracticalSeries-Wiki-conventions#ps-standard-formulae)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Alternate  formulae](16.05-PracticalSeries-Wiki-conventions#ps-alternate--formulae)<br>
+&emsp;&ensp;&hairsp;[16.1&emsp;&emsp;&thinsp;&hairsp;The PracticalSeries Wiki page](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#161the-practicalseries-wiki-page)<br>
+&emsp;&ensp;&hairsp;[16.2&emsp;&emsp;&thinsp;&hairsp;The PracticalSeries folder structure](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#162the-practicalseries-folder-structure)<br>
+&emsp;&ensp;&hairsp;[16.2.1&emsp;&ensp;&hairsp;The root folder and home page](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1621the-root-folder-and-home-page)<br>
+&emsp;&ensp;&hairsp;[16.2.2&emsp;&ensp;&hairsp;Leading pages](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1622leading-pages)<br>
+&emsp;&ensp;&hairsp;[16.2.3&emsp;&ensp;&hairsp;.gitkeep files](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1623gitkeep-files)<br>
+&emsp;&ensp;&hairsp;[16.2.4&emsp;&ensp;&hairsp;Folder and Markdown file names](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1624folder-and-markdown-file-names)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Wiki pages that start at a section](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#wiki-pages-that-start-at-a-section)<br>
+&emsp;&ensp;&hairsp;[16.3&emsp;&emsp;&thinsp;&hairsp;The page title area](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#163the-page-title-area)<br>
+&emsp;&ensp;&hairsp;[16.4&emsp;&emsp;&thinsp;&hairsp;The page heading area](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#164the-page-heading-area)<br>
+&emsp;&ensp;&hairsp;[16.4.1&emsp;&ensp;&hairsp;Top of page marker](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1641top-of-page-marker)<br>
+&emsp;&ensp;&hairsp;[16.4.2&emsp;&ensp;&hairsp;Logo image](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1642logo-image)<br>
+&emsp;&ensp;&hairsp;[16.4.3&emsp;&ensp;&hairsp;Web ID badge](../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1643web-id-badge)<br>
+&emsp;&ensp;&hairsp;[16.5&emsp;&emsp;&thinsp;&hairsp;Main body area](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#165main-body-area)<br>
+&emsp;&ensp;&hairsp;[16.5.1&emsp;&ensp;&hairsp;Common page elements](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1651common-page-elements)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[End of page marker](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#end-of-page-marker)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[End of section elements](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#end-of-section-elements)<br>
+&emsp;&ensp;&hairsp;[16.5.2&emsp;&ensp;&hairsp;Headings](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1652headings)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Compensating for number widths](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#compensating-for-number-widths)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Appendices headings](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#appendices-headings)<br>
+&emsp;&ensp;&hairsp;[16.5.3&emsp;&ensp;&hairsp;Tables](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1653tables)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Links to a table](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#links-to-a-table)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note on Markdown tables](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#a-note-on-markdown-tables)<br>
+&emsp;&ensp;&hairsp;[16.5.4&emsp;&ensp;&hairsp;Images](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1654images)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Images that open in a new tab](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#images-that-open-in-a-new-tab)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Double images](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#double-images)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Links to a figure](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#links-to-a-figure)<br>
+&emsp;&ensp;&hairsp;[16.5.5&emsp;&ensp;&hairsp;Lists](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1655lists)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Common points for all lists](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#common-points-for-all-lists)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Basic unordered list](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-basic-unordered-list)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Basic ordered list](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-basic-ordered-list)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Mixed ordered and unordered lists](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-mixed-ordered-and-unordered-lists)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Enhanced mixed lists](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-enhanced-mixed-ordered-and-unordered-lists)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Index list](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-index-list)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Reverse index list](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-reverse-index-list)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Index list with text wrap](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-index-list-with-text-wrap)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Reverse index list with text wrap](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-reverse-index-list-with-text-wrap)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Indexed, mixed list](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-indexed-mixed-list)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Reverse indexed, mixed list](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-reverse-indexed-mixed-list)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Task list](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-task-list)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Enhanced task list with observations](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-enhanced-task-list-with-observations)<br>
+&emsp;&ensp;&hairsp;[16.5.6&emsp;&ensp;&hairsp;Code fragments](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1656code-fragments)<br>
+&emsp;&ensp;&hairsp;[16.5.7&emsp;&ensp;&hairsp;Formulae](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#1657formulae)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Standard formulae](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-standard-formulae)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Alternate  formulae](../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md#ps-alternate--formulae)<br>
 &emsp;&ensp;&hairsp;[16.6&emsp;&emsp;&thinsp;&hairsp;Sidebar](16.06-practicalseries-wiki-conventions#166sidebar)<br>
 &emsp;&ensp;&hairsp;[16.6.1&emsp;&ensp;&hairsp;sidebar files and locations](16.06-practicalseries-wiki-conventions#1661names-and-locations-of-the-sidebar-files)<br>
 &emsp;&ensp;&hairsp;[16.6.2&emsp;&ensp;&hairsp;Sidebar title and location badge](16.06-practicalseries-wiki-conventions#1662sidebar-title-and-location-badge)<br>
@@ -494,87 +497,87 @@ app-e-template                                          ../E-0000/App%20E%20Temp
 </details><!--               🟩🟩🟩 -->
 
 <details><!-- [SECTION 17]   🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
-<summary><a href="../17-managing-a-wiki">17<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Managing a Wiki</a>
+<summary><a href="../../17-0000/17%20Managing%20a%20Wiki.md">17<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Managing a Wiki</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[17.1&emsp;&emsp;&thinsp;&hairsp;Revision control](17-managing-a-wiki#171revision-control)<br>
-&emsp;&ensp;&hairsp;[17.1.1&emsp;&ensp;&hairsp;Managing commits](17-managing-a-wiki#1711managing-commits)<br>
-&emsp;&ensp;&hairsp;[17.2&emsp;&emsp;&thinsp;&hairsp;Finding the first Wiki commit](17-managing-a-wiki#172finding-the-first-wiki-commit)<br>
-&emsp;&ensp;&hairsp;[17.3&emsp;&emsp;&thinsp;&hairsp;Rebasing the Wiki](17-managing-a-wiki#173rebasing-the-wiki)<br>
-&emsp;&ensp;&hairsp;[17.3.1&emsp;&ensp;&hairsp;Summarising the rebase process](17-managing-a-wiki#1731summarising-the-rebase-process)<br>
-&emsp;&ensp;&hairsp;[17.3.2&emsp;&ensp;&hairsp;Executing the rebase process](17-managing-a-wiki#1732executing-the-rebase-process)<br>
-&emsp;&ensp;&hairsp;[17.4&emsp;&emsp;&thinsp;&hairsp;Wikis and search engine visibility](17-managing-a-wiki#174wikis-and-search-engine-visibility)<br>
+&emsp;&ensp;&hairsp;[17.1&emsp;&emsp;&thinsp;&hairsp;Revision control](../17-0000/17%20Managing%20a%20Wiki.md#171revision-control)<br>
+&emsp;&ensp;&hairsp;[17.1.1&emsp;&ensp;&hairsp;Managing commits](../17-0000/17%20Managing%20a%20Wiki.md#1711managing-commits)<br>
+&emsp;&ensp;&hairsp;[17.2&emsp;&emsp;&thinsp;&hairsp;Finding the first Wiki commit](../17-0000/17%20Managing%20a%20Wiki.md#172finding-the-first-wiki-commit)<br>
+&emsp;&ensp;&hairsp;[17.3&emsp;&emsp;&thinsp;&hairsp;Rebasing the Wiki](../17-0000/17%20Managing%20a%20Wiki.md#173rebasing-the-wiki)<br>
+&emsp;&ensp;&hairsp;[17.3.1&emsp;&ensp;&hairsp;Summarising the rebase process](../17-0000/17%20Managing%20a%20Wiki.md#1731summarising-the-rebase-process)<br>
+&emsp;&ensp;&hairsp;[17.3.2&emsp;&ensp;&hairsp;Executing the rebase process](../17-0000/17%20Managing%20a%20Wiki.md#1732executing-the-rebase-process)<br>
+&emsp;&ensp;&hairsp;[17.4&emsp;&emsp;&thinsp;&hairsp;Wikis and search engine visibility](../17-0000/17%20Managing%20a%20Wiki.md#174wikis-and-search-engine-visibility)<br>
 </details><!--               🟩🟩🟩 -->
 
 <!-- APPENDICES -->
 <hr><!-- SEPARATOR -->
 <details open><!-- APPENDICES TOP 🔴🔴🔴 LEVEL COLLAPSE -->
-<summary><a href="../app-a-html-escape-characters"><!-- APP TOP LEVEL -->Appendices</a>
+<summary><a href="../../A-0000/App%20A%20HTML%20escape%20characters.md"><!-- APP TOP LEVEL -->Appendices</a>
 </summary>
 <br><!-- BLANK LINE BELOW -->
 
 <details><!-- [APP A   ]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./app-a-html-escape-characters">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape </a>
+<summary><a href="./../A-0000/App%20A%20HTML%20escape%20characters.md">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape </a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[A.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;HTML Escape codes, full list](app-a-html-escape-characters#a1html-escape-codes-full-list)<br>
-&emsp;&ensp;&hairsp;[A.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Non-functional escape sequences](app-a.02-html-escape-characters#heading)<br>
+&emsp;&ensp;&hairsp;[A.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;HTML Escape codes, full list](../A-0000/App%20A%20HTML%20escape%20characters.md#a1html-escape-codes-full-list)<br>
+&emsp;&ensp;&hairsp;[A.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Non-functional escape sequences](../A-0000/App%20A.02%20HTML%20escape%20characters.md#heading)<br>
 </details><!--               🟨🟨🟨 -->
 
 <details><!-- [APP B]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="../app-b-emoji-list">B<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Full list of all emoji characters</a>
+<summary><a href="../../B-0000/App%20B%20Emoji%20list.md">B<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Full list of all emoji characters</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&ensp;&hairsp;[B.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Emojis, a brief explanation](app-b-emoji-list#b1emojis-a-brief-explanation)<br>
-&emsp;&ensp;&hairsp;[B.1.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji short names](app-b-emoji-list#b11emoji-short-names)<br>
-&emsp;&ensp;&hairsp;[B.1.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji escape codes](app-b-emoji-list#b12emoji-escape-codes)<br>
-&emsp;&ensp;&hairsp;[B.1.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji variations](app-b-emoji-list#b13emoji-variations)<br>
-&emsp;&ensp;&hairsp;[B.1.4&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji numbers](app-b-emoji-list#b14emoji-numbers)<br>
-&emsp;&ensp;&hairsp;[B.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Emojis characters by category](app-b-emoji-list#b2full-list-of-emojis-by-category)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Smileys and emotion](app-b-emoji-list#smileys-and-emotion)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[People and body](app-b-emoji-list#people-and-body)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Component](app-b-emoji-list#component)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Animals and nature](app-b-emoji-list#animals-and-nature)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Food and drink](app-b-emoji-list#food-and-drink)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Travel and places](app-b-emoji-list#travel-and-places)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Activities](app-b-emoji-list#activities)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Objects](app-b-emoji-list#objects)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Symbols](app-b-emoji-list#symbols)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Flags](app-b-emoji-list#flags)<br>
-&emsp;&ensp;&hairsp;[B.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Emoji characters by Unicode](app-b.03-emoji-list#b3full-list-of-all-emoji-characters-by-unicode-value)<br>
+&emsp;&ensp;&hairsp;[B.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Emojis, a brief explanation](../B-0000/App%20B%20Emoji%20list.md#b1emojis-a-brief-explanation)<br>
+&emsp;&ensp;&hairsp;[B.1.1&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji short names](../B-0000/App%20B%20Emoji%20list.md#b11emoji-short-names)<br>
+&emsp;&ensp;&hairsp;[B.1.2&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji escape codes](../B-0000/App%20B%20Emoji%20list.md#b12emoji-escape-codes)<br>
+&emsp;&ensp;&hairsp;[B.1.3&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji variations](../B-0000/App%20B%20Emoji%20list.md#b13emoji-variations)<br>
+&emsp;&ensp;&hairsp;[B.1.4&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Emoji numbers](../B-0000/App%20B%20Emoji%20list.md#b14emoji-numbers)<br>
+&emsp;&ensp;&hairsp;[B.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Emojis characters by category](../B-0000/App%20B%20Emoji%20list.md#b2full-list-of-emojis-by-category)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Smileys and emotion](../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[People and body](../B-0000/App%20B%20Emoji%20list.md#people-and-body)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Component](../B-0000/App%20B%20Emoji%20list.md#component)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Animals and nature](../B-0000/App%20B%20Emoji%20list.md#animals-and-nature)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Food and drink](../B-0000/App%20B%20Emoji%20list.md#food-and-drink)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Travel and places](../B-0000/App%20B%20Emoji%20list.md#travel-and-places)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Activities](../B-0000/App%20B%20Emoji%20list.md#activities)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Objects](../B-0000/App%20B%20Emoji%20list.md#objects)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Symbols](../B-0000/App%20B%20Emoji%20list.md#symbols)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Flags](../B-0000/App%20B%20Emoji%20list.md#flags)<br>
+&emsp;&ensp;&hairsp;[B.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;Emoji characters by Unicode](../B-0300/App%20B.03%20Emoji%20list.md#b3full-list-of-all-emoji-characters-by-unicode-value)<br>
 </details><!--               🟨🟨🟨 -->
 
 <details><!-- [APP C]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="../app-c-segoe-character-set">C<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Segoe UI full character set</a>
+<summary><a href="../../C-0000/App%20C%20Segoe%20Character%20Set.md">C<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Segoe UI full character set</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](app-c-segoe-character-set#a-note-by-the-author)<br>
-&emsp;&ensp;&hairsp;[C.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;Inserting Unicode characters](app-c-segoe-character-set#c1inserting-unicode-characters-in-a-markdown-file)<br>
-&emsp;&ensp;&hairsp;[C.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+00000 to U+00FFF](App-C.02-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+01000 to U+01FFF](App-C.03-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.4&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+02000 to U+02FFF](App-C.04-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.5&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+03000 to U+09FFF](App-C.05-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.6&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+0A000 to U+0AFFF](App-C.06-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.7&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+0B000 to U+0FFFF](App-C.07-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.8&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+10000 to U+10FFF](App-C.08-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.9&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+11000 to U+11FFF](App-C.09-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.10&emsp;&emsp;&thinsp;Characters U+12000 to U+12FFF](App-C.10-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.11&emsp;&emsp;&thinsp;Characters U+13000 to U+15FFF](App-C.11-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.12&emsp;&emsp;&thinsp;Characters U+16000 to U+1CFFF](App-C.12-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.13&emsp;&emsp;&thinsp;Characters U+1D000 to U+1EFFF](App-C.13-Segoe-Character-Set)<br>
-&emsp;&ensp;&hairsp;[C.14&emsp;&emsp;&thinsp;Characters U+1F000 to U+3FFFF](App-C.14-Segoe-Character-Set)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](../C-0000/App%20C%20Segoe%20Character%20Set.md#a-note-by-the-author)<br>
+&emsp;&ensp;&hairsp;[C.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;Inserting Unicode characters](../C-0000/App%20C%20Segoe%20Character%20Set.md#c1inserting-unicode-characters-in-a-markdown-file)<br>
+&emsp;&ensp;&hairsp;[C.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+00000 to U+00FFF](../C-0200/App%20C.02%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.3&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+01000 to U+01FFF](../C-0300/App%20C.03%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.4&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+02000 to U+02FFF](../C-0400/App%20C.04%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.5&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+03000 to U+09FFF](../C-0500/App%20C.05%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.6&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+0A000 to U+0AFFF](../C-0600/App%20C.06%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.7&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+0B000 to U+0FFFF](../C-0700/App%20C.07%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.8&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+10000 to U+10FFF](../C-0800/App%20C.08%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.9&emsp;&emsp;&nbsp;&nbsp;&thinsp;Characters U+11000 to U+11FFF](../C-0900/App%20C.09%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.10&emsp;&emsp;&thinsp;Characters U+12000 to U+12FFF](../C-1000/App%20C.10%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.11&emsp;&emsp;&thinsp;Characters U+13000 to U+15FFF](../C-1100/App%20C.11%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.12&emsp;&emsp;&thinsp;Characters U+16000 to U+1CFFF](../C-1200/App%20C.12%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.13&emsp;&emsp;&thinsp;Characters U+1D000 to U+1EFFF](../C-1300/App%20C.13%20Segoe%20Character%20Set.md)<br>
+&emsp;&ensp;&hairsp;[C.14&emsp;&emsp;&thinsp;Characters U+1F000 to U+3FFFF](../C-1400/App%20C.14%20Segoe%20Character%20Set.md)<br>
 </details><!--               🟨🟨🟨 -->
 
 
 <details><!-- [APP D]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="../app-d-3d-model">D<!-- NUM -->&ensp;&nbsp;&nbsp;<!-- HEAD -->3D Model of a Sierpinski cube</a>
+<summary><a href="../../D-0000/App%20D%203D%20model.md">D<!-- NUM -->&ensp;&nbsp;&nbsp;<!-- HEAD -->3D Model of a Sierpinski cube</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[3D Sierpinski cube](app-d-3d-model#3d-sierpinski-cube)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[3D Sierpinski cube](../D-0000/App%20D%203D%20model.md#3d-sierpinski-cube)<br>
 </details><!--               🟨🟨🟨 -->
 
 <details open><!-- [APP E]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="../app-e-template">E<!-- NUM -->&ensp;&nbsp;&nbsp;&nbsp;<!-- HEAD -->Template</a>
+<summary><a href="../../E-0000/App%20E%20Template.md">E<!-- NUM -->&ensp;&nbsp;&nbsp;&nbsp;<!-- HEAD -->Template</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[COMMENT FIELDS](#--------comment-fields)<br>

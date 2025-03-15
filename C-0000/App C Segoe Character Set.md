@@ -11,19 +11,19 @@ The character set is very large (approximately 26,700 characters in total) and h
 
 The character set is split as follows:
 
-&emsp;&emsp;&emsp;[C.2.&emsp;Characters U+00000 to U+00FFF](App-C.02-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.3.&emsp;Characters U+01000 to U+01FFF](App-C.03-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.4.&emsp;Characters U+02000 to U+02FFF](App-C.04-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.5.&emsp;Characters U+03000 to U+09FFF](App-C.05-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.6.&emsp;Characters U+0A000 to U+0AFFF](App-C.06-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.7.&emsp;Characters U+0B000 to U+0FFFF](App-C.07-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.8.&emsp;Characters U+10000 to U+10FFF](App-C.08-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.9.&emsp;Characters U+11000 to U+11FFF](App-C.09-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.10.&ensp;Characters U+12000 to U+12FFF](App-C.10-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.11.&ensp;Characters U+13000 to U+15FFF](App-C.11-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.12.&ensp;Characters U+16000 to U+1CFFF](App-C.12-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.13.&ensp;Characters U+1D000 to U+1EFFF](App-C.13-Segoe-Character-Set)<br>
-&emsp;&emsp;&emsp;[C.14.&ensp;Characters U+1F000 to U+3FFFF](App-C.14-Segoe-Character-Set)<br>
+&emsp;&emsp;&emsp;[C.2.&emsp;Characters U+00000 to U+00FFF](../C-0200/App%20C.02%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.3.&emsp;Characters U+01000 to U+01FFF](../C-0300/App%20C.03%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.4.&emsp;Characters U+02000 to U+02FFF](../C-0400/App%20C.04%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.5.&emsp;Characters U+03000 to U+09FFF](../C-0500/App%20C.05%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.6.&emsp;Characters U+0A000 to U+0AFFF](../C-0600/App%20C.06%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.7.&emsp;Characters U+0B000 to U+0FFFF](../C-0700/App%20C.07%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.8.&emsp;Characters U+10000 to U+10FFF](../C-0800/App%20C.08%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.9.&emsp;Characters U+11000 to U+11FFF](../C-0900/App%20C.09%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.10.&ensp;Characters U+12000 to U+12FFF](../C-1000/App%20C.10%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.11.&ensp;Characters U+13000 to U+15FFF](../C-1100/App%20C.11%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.12.&ensp;Characters U+16000 to U+1CFFF](../C-1200/App%20C.12%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.13.&ensp;Characters U+1D000 to U+1EFFF](../C-1300/App%20C.13%20Segoe%20Character%20Set.md)<br>
+&emsp;&emsp;&emsp;[C.14.&ensp;Characters U+1F000 to U+3FFFF](../C-1400/App%20C.14%20Segoe%20Character%20Set.md)<br>
 
 There is a spread sheet version of all this data here:
 

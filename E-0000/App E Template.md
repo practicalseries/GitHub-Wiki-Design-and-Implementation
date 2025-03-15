@@ -1219,11 +1219,11 @@ x=\frac{-b\pm\sqrt{b^2—4ad}}{2a}
 <!--  11.2.1   --><a href="../11-0000/11%20Images.md#1121a-basic-html-image">section&nbsp;11.2.1</a>
 <!--  11.2.4   --><a href="../11-0000/11%20Images.md#1124making-the-image-a-link">section&nbsp;11.2.4</a>
 <!--  11.4     --><a href="../11-0000/11%20Images.md#114using-a-spacer-image">section&nbsp;11.4</a>
-<!--  13.3.1   --><a href="13-code-fragments#1331supported-languages">section&nbsp;13.3.1</a>
+<!--  13.3.1   --><a href="../13-0000/13%20Code%20fragments.md#1331supported-languages">section&nbsp;13.3.1</a>
 <!--  15.1     --><a href="15-navigation-bars,-badges-and-buttons#151navigation-bars">section&nbsp;15.1</a>
 <!--  15.2     --><a href="15-navigation-bars,-badges-and-buttons#152badges">section&nbsp;15.2</a>
-<!--  16.2     --><a href="16-practicalseries-wiki-conventions##162the-practicalseries-folder-structure">section&nbsp;16.2</a>
-<!--  16.4.1   --><a href="16-practicalseries-wiki-conventions#1641top-of-page-marker">section&nbsp;16.4.1</a>
+<!--  16.2     --><a href="../16-0000/16%20PracticalSeries%20Wiki%20conventions.md##162the-practicalseries-folder-structure">section&nbsp;16.2</a>
+<!--  16.4.1   --><a href="../16-0000/16%20PracticalSeries%20Wiki%20conventions.md#1641top-of-page-marker">section&nbsp;16.4.1</a>
 <!--  16.5.1   --><a href="../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md##1651common-page-elements">section&nbsp;16.5.1</a>
 
 

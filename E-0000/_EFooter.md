@@ -2,19 +2,19 @@
 
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="app-c.14-segoe-character-set">
+                <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="app-c-segoe-character-set">
+                <a class="hlink" href="../C-0000/App%20C%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="home">
                 <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="app-e-template">
+                <a class="hlink" href="../E-0000/App%20E%20Template.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="app-e-template">
+                <a class="hlink" href="../E-0000/App%20E%20Template.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 

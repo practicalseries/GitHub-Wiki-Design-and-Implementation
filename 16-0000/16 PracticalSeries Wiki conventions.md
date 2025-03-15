@@ -9,7 +9,7 @@ In this Wiki, I’ve tried to explain *(in some detail)* how GitHub Wikis work a
 
 This section goes one step further. In this section I go through all the conventions I use to create the PracticalSeries Wiki pages. Obviously, the content is determined by whatever the Wiki pages are documenting, but the format and appearance is consistent across all the PracticalSeries Wiki page.
 
-All of the conventions used within the PracticalSeries Wiki pages are given as examples in on the template page of the Wiki, here: <a href="app-e-template">Appendix&nbsp;E Template</a>
+All of the conventions used within the PracticalSeries Wiki pages are given as examples in on the template page of the Wiki, here: <a href="../E-0000/App%20E%20Template.md">Appendix&nbsp;E Template</a>
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

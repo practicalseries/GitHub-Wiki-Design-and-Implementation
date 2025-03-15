@@ -130,7 +130,7 @@ GitHub always ignores multiple spaces (unless they’re at the end of a line in 
 
 GitHub always ignores multiple blank lines (it acts as if there is only one blank line, <a href="#62paragraphs-and-line-breaks">section&nbsp;6.2</a>).
 
-Tab characters are at best ignore and at worst convert text into a code fragment, see <a href="13-code-fragments">section&nbsp;13</a>.
+Tab characters are at best ignore and at worst convert text into a code fragment, see <a href="../13-0000/13%20Code%20fragments.md">section&nbsp;13</a>.
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

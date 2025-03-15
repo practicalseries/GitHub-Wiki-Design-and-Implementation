@@ -9,7 +9,7 @@ This is a full list of all emojis available to GitHub Wiki pages.
 
 This page shows a full list of emojis in a single table arranged by ascending  order of the leading Unicode character number.
 
-To see the emojis organised by category, see [section B.1](App-B-Emoji-list#b1emojis-a-brief-explanation).
+To see the emojis organised by category, see [section B.1](../B-0000/App%20B%20Emoji%20list.md#b1emojis-a-brief-explanation).
 
 The number shown under the emoji *(in the Emoji column of the tables)* refers to the Unicode emoji number (listed here https://unicode.org/emoji/charts/full-emoji-list.html). These are assign by the Unicode Consortium and form an index of all emojis. 
 

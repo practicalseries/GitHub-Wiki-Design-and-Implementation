@@ -336,7 +336,7 @@ It has to be the special space characters, if the cell is padded with multiple s
 
 All the normal forms of emphasis (bold, italic &c.) can be used in tables. Block quotes and alerts however, cannot.
 
-All escape characters, emojis and escape sequences can also be used, as can code fragments (see <a href="13-code-fragments">section&nbsp;13</a>) and footnotes (see <a href="../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md#126footnotes">section&nbsp;12.6</a>).
+All escape characters, emojis and escape sequences can also be used, as can code fragments (see <a href="../13-0000/13%20Code%20fragments.md">section&nbsp;13</a>) and footnotes (see <a href="../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md#126footnotes">section&nbsp;12.6</a>).
 
 All types of links (see <a href="../09-0000/09%20Links.md">section&nbsp;9</a>) and figures (see <a href="11-image">section&nbsp;11</a>) can be used in tables.
 

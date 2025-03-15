@@ -103,7 +103,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -123,7 +123,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -144,13 +144,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -163,7 +163,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -178,7 +178,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -194,7 +194,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -204,7 +204,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -227,7 +227,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -246,7 +246,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -508,7 +508,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -528,7 +528,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -549,13 +549,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -568,7 +568,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -583,7 +583,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -599,7 +599,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -609,7 +609,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -632,7 +632,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -651,7 +651,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -1136,7 +1136,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -1156,7 +1156,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -1177,13 +1177,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -1196,7 +1196,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -1211,7 +1211,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -1227,7 +1227,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -1237,7 +1237,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -1260,7 +1260,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -1279,7 +1279,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -1307,7 +1307,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -1327,7 +1327,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -1348,13 +1348,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -1367,7 +1367,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -1382,7 +1382,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -1398,7 +1398,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -1408,7 +1408,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -1431,7 +1431,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -1450,7 +1450,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -1667,7 +1667,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -1687,7 +1687,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -1708,13 +1708,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -1727,7 +1727,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -1742,7 +1742,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -1758,7 +1758,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -1768,7 +1768,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -1791,7 +1791,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -1810,7 +1810,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -1995,7 +1995,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -2015,7 +2015,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -2036,13 +2036,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -2055,7 +2055,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -2070,7 +2070,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -2086,7 +2086,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -2096,7 +2096,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -2119,7 +2119,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -2138,7 +2138,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -2430,7 +2430,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -2450,7 +2450,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -2471,13 +2471,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -2490,7 +2490,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -2505,7 +2505,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -2521,7 +2521,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -2531,7 +2531,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -2554,7 +2554,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -2573,7 +2573,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -2702,7 +2702,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -2722,7 +2722,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -2743,13 +2743,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -2762,7 +2762,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -2777,7 +2777,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -2793,7 +2793,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -2803,7 +2803,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -2826,7 +2826,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -2845,7 +2845,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -3218,7 +3218,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -3238,7 +3238,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -3259,13 +3259,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -3278,7 +3278,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -3293,7 +3293,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -3309,7 +3309,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -3319,7 +3319,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -3342,7 +3342,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -3361,7 +3361,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>
@@ -3674,7 +3674,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 <tr valign="top">
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#smileys-and-emotion">Smileys and emotion</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#smileys-and-emotion">Smileys and emotion</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Face smiling](#face-smiling)<br>
@@ -3694,7 +3694,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Emotion](#emotion)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#people-and-body">People and body</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#people-and-body">People and body</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hand fingers open](#hand-fingers-open)<br>
@@ -3715,13 +3715,13 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Person symbol](#person-symbol)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#component">Component</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#component">Component</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Hair-Style](#hair-style)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#animals-and-nature">Animals and nature</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#animals-and-nature">Animals and nature</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Animal mammal](#animal-mammal)<br>
@@ -3734,7 +3734,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp; [Plant other](#plant-other)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#food-and-drink">Food and drink</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#food-and-drink">Food and drink</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp; [Food fruit](#food-fruit)<br>
@@ -3749,7 +3749,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 </td>
 <td>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#travel-and-places">Travel and places</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#travel-and-places">Travel and places</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Place map](#place-map)<br>
@@ -3765,7 +3765,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Sky and Weather](#sky-and-weather)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#activities">Activities</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#activities">Activities</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Event](#event)<br>
@@ -3775,7 +3775,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Arts-And-Crafts](#arts-and-crafts)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Objects">Objects</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Objects">Objects</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Clothing](#clothing)<br>
@@ -3798,7 +3798,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Other Object](#other-object)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Symbols">Symbols</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Symbols">Symbols</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Transport-Sign](#transport-sign)<br>
@@ -3817,7 +3817,7 @@ The emojis are split into the following (Unicode Consortium)categories:
 &emsp;&ensp;  [Geometric](#geometric)<br>
 </details>
 <details>
-<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/App-B-Emoji-list#Flags">Flags</a>
+<summary><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/../B-0000/App%20B%20Emoji%20list.md#Flags">Flags</a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;  [Country flag](#Country-flag)<br>

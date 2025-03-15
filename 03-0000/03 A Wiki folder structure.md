@@ -405,7 +405,7 @@ There are some absolute limits for the size of Wiki pages, generally, these are 
                     </sup></th></tr>
 </table>                             <!-- LIST END  🔼🔼(BLANK LINE BELOW) -->
 
-The largest files within the Wiki associated with this document are some of the character tables in the Appendices *(the largest is <a href="app-b-emoji-list#b2full-list-of-emojis-by-category">Appendix&nbsp;B.2</a> and the `.md` file is 501 kB, just less than the 512 kB or 0.5 MB limit)*. These all work, but occasionally, GitHub generates an error saying the page takes too long to render (reloading the page usually works).
+The largest files within the Wiki associated with this document are some of the character tables in the Appendices *(the largest is <a href="../B-0000/App%20B%20Emoji%20list.md#b2full-list-of-emojis-by-category">Appendix&nbsp;B.2</a> and the `.md` file is 501 kB, just less than the 512 kB or 0.5 MB limit)*. These all work, but occasionally, GitHub generates an error saying the page takes too long to render (reloading the page usually works).
 
 The above limits do not generally cause any problems with Wiki pages *(you are unlikely to hit any of them)*. With the PracticalSeries Wiki pages, other restrictions are imposed to manage page lengths and the splitting of text in to individual Wiki pages.
 

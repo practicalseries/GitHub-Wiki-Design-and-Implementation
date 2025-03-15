@@ -146,7 +146,7 @@ The PracticalSeries Wikis use HTML a lot, particularly where tables are concerne
 
 **GitHub needs to either bite the bullet and embrace HTML or make its version of Markdown better**
 
-${\large\color{#C00000}\text{p.s.\ If\ you\ want\ to\ know\ how\ I\ got\ the\ red\ text\ in\ there,\ see}}$ <a href="14-mathematical-formulae#146abusing-latex">section&nbsp;14.6</a>.
+${\large\color{#C00000}\text{p.s.\ If\ you\ want\ to\ know\ how\ I\ got\ the\ red\ text\ in\ there,\ see}}$ <a href="../14-0000/14%20Mathematical%20formulae.md../14-0000/14%20Mathematical%20formulae.md#146abusing-latex">section&nbsp;14.6</a>.
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
@@ -329,7 +329,7 @@ I haven’t invented my own Markdown *“flavour”*, but I have discovered vari
 
 It explains things like the collapsible content tables in the sidebar, badges and buttons, navigation bars a consistent approach to images, tables and captions &c.
 
-I cover all of these *“conventions”* in <a href="16-practicalseries-wiki-conventions">section&nbsp;16</a>.
+I cover all of these *“conventions”* in <a href="../16-0000/16%20PracticalSeries%20Wiki%20conventions.md">section&nbsp;16</a>.
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

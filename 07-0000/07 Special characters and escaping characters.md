@@ -19,7 +19,7 @@ There is a spreadsheet with the full Segoe UI character set <a href="https://git
 
 It’s a big list, there are 40,000 characters in it (not all of which render on GitHub, *but 26,684 of them do)*.
 
-These are also listed in <a href="app-c-segoe-character-set">Appendix&nbsp;C</a> of this Wiki.
+These are also listed in <a href="../C-0000/App%20C%20Segoe%20Character%20Set.md">Appendix&nbsp;C</a> of this Wiki.
 
 ## 7.1<!--      🟥H2🟥--><img width="091" height="1" src="https://psop.uk/wi-s" alt="Spacer">Escape characters and character codes
 
@@ -214,7 +214,7 @@ Basically, HTML escape sequences are a group of characters that are translated b
 
 Whenever the browser comes across the sequence of characters `&lt;`, it will display a less than sign `<`.
 
-There are many other HTML escape sequences for characters not accessible via the key board `&mu;` for example displays the Greek Mu character µ. <a href="app-a-html-escape-characters">Appendix&nbsp;A</a> contains a full list of all HTML escape sequences.
+There are many other HTML escape sequences for characters not accessible via the key board `&mu;` for example displays the Greek Mu character µ. <a href="../A-0000/App%20A%20HTML%20escape%20characters.md">Appendix&nbsp;A</a> contains a full list of all HTML escape sequences.
 
 **All of these HTML escape sequences work in Markdown, just put them in the text and GitHub will display them correctly.**
 
@@ -230,7 +230,7 @@ It is possible to use the Unicode value of the character as an *“escape code�
 
 Every character that can be displayed has a Unicode value (a number), specifically a value given using the Unicode transformation format-8 (UTF-8<a name="rn-01" href="#fn-01"><!-- 🟨FOOTNOTE LINK🟨--><sup>💠1</sup></a>). For example, the letter “A” has a Unicode value of `65`, “B” `66` &c., there is a full list on Wikipedia: https://en.wikipedia.org/wiki/List_of_Unicode_characters. 
 
-<a href="app-c-segoe-character-set">Appendix&nbsp;C</a> contains a spreadsheet with the full character set.
+<a href="../C-0000/App%20C%20Segoe%20Character%20Set.md">Appendix&nbsp;C</a> contains a spreadsheet with the full character set.
 
 In HTML and GitHub Flavoured Markdown, any character can be entered by using its Unicode value as an escape code. HTML escape codes are preceded by the ampersand and hash characters `&#` and finished with a semicolon `;`.
 
@@ -240,7 +240,7 @@ Continuing the previous example Unicode value for the letter “A” is `65` (de
 
 **GitHub Markdown accepts the use of both HTML escape sequence and escape codes.**
 
-The following tables gives a list of common escape sequence and escape codes <a href="app-a-html-escape-characters">Appendix&nbsp;A</a> has a complete list of all HTML escape sequences and codes (they mostly all work in GitHub Markdown, there are some exceptions though, these are listed in <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#721escape-sequence-restrictions-in-github-html">section&nbsp;7.2.1</a>).
+The following tables gives a list of common escape sequence and escape codes <a href="../A-0000/App%20A%20HTML%20escape%20characters.md">Appendix&nbsp;A</a> has a complete list of all HTML escape sequences and codes (they mostly all work in GitHub Markdown, there are some exceptions though, these are listed in <a href="../07-0000/07%20Special%20characters%20and%20escaping%20characters.md#721escape-sequence-restrictions-in-github-html">section&nbsp;7.2.1</a>).
 
 <table name="t-07-03" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
 <!-- Header row -->     <tr>
@@ -1471,7 +1471,7 @@ Mainly this affects some of the special space characters:
 <br clear="all">                     <!-- TABLE END🔼🔼(BLANK LINE BELOW) -->
 
 > [!IMPORTANT]<!-- IMPORTANT ALERT -->
-> **This is only a partial list of the most common escape sequences, a full list is available in <a href="app-a.02-html-escape-characters#heading">Appendix&nbsp;A.2</a>**
+> **This is only a partial list of the most common escape sequences, a full list is available in <a href="../A-0000/App%20A.02%20HTML%20escape%20characters.md#heading">Appendix&nbsp;A.2</a>**
 
 
 
@@ -1506,7 +1506,7 @@ I thought at first this was so that GitHub could use shorter names than the stan
 
 This argument falls down with the CLDR: `smiling face with hearts` and the GitHub `:smiling_face_with_three_hearts:` (🥰). So I’ve no idea why GitHub have differed.
 
-<a href="app-b-emoji-list">Appendix&nbsp;B</a> contains a full list of all the emojis. For completeness, it shows both the GitHub short name and the standardised CDLR short name, the decimal escape code and the hexadecimal escape code.
+<a href="../B-0000/App%20B%20Emoji%20list.md">Appendix&nbsp;B</a> contains a full list of all the emojis. For completeness, it shows both the GitHub short name and the standardised CDLR short name, the decimal escape code and the hexadecimal escape code.
 
 <br><br>
 #### <!--       🟥H4🟥--><u>A note by the Author about emojis<!-- Extended line -->&emsp;&emsp;&emsp;&emsp;&emsp;</u> 
