@@ -533,7 +533,9 @@
                         </td>
                     </tr>
 <!-- CAPTION -->    <tr><th align="center">
-<!-- CAPTION TEXT -->Table of contents
+<table align="center"><tr><!-- 🟣END OF PAG🟣E -->
+        <td><a href="#idend"><strong>⬇️ End of page</strong></a></td>
+</tr></table>
                      </th>
                      <td>
 <table align="right"><tr><!-- NAVIGATION BAR -->
