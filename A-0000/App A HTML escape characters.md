@@ -547,7 +547,7 @@
                 <a class="hlink" href="../Home.md">
                 <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
                 <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
@@ -1121,7 +1121,7 @@ I'm not sure why the north west and south east arrows are in blue &mdash; GitHub
                 <a class="hlink" href="../Home.md">
                 <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
                 <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
