@@ -550,7 +550,7 @@
                 <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="app-a.02-html-escape-characters">
+                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 </td></tr>
@@ -1124,7 +1124,7 @@ I'm not sure why the north west and south east arrows are in blue &mdash; GitHub
                 <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="app-a.02-html-escape-characters">
+                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 
