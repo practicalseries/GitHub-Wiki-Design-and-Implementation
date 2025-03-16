@@ -1215,3 +1215,13 @@ Creating a sidebar or footer using this method creates common sidebars and foote
                 <a class="hlink" href="../02-0000/02%20Cloning%20a%20Wiki.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
+
+<!--- COLOPHON -->
+<p align="center"><strong><!-- NAME -->The PracticalSeries of Publications&nbsp;&mdash;&nbsp;<!-- COPYRGT -->Copyright &copy; 2025 Michael Gledhill</strong></p>
+
+<!--- LINKS AND LOCATION BADGE -->
+<p align="center">
+<!-- TOP   --><a href="#idtop">⬆️ Top</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
+<!-- EMAIL --><a href="mailto:mg@practicalseries.com">mg@practicalseries.com</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
+<!-- WEB   --><a href="https://practicalseries.com/">PracticalSeries of Publications</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
+<!-- REPO  --><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation">Main repository</a></p>
