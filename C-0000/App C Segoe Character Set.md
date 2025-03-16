@@ -583,7 +583,7 @@ The character set is split as follows:
 There is a spread sheet version of all this data here:
 
 
-<p align="center"><a href="[../C-0000/04-data/segou_full_character_set.xlsx](https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/C-0000/04-data/segou_full_character_set.xlsx)"><img height="30" src="https://img.shields.io/badge/Download_the_full_Segoe_UI_character_spread_sheet-1F883D"></a></p>
+<p align="center"><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/C-0000/04-data/segou_full_character_set.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_full_Segoe_UI_character_spread_sheet-1F883D"></a></p>
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->

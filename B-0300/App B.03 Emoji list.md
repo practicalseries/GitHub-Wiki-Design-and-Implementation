@@ -573,7 +573,7 @@ At the time of writing (October 2024), there were **1910** emojis in the list.
 All the data in this table is available as an Excel spread sheet *(for convenience)*. Download it here:
 
 
-<p align="center"><a href="../B-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
+<p align="center"><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/C-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
 
 <br><br>
 

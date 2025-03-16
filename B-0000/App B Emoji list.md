@@ -569,7 +569,7 @@ ALternatively, there is a full list of emojis in a single table arranged by Unic
 
 All the data in these tables is available as an Excel spread sheet *(for convenience)*. Download it here:
 
-<p align="center"><a href="../B-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
+<p align="center"><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/B-0000/04-data/emoji_data.xlsx"><img height="30" src="https://img.shields.io/badge/Download_the_Emoji data_spread_sheet-1F883D"></a></p>
 
 **[:arrow_up: Top](#idtop)**<!-- END OF SECTION - LINK TO TOP🔽🔽(BLANK LINE ABOVE) -->
 <HR>                        <!-- END OF SECTION - SEPARATING LINE                    -->
