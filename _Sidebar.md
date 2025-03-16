@@ -68,12 +68,12 @@ app-e-template
 -->
 
 <details open><!-- HOME      🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
-<summary>&emsp;&ensp;&nbsp;<a href="#"><!-- HEAD -->Home</a>
+<summary>&emsp;&ensp;&nbsp;<a href="./Home.md"><!-- HEAD -->Home</a>
 </summary><!-- BLANK LINE BELOW -->
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The GitHub Wiki](#github-wiki--design-and-implementation)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[What does this guide cover?](#what-does-this-guide-cover)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](#a-note-by-the-author)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[The GitHub Wiki](./Home.md#github-wiki--design-and-implementation)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[What does this guide cover?](./Home.md#what-does-this-guide-cover)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[A note by the Author](./Home.md#a-note-by-the-author)<br>
 </details><!--               🟩🟩🟩 -->
 
 
