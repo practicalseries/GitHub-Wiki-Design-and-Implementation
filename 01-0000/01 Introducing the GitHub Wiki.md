@@ -533,7 +533,7 @@
                         </td>
                     </tr>
 <!-- CAPTION -->    <tr><th align="center">
-<!-- CAPTION TEXT --><a href="#idtop"><strong>⬆ Top of page</strong></a>&emsp;&emsp;&emsp;<a href="#idend"><strong>⬇️ End of page</strong></a>
+<!-- CAPTION TEXT --><a href="#idtop"><strong>⬆ Top of page</strong></a><img width="100" height="1" src="https://psop.uk/wi-s" alt="Spacer"><a href="#idend"><strong>⬇️ End of page</strong></a>
                      </th>
                      <td>
 <table align="center"><tr><!-- NAVIGATION BAR -->
