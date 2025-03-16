@@ -541,7 +541,7 @@
                 <a class="hlink" href="../B-0300/App%20B.03%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="../Home.md">
@@ -639,7 +639,7 @@ Although the tables show hexadecimal numbers with leading zeros, the leading zer
                 <a class="hlink" href="../B-0300/App%20B.03%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="../B-0300/App%20B.03%20Emoji%20list.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="../Home.md">
