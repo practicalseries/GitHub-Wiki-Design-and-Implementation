@@ -547,12 +547,12 @@
                 <a class="hlink" href="../Home.md">
                 <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
-</tr></table><!-- END OF NAVIGATION BAR -->               
+</tr></table><!-- END OF NAVIGATION BAR -->           
 </td></tr>
 </table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
@@ -766,10 +766,10 @@ This is a list of all affected escape sequences *(the replacement codes always w
                 <a class="hlink" href="../Home.md">
                 <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 
