@@ -533,7 +533,7 @@
                         </td>
                     </tr>
 <!-- CAPTION -->    <tr><th align="center">
-<!-- CAPTION TEXT --><a href="#idtop"><strong>⬆ Top of page</strong>&emsp;&emsp;<a href="#idend"><strong>⬇️ End of page</strong>
+<!-- CAPTION TEXT --><a href="#idtop"><strong>⬆ Top of page</strong></a>&emsp;&emsp;&emsp;<a href="#idend"><strong>⬇️ End of page</strong></a>
                      </th>
                      <td>
 <table align="center"><tr><!-- NAVIGATION BAR -->
