@@ -452,7 +452,9 @@
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[A.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;HTML Escape codes, full list](../A-0000/App%20A%20HTML%20escape%20characters.md#a1html-escape-codes-full-list)<br>
-&emsp;&ensp;&hairsp;[A.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Non-functional escape sequences](../A-0200/App%20A.02%20HTML%20escape%20characters.md#heading)<br>
+&emsp;&ensp;&hairsp;[A.2&emsp;&emsp;&nbsp;&nbsp;&thinsp;Non-functional escape sequences](CHAPTER -->
+                <a class="hlink" href="../B-0300/App%20B.03%20Emoji%20list.md
+#heading)<br>
 </details><!--               🟨🟨🟨 -->
 
 <details><!-- [APP B]        🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
@@ -541,7 +543,9 @@
                 <a class="hlink" href="../C-0500/App%20C.05%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="CHAPTER -->
+                <a class="hlink" href="../B-0300/App%20B.03%20Emoji%20list.md
+">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="../Home.md">
@@ -3279,7 +3283,9 @@
                 <a class="hlink" href="../C-0500/App%20C.05%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="CHAPTER -->
+                <a class="hlink" href="../B-0300/App%20B.03%20Emoji%20list.md
+">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="../Home.md">
