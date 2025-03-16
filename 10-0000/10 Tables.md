@@ -538,21 +538,21 @@
                      <td>
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
+                <a class="hlink" href="../09-0500/09.05%20Links.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="../C-0000/App%20C%20Segoe%20Character%20Set.md">
+                <a class="hlink" href="../09-0000/09%20Links.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
-                <a class="hlink" href="home">
-                <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
+                <a class="hlink" href="../Home.md">
+                <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="../E-0000/App%20E%20Template.md">
+                <a class="hlink" href="../11-0000/11%20Images.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="../E-0000/App%20E%20Template.md">
+                <a class="hlink" href="../11-0000/11%20Images.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
-</tr></table><!-- END OF NAVIGATION BAR -->                     
+</tr></table><!-- END OF NAVIGATION BAR -->
 </td></tr>
 </table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
@@ -2699,26 +2699,33 @@ Use them if you wish *(it’s probably better HTML)*. The PracticalSeries Wikis 
 <hr>                <!-- END OF PAGE - 🟥🟥🟥🟥🟥 SEPARATING LINE                   -->
 <a name="idend"></a><!-- END OF PAGE – 🟥🟥🟥🟥🟥 MARKER 🔼🔼                      -->
 
-- [10Tables](#10tables)
-  - [10.1Markdown tables](#101markdown-tables)
-    - [10.1.1Horizontal alignment](#1011horizontal-alignment)
-    - [10.1.2Table construction](#1012table-construction)
-    - [10.1.3Vertical line breaks and alignment](#1013vertical-line-breaks-and-alignment)
-    - [10.1.4Making columns wider](#1014making-columns-wider)
-    - [10.1.5Other elements in a table](#1015other-elements-in-a-table)
-    - [10.1.6Markdown table restrictions](#1016markdown-table-restrictions)
-  - [10.2HTML tables](#102html-tables)
-    - [10.2.1A basic HTML table](#1021a-basic-html-table)
-    - [10.2.2Aligning a table on a page](#1022aligning-a-table-on-a-page)
-    - [10.2.3Text wrap and side-by-side tables](#1023text-wrap-and-side-by-side-tables)
-      - [What this means in practice     ](#what-this-means-in-practice)
-      - [The problem with the align attribute     ](#the-problem-with-the-align-attribute)
-      - [How to stop text wrapping     ](#how-to-stop-text-wrapping)
-    - [10.2.4Setting the width of a table column](#1024setting-the-width-of-a-table-column)
-    - [10.2.5Setting the height of a table row](#1025setting-the-height-of-a-table-row)
-    - [10.2.6Horizontal alignment](#1026horizontal-alignment)
-    - [10.2.7Vertical alignment](#1027vertical-alignment)
-    - [10.2.8Spanning columns and rows](#1028spanning-columns-and-rows)
-    - [10.2.9Table border](#1029table-border)
-    - [10.2.10Giving a table a navigable name](#10210giving-a-table-a-navigable-name)
-    - [10.2.11Additional HTML tags](#10211additional-html-tags)
+<p align="right"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-10--0000-808080">
+
+<table align="center"><tr><!-- NAVIGATION BAR -->
+        <td align="center"><!-- PREVIOUS PAGE -->
+                <a class="hlink" href="../09-0500/09.05%20Links.md">
+                <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
+        <td align="center"><!-- PREVIOUS CHAPTER -->
+                <a class="hlink" href="../09-0000/09%20Links.md">
+                <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
+        <td align="center"><!-- HOME -->
+                <a class="hlink" href="../Home.md">
+                <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
+        <td align="center"><!-- NEXT CHAPTER -->
+                <a class="hlink" href="../11-0000/11%20Images.md">
+                <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
+        <td align="center"><!-- NEXT PAGE -->
+                <a class="hlink" href="../11-0000/11%20Images.md">
+                <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
+</tr></table><!-- END OF NAVIGATION BAR -->
+
+
+<!--- COLOPHON -->
+<p align="center"><strong><!-- NAME -->The PracticalSeries of Publications&nbsp;&mdash;&nbsp;<!-- COPYRGT -->Copyright &copy; 2025 Michael Gledhill</strong></p>
+
+<!--- LINKS AND LOCATION BADGE -->
+<p align="center">
+<!-- TOP   --><a href="#idtop">⬆️ Top</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
+<!-- EMAIL --><a href="mailto:mg@practicalseries.com">mg@practicalseries.com</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
+<!-- WEB   --><a href="https://practicalseries.com/">PracticalSeries of Publications</a>&nbsp;&emsp;&nbsp;|&nbsp;&emsp;
+<!-- REPO  --><a href="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation">Main repository</a></p>

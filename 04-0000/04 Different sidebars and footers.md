@@ -538,21 +538,21 @@
                      <td>
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="../C-1400/App%20C.14%20Segoe%20Character%20Set.md">
+                <a class="hlink" href="../03-0000/03%20A%20Wiki%20folder%20structure.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="../C-0000/App%20C%20Segoe%20Character%20Set.md">
+                <a class="hlink" href="../03-0000/03%20A%20Wiki%20folder%20structure.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
-                <a class="hlink" href="home">
-                <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
+                <a class="hlink" href="../Home.md">
+                <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
         <td align="center"><!-- NEXT CHAPTER -->
-                <a class="hlink" href="../E-0000/App%20E%20Template.md">
+                <a class="hlink" href="../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="../E-0000/App%20E%20Template.md">
+                <a class="hlink" href="../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
-</tr></table><!-- END OF NAVIGATION BAR -->                     
+</tr></table><!-- END OF NAVIGATION BAR -->
 </td></tr>
 </table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
@@ -699,3 +699,21 @@ Finally, like the sidebar, there is an identifier that shows the associated fold
 <br><br>            <!-- END OF PAGE - 🟥🟥🟥🟥🟥 PADDING🔽🔽(NO BLANK LINE ABOVE) -->
 <hr>                <!-- END OF PAGE - 🟥🟥🟥🟥🟥 SEPARATING LINE                   -->
 <a name="idend"></a><!-- END OF PAGE – 🟥🟥🟥🟥🟥 MARKER 🔼🔼                      -->
+
+<table align="center"><tr><!-- NAVIGATION BAR -->
+        <td align="center"><!-- PREVIOUS PAGE -->
+                <a class="hlink" href="../03-0000/03%20A%20Wiki%20folder%20structure.md">
+                <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
+        <td align="center"><!-- PREVIOUS CHAPTER -->
+                <a class="hlink" href="../03-0000/03%20A%20Wiki%20folder%20structure.md">
+                <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
+        <td align="center"><!-- HOME -->
+                <a class="hlink" href="../Home.md">
+                <img height="30px" src="https://psop.uk/wi-h" alt="../Home.md" title="../Home.md"></a></td>
+        <td align="center"><!-- NEXT CHAPTER -->
+                <a class="hlink" href="../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md">
+                <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
+        <td align="center"><!-- NEXT PAGE -->
+                <a class="hlink" href="../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md">
+                <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
+</tr></table><!-- END OF NAVIGATION BAR -->

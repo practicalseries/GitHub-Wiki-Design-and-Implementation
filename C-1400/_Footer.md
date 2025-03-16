@@ -16,8 +16,7 @@
         <td align="center"><!-- NEXT PAGE -->
                 <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
-</tr></table><!-- END OF NAVIGATION BAR -->es/wi-r.svg" alt="Next page" title="Next page"></a></td>
-</tr></table><!-- NAVIGATION BAR END -->
+</tr></table><!-- END OF NAVIGATION BAR -->
 
 <!--- COLOPHON -->
 <p align="center"><strong><!-- NAME -->The PracticalSeries of Publications&nbsp;&mdash;&nbsp;<!-- COPYRGT -->Copyright &copy; 2025 Michael Gledhill</strong></p>
