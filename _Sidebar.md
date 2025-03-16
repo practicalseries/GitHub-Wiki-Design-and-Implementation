@@ -597,8 +597,280 @@ app-e-template
 </details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
 
 
-
-
 <table align="center"><tr><!-- END OF PAGE -->
+        <td><a href="#idend"><strong>⬇️ End of page</strong></a></td>
+</tr></table>
+
+<hr>
+
+# 🟥 TEMPLATE SIDEBAR 🟥
+
+
+### Wiki contents<img width="107" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-cc--ssdd-808080">
+
+### Wiki contents<img width="107" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-00--0000-808080">
+
+### Wiki contents<img width="125" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-root-808080">
+
+### Wiki contents<img width="111" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-A--0000-808080">
+
+### Wiki contents<img width="111" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-B--0000-808080">
+
+### Wiki contents<img width="111" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-D--0000-808080">
+
+### Wiki contents<img width="113" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-E--0000-808080">
+
+### Wiki contents<img width="114" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-I--0000-808080">
+
+### Wiki contents<img width="114" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-J--0000-808080">
+
+### Wiki contents<img width="110" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-M--0000-808080">
+
+### Wiki contents<img width="110" height="1" src="https://psop.uk/wi-s" alt="Spacer"><!-- LOCATION BADGE --><img height="15px" src="https://img.shields.io/badge/loc-W--0000-808080">
+
+<table align="center"><tr><!-- NAVIGATION BAR -->
+        <td align="center"><!-- PREVIOUS PAGE -->
+                <a class="hlink" href="home">
+                <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
+        <td align="center"><!-- PREVIOUS CHAPTER -->
+                <a class="hlink" href="home">
+                <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
+        <td align="center"><!-- HOME -->
+                <a class="hlink" href="home">
+                <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
+        <td align="center"><!-- NEXT CHAPTER -->
+                <a class="hlink" href="home">
+                <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
+        <td align="center"><!-- NEXT PAGE -->
+                <a class="hlink" href="home">
+                <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
+</tr></table><!-- END OF NAVIGATION BAR -->
+
+<table align="center"><tr><!-- NAVIGATION BAR WITH BLANK ENTRIES-->
+        <td align="center"><!-- PREVIOUS PAGE -->
+                <img height="30px" src="https://psop.uk/wi-b"></td>
+        <td align="center"><!-- PREVIOUS CHAPTER -->
+                <img height="30px" src="https://psop.uk/wi-b"></td>
+        <td align="center"><!-- HOME -->
+                <a class="hlink" href="home">
+                <img height="30px" src="https://psop.uk/wi-h" alt="Home" title="Home"></a></td>
+        <td align="center"><!-- NEXT CHAPTER -->
+                <img height="30px" src="https://psop.uk/wi-b"></td>
+        <td align="center"><!-- NEXT PAGE -->
+                <img height="30px" src="https://psop.uk/wi-b"></td>
+</tr></table><!-- END OF NAVIGATION BAR -->
+
+
+<!-- PRACTICALSERIES COMMENT FIELD
+💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠
+
+USEFUL CHARACTERS ⛔🔼🔽⏹⏺✳✴*️⃣🔴🟠🟡🟢🔵🟣⚫⚪🟥🟧🟨🟩🟦🟪🟫⬛⬜
+🔶🔷🔸🔹🔺🔻💠❎✅✔⭕0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟🅰🅱🅾
+
+💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠
+
+
+<!-- PAGE REFERENCES FOR LINKS
+https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki/
+home                                                    ../Home.md
+casenotes                                               ../00-0000/CaseNotes.md
+licence                                                 ../00-0000/Licence.md
+01-Introducing-the-GitHub-wiki                          ../01-0000/01%20Introducing%20the%20GitHub%20Wiki.md
+02-cloning-a-wiki                                       ../02-0000/02%20Cloning%20a%20Wiki.md
+03-a-wiki-folder-structure                              ../03-0000/03%20A%20Wiki%20folder%20structure.md
+04-different-sidebars-and-footers                       ../04-0000/04%20Different%20sidebars%20and%20footers.md
+05-markdown,-github-markdown-and-html                   ../05-0000/05%20Markdown,%20GitHub%20Markdown%20and%20HTML.md
+06-basic-markdown-and-text-formatting                   ../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md
+06.04-basic-markdown-and-text-formatting                ../06-0400/06.04%20Basic%20Markdown%20and%20text%20formatting.md
+06.07-basic-markdown-and-text-formatting                ../06-0700/06.07%20Basic%20Markdown%20and%20text%20formatting.md
+06.10-basic-markdown-and-text-formatting                ../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md
+07-special-characters-and-escaping-characters           ../07-0000/07%20Special%20characters%20and%20escaping%20characters.md
+08-block-quotes,-lists-and-alerts                       ../08-0000/08%20Block%20quotes,%20lists%20and%20alerts.md
+09-links                                                ../09-0000/09%20Links.md
+09.05-links                                             ../09-0500/09.05%20Links.md
+10-tables                                               ../10-0000/10%20Tables.md
+11-images                                               ../11-0000/11%20Images.md
+11.05-images                                            ../11-0500/11.05%20Images.md
+12-contents,-collapsible-content-and-footnotes          ../12-0000/12%20Contents,%20collapsible%20content%20and%20footnotes.md
+13-code-fragments                                       ../13-0000/13%20Code%20fragments.md
+14-mathematical-formulae                                ../14-0000/14%20Mathematical%20formulae.md
+15-navigation-bars,-badges-and-buttons                  ../15-0000/15%20Navigation%20bars,%20badges%20and%20buttons.md
+16-practicalseries-wiki-conventions                     ../16-0000/16%20PracticalSeries%20Wiki%20conventions.md
+16.05-practicalseries-wiki-conventions                  ../16-0500/16.05%20PracticalSeries%20Wiki%20conventions.md
+16.06-practicalseries-wiki-conventions                  ../16-0600/16.06%20PracticalSeries%20Wiki%20conventions.md
+17-managing-a-wiki                                      ../17-0000/17%20Managing%20a%20Wiki.md
+app-a-html-escape-characters                            ../A-0000/App%20A%20HTML%20escape%20characters.md
+app-a.02-html-escape-characters                         ../A-0200/App%20A.02%20HTML%20escape%20characters.md
+app-b-emoji-list                                        ../B-0000/App%20B%20Emoji%20list.md
+app-b.03-emoji-list                                     ../B-0300/App%20B.03%20Emoji%20list.md
+app-c-segoe-character-set                               ../C-0000/App%20C%20Segoe%20Character%20Set.md
+app-c.02-segoe-character-set                            ../C-0200/App%20C.02%20Segoe%20Character%20Set.md
+app-c.03-segoe-character-set                            ../C-0300/App%20C.03%20Segoe%20Character%20Set.md
+app-c.04-segoe-character-set                            ../C-0400/App%20C.04%20Segoe%20Character%20Set.md
+app-c.05-segoe-character-set                            ../C-0500/App%20C.05%20Segoe%20Character%20Set.md
+app-c.06-segoe-character-set                            ../C-0600/App%20C.06%20Segoe%20Character%20Set.md
+app-c.07-segoe-character-set                            ../C-0700/App%20C.07%20Segoe%20Character%20Set.md
+app-c.08-segoe-character-set                            ../C-0800/App%20C.08%20Segoe%20Character%20Set.md
+app-c.09-segoe-character-set                            ../C-0900/App%20C.09%20Segoe%20Character%20Set.md
+app-c.10-segoe-character-set                            ../C-1000/App%20C.10%20Segoe%20Character%20Set.md
+app-c.11-segoe-character-set                            ../C-1100/App%20C.11%20Segoe%20Character%20Set.md
+app-c.12-segoe-character-set                            ../C-1200/App%20C.12%20Segoe%20Character%20Set.md
+app-c.13-segoe-character-set                            ../C-1300/App%20C.13%20Segoe%20Character%20Set.md
+app-c.14-segoe-character-set                            ../C-1400/App%20C.14%20Segoe%20Character%20Set.md
+app-d-3d-model                                          ../D-0000/App%20D%203D%20model.md
+app-e-template                                          ../E-0000/App%20E%20Template.md
+-->
+
+<hr>
+<hr>
+
+<!--          [SECTION_NAME] 🟢🟢🟢 UNNUMBERED, NO COLLAPSE -->
+&emsp;&emsp;&ensp;&thinsp;&hairsp;<a href="./page"><!-- HEAD -->Heading_Unnumbered_noCollapse</a>
+<!--                         🟩🟩🟩 -->
+
+<details><!-- [SECTION_NAME] 🟢🟢🟢 UNNUMBERED, COLLAPSIBLE -->
+<summary>&emsp;&ensp;&nbsp;<a href="./page"><!-- HEAD -->Heading_Unnumbered_Collapsible</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Heading](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Heading](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Heading](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Heading](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Heading](page#heading)<br>
+</details><!--               🟩🟩🟩 -->
+
+<details><!-- [SECTION_NAME] 🟢🟢🟢 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">0<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Heading_Chap_1_Digit</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[0.0&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[0.00&emsp;&emsp;&thinsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[0.0.0&emsp;&nbsp;&nbsp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[0.00.0&emsp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[0.00.00&ensp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟩🟩🟩 -->
+
+<details><!-- [SECTION_NAME] 🟢🟢🟢 SECTION GENERAL DOUBLE DIGIT CHAPTER-->
+<summary><a href="./page">00<!-- NUM -->&ensp;&thinsp;<!-- HEAD -->Heading_Chap_2_Digit</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[00.0&emsp;&emsp;&thinsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[00.00&emsp;&ensp;&nbsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[00.0.0&emsp;&ensp;&hairsp;HeadingSecHeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[00.00.0&ensp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[00.00.00&ensp;Heading](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟩🟩🟩 -->
+
+<!-- APPENDICES -->
+<hr><!-- SEPARATOR -->
+<details><!-- APPENDICES TOP 🔴🔴🔴 LEVEL COLLAPSE -->
+<summary><a href="./page"><!-- APP TOP LEVEL -->Appendices</a>
+</summary>
+<br><!-- BLANK LINE BELOW -->
+
+
+<details><!-- [APP_NAME]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Heading_App_Digit_A_C_R_V</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[A.0&emsp;&emsp;&nbsp;&nbsp;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[A.00&emsp;&emsp;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[A.0.0&emsp;&nbsp;&nbsp;&nbsp;&thinsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[A.00.0&emsp;&nbsp;&thinsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[A.00.00&ensp;&nbsp;&thinsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+<details><!-- [APP_NAME]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">B<!-- NUM -->&ensp;&nbsp;&nbsp;&thinsp;<!-- HEAD -->Heading_App_Digit_B_K_P_S_T_X_Y_Z</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[B.0&emsp;&emsp;&nbsp;&nbsp;&thinsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[B.00&emsp;&emsp;&thinsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[B.0.0&emsp;&nbsp;&nbsp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[B.00.0&emsp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[B.00.00&ensp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+<details><!-- [APP_NAME]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">D<!-- NUM -->&ensp;&nbsp;&nbsp;<!-- HEAD -->Heading_App_Digit_D_G_H_N_O_Q_U</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[D.0&emsp;&emsp;&nbsp;&nbsp;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[D.00&emsp;&emsp;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[D.0.0&emsp;&nbsp;&nbsp;&nbsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[D.00.0&emsp;&nbsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[D.00.00&ensp;&nbsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+<details><!-- [APP_NAME]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">E<!-- NUM -->&ensp;&nbsp;&nbsp;&nbsp;<!-- HEAD -->Heading_App_Digit_E_F_L</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[E.0&emsp;&emsp;&nbsp;&nbsp;&thinsp;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[E.00&emsp;&emsp;&thinsp;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[E.0.0&emsp;&nbsp;&nbsp;&nbsp;&emsp13;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[E.00.0&emsp;&nbsp;&thinsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[E.00.00&ensp;&nbsp;&nbsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+
+<details><!-- [APP_NAME]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">I<!-- NUM -->&ensp;&nbsp;&ensp;&nbsp;<!-- HEAD -->Heading_App_Digit_I</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[I.0&emsp;&emsp;&emsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[I.00&emsp;&emsp;&nbsp;&thinsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[I.0.0&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[I.00.0&emsp;&nbsp;&nbsp;&thinsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[I.00.00&emsp;&thinsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+<details><!-- [APP_NAME]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">J<!-- NUM -->&ensp;&nbsp;&ensp;&thinsp;<!-- HEAD -->Heading_App_Digit_J</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[J.0&emsp;&emsp;&ensp;&emsp13;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[J.00&emsp;&emsp;&nbsp;&hairsp;&hairsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[J.0.0&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&hairsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[J.00.0&emsp;&nbsp;&nbsp;&hairsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[J.00.00&emsp;&hairsp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+<details><!-- [[APP_NAME]    🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">M<!-- NUM -->&ensp;&nbsp;&#8202;<!-- HEAD -->Heading_App_Digit_M</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[M.0&emsp;&emsp;&ensp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[M.00&emsp;&emsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[M.0.0&emsp;&ensp;&emsp14;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[M.00.0&emsp;&emsp14;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[M.00.00&ensp;&thinsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+<details><!-- [APP_NAME]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
+<summary><a href="./page">W<!-- NUM -->&ensp;&nbsp;&#8202;<!-- HEAD -->Heading_App_Digit_W</a>
+</summary><!-- BLANK LINE BELOW -->
+
+&emsp;&ensp;&hairsp;[W.0&emsp;&emsp;&ensp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[W.00&emsp;&ensp;&puncsp;&thinsp;HeadingSec](page#heading)<br>
+&emsp;&ensp;&hairsp;[W.0.0&emsp;&ensp;&emsp14;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[W.00.0&emsp;&thinsp;HeadingDiv](page#heading)<br>
+&emsp;&ensp;&hairsp;[W.00.00&ensp;&hairsp;HeadingDiv](page#heading)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[HeadingInln](page#heading)<br>
+</details><!--               🟨🟨🟨 -->
+
+</details><!-- APPENDICES TOP🟥🟥🟥 LEVEL COLLAPSE -->
+
+
+<table align="center"><tr><!-- 🟣END OF PAG🟣E -->
         <td><a href="#idend"><strong>⬇️ End of page</strong></a></td>
 </tr></table>
