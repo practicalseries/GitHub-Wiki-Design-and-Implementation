@@ -550,7 +550,7 @@
                 <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="./C-1200/App%20C.12%20Segoe%20Character%20Set.md">
+                <a class="hlink" href="../C-1200/App%20C.12%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 </td></tr>
@@ -1664,7 +1664,7 @@
                 <a class="hlink" href="../D-0000/App%20D%203D%20model.md">
                 <img height="30px" src="https://psop.uk/wi-d" alt="Next chapter" title="Next chapter"></a></td>
         <td align="center"><!-- NEXT PAGE -->
-                <a class="hlink" href="./C-1200/App%20C.12%20Segoe%20Character%20Set.md">
+                <a class="hlink" href="../C-1200/App%20C.12%20Segoe%20Character%20Set.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
 </tr></table><!-- END OF NAVIGATION BAR -->
 
