@@ -552,7 +552,8 @@
         <td align="center"><!-- NEXT PAGE -->
                 <a class="hlink" href="../E-0000/App%20E%20Template.md">
                 <img height="30px" src="https://psop.uk/wi-r" alt="Next page" title="Next page"></a></td>
-</tr></table><!-- END OF NAVIGATION BAR -->                     </td></tr>
+</tr></table><!-- END OF NAVIGATION BAR -->                     
+</td></tr>
 </table>                             <!-- TABLE END  🔼🔼(BLANK LINE BELOW) -->
 
 <br><br>
