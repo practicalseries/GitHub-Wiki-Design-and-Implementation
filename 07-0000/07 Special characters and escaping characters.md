@@ -2148,10 +2148,10 @@ Comments <!-- Like this --> are not displayed
 
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="06.10-basic markdown and text formatting">
+                <a class="hlink" href="../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="06-basic markdown and text formatting">
+                <a class="hlink" href="../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="../Home.md">
