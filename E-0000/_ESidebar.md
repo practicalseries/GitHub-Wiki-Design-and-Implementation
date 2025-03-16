@@ -512,12 +512,12 @@ app-e-template                                          ../E-0000/App%20E%20Temp
 <!-- APPENDICES -->
 <hr><!-- SEPARATOR -->
 <details open><!-- APPENDICES TOP 🔴🔴🔴 LEVEL COLLAPSE -->
-<summary><a href="../../A-0000/App%20A%20HTML%20escape%20characters.md"><!-- APP TOP LEVEL -->Appendices</a>
+<summary><a href=".../A-0000/App%20A%20HTML%20escape%20characters.md"><!-- APP TOP LEVEL -->Appendices</a>
 </summary>
 <br><!-- BLANK LINE BELOW -->
 
 <details><!-- [APP A   ]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./../A-0000/App%20A%20HTML%20escape%20characters.md">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape </a>
+<summary><a href="../A-0000/App%20A%20HTML%20escape%20characters.md">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape </a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[A.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;HTML Escape codes, full list](../A-0000/App%20A%20HTML%20escape%20characters.md#a1html-escape-codes-full-list)<br>

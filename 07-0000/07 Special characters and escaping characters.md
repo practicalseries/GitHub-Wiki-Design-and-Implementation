@@ -1,6 +1,6 @@
 <a name="idtop"></a><!-- 🟢TOP OF PAGE - MARKER  (BLANK LINE BELOW)   -->
 
-<img width="896px" src="./ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
+<img width="896px" src="../ps-github-wiki-logo.svg" alt="PAL Logo showing Wiki Documentation heading"><!-- 🟢TOP OF PAGE - LOGO IMAGE -->
 <p align="right"><img height="18" src="https://img.shields.io/badge/Web_ID-0700--eaE-blue"></p>      <!-- 🟢TOP OF PAGE - WEB ID     --> 
 
 <table name="t-TOC-01" align="center"><!-- TABLE START🔽🔽(BLANK LINE ABOVE) -->
@@ -448,7 +448,7 @@
 <br><!-- BLANK LINE BELOW -->
 
 <details><!-- [APP A   ]     🟡🟡🟡 SECTION GENERAL SINGLE DIGIT CHAPTER-->
-<summary><a href="./../A-0000/App%20A%20HTML%20escape%20characters.md">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape </a>
+<summary><a href="../A-0000/App%20A%20HTML%20escape%20characters.md">A<!-- NUM -->&ensp;&nbsp;&nbsp;&#8202;<!-- HEAD -->Unicode and HTML escape </a>
 </summary><!-- BLANK LINE BELOW -->
 
 &emsp;&ensp;&hairsp;[A.1&emsp;&emsp;&nbsp;&nbsp;&thinsp;HTML Escape codes, full list](../A-0000/App%20A%20HTML%20escape%20characters.md#a1html-escape-codes-full-list)<br>
@@ -538,10 +538,10 @@
                      <td>
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="06.10-basic markdown and text formatting">
+                <a class="hlink" href="../06-1000/06.10%20Basic%20Markdown%20and%20text%20formatting.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
-                <a class="hlink" href="06-basic markdown and text formatting">
+                <a class="hlink" href="../06-0000/06%20Basic%20Markdown%20and%20text%20formatting.md">
                 <img height="30px" src="https://psop.uk/wi-u" alt="Previous chapter" title="Previous chapter"></a></td>
         <td align="center"><!-- HOME -->
                 <a class="hlink" href="../Home.md">
@@ -2073,8 +2073,8 @@ This argument falls down with the CLDR: `smiling face with hearts` and the GitHu
                         ${\LARGE \color{#C00000}\text{DON'T\ EVER!}}$
                         </td>
                         <td>
-<!-- LINK -->         <a href="./07-0000/02-images/sgsmiley.png" title="Use ctrl+click to open image in new tab">
-<!-- FIGURE -->         <img width="200" src="./07-0000/02-images/sgsmiley.png" alt="Smiley">
+<!-- LINK -->         <a href="../07-0000/02-images/sgsmiley.png" title="Use ctrl+click to open image in new tab">
+<!-- FIGURE -->         <img width="200" src="../07-0000/02-images/sgsmiley.png" alt="Smiley">
                         </a></td>
                     </tr>
 </table>                             <!-- FIGURE END  🔼🔼(BLANK LINE BELOW) -->
