@@ -558,7 +558,7 @@
 
 <br><br>
 
-# C.<!--         🟥H1🟥--><img width="097" height="1" src="https://psop.uk/wi-s" alt="Spacer">3D Model of a Sierpinski cube
+# D.<!--         🟥H1🟥--><img width="097" height="1" src="https://psop.uk/wi-s" alt="Spacer">3D Model of a Sierpinski cube
 
 The following is the ASCII STL for a Sierpinski cube (a fractal regresion of a cube), best viewed in the wireframe mode.
 
