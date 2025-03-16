@@ -538,7 +538,7 @@
                      <td>
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
                 <a class="hlink" href="../A-0000/App%20A%20HTML%20escape%20characters.md">
@@ -2497,7 +2497,7 @@ All the data in this table is available as an Excel spread sheet *(for convenien
 
 <table align="center"><tr><!-- NAVIGATION BAR -->
         <td align="center"><!-- PREVIOUS PAGE -->
-                <a class="hlink" href="../A-0200/App%20A.02%20HTML%20escape%20characters.md">
+                <a class="hlink" href="../B-0000/App%20B%20Emoji%20list.md">
                 <img height="30px" src="https://psop.uk/wi-l" alt="Previous page" title="Previous page"></a></td>
         <td align="center"><!-- PREVIOUS CHAPTER -->
                 <a class="hlink" href="../A-0000/App%20A%20HTML%20escape%20characters.md">
