@@ -19,9 +19,11 @@ The upshot of all this is that what started as a simple template page has become
 
 **&emsp;&emsp;&emsp;https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki**
 
-The Wiki Markdown files are also stored within this repository (in the folder files above). These are working copies of the Wiki and can be accessed here:
+**The Wiki Markdown files are also stored within this repository (in the folders above). These are working copies of the Wiki and can be accessed directly at the following link:**
 
 **&emsp;&emsp;&emsp;<a class="hlink" href="./Home.md">Home</a>**
+
+<br>
 
 **[:arrow_up: Top](#idtop)**<!-- Leave blank line above -->        <!-- LINK TO TOP START -->
 <br><br>  
