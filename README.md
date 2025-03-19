@@ -2,7 +2,7 @@
 
 <!-- PAL LOGO AND WEB ID START-->
 <img width="896px" src="https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/blob/master/ps-logo-github-wiki.svg?bxno=1436" alt="PAL Logo showing Wiki Documentation heading">
-<p align="right"><img height="18px" src="https://img.shields.io/badge/Web_ID-README.md--dka-blue.svg"></p>
+<p align="right"><img height="18px" src="https://img.shields.io/badge/Web_ID-README.md--ecs-blue.svg"></p>
 <!-- PAL LOGO AND WEB ID END-->
 
 # GitHub Wiki — Design and Implementation 
@@ -18,6 +18,10 @@ The upshot of all this is that what started as a simple template page has become
 **The full guide can be found on the Wiki pages for this repository, click the Wiki tab at the top of this page. Alternatively, follow this link:**
 
 **&emsp;&emsp;&emsp;https://github.com/practicalseries/GitHub-Wiki-Design-and-Implementation/wiki**
+
+The Wiki Markdown files are also stored within this repository (in the folder files above). These are working copies of the Wiki and can be accessed here:
+
+**&emsp;&emsp;&emsp;<a class="hlink" href="./Home.md">Home</a>**
 
 **[:arrow_up: Top](#idtop)**<!-- Leave blank line above -->        <!-- LINK TO TOP START -->
 <br><br>  
